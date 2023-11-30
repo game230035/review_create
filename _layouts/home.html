@@ -19,7 +19,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {% if post.thumbnail %}
-              <img class="thumbnail" src="{{ post.thumbnail }}" alt="" />
+              <img class="thumbnail" src="{{ post.thumbnail | prepend: site.baseurl }}" alt="" />
             {% endif %}
             
             {{ post.title | escape }}
