@@ -22,7 +22,7 @@ title: review&create
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   いろんなレビューやクリエイト作業の報告を行うサイトです。
-baseurl: "game230035/review_create" # the subpath of your site, e.g. /blog
+baseurl: "/review_create" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: ""
