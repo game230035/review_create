@@ -3,36 +3,38 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  {%- assign default_paths = site.pages | map: "path" -%}
+  {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-  {{ content }}
+  <ul class="post-list">
 
-  {%- if site.posts.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {% if post.thumbnail %}
-              <img class="thumbnail" src="{{ post.thumbnail | prepend: site.baseurl }}" alt="" />
-            {% endif %}
-            
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+  {%- for path in page_paths -%}
+    <li>
+      
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+    {%- assign my_page = site.pages | where: "path", path | first -%}
+    
+    {%- if my_page.title -%}
+      {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
+      <span class="post-meta">{{ my_page.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ my_page.url | relative_url }}">
+          {% if my_page.thumbnail %}
+            {% assign filename = my_page.path | split: "/" | last %}
+            <img class="thumbnail" src="{{ my_page.path | remove: filename | append: my_page.thumbnail }}" alt="" />
+          {% endif %}
+          
+          {{ my_page.title | escape }}
+        </a>
+      </h3>
+
+
+    {%- endif -%}
+    </li>
+  {%- endfor -%}
+</ul>
+
+
+
 
 </div>
