@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+.thumbnail {
+    width: 150px;  /* 幅を150ピクセルに固定 */
+    height: 100px; /* 高さを100ピクセルに固定 */
+    object-fit: cover; /* 画像のアスペクト比を保持しつつ、領域に合わせて調整 */
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
