@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   {%- assign default_paths = site.pages | map: "path" -%}
-  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  {%- assign page_paths = site.header_pages | default: default_paths | reverse -%}
 
   <ul class="post-list">
 
