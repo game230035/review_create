@@ -2,7 +2,7 @@
 layout: post
 title: "2024年　明けましておめでとうございます"
 date: 2024-01-01
-categories: [review_coc]
+categories: [review_bussiness]
 tags: []
 thumbnail: "./images/2024-01-07-17-43-39.png"
 ---

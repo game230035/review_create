@@ -2,7 +2,7 @@
 layout: post
 title: "働き方とかその辺の話"
 date: 2023-12-06
-categories: [review_coc]
+categories: [review_bussiness]
 tags: []
 thumbnail: "./images/2023-12-11-09-29-43.png"
 ---

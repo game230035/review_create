@@ -10,7 +10,7 @@ gem install jekyll bundler
 起動
 bundle exec jekyll serve
 
-
+## リンク
 http://127.0.0.1:4000/
 http://127.0.0.1:4000/review_create/
 
