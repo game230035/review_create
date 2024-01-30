@@ -25,3 +25,13 @@ sh /Volumes/DATADISK/Data/sh/reviewcreate_push.sh
 
 
 sh /Volumes/DATADISK/Data/sh/reviewcreate_create.sh
+
+
+#ゲーム制作
+#unity
+
+1024の落ち物ゲームの進捗。
+引き続きAndroid版リリースの準備中。
+機能を増やすか、すぐにリリースするか考え中です。
+
+どちらかというと、もうリリースしようという思いのほうが強い。
