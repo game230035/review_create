@@ -18,7 +18,7 @@ thumbnail: "./images/2024-01-07-21-24-22.png"
 <br>
 
 画面が切り替わりますので、「ユーザデータ削除」ボタンを押してください。  
-<img src="{{ './images/2024-01-07-21-27-39.png' }}" alt="image" width="250" class="center-image"/>
+<img src="{{ './images/2024-02-07-20-56-59.png' }}" alt="image" width="250" class="center-image"/>
 
 <br>
 
