@@ -7,21 +7,28 @@ layout: default
   
   {%- assign page_paths = site.header_pages | default: default_paths | reverse -%}
 
-  リリース中のアプリ  
+<br>
+<hr>
+<br>
+  <dev class="post-link-home-release">
+    リリース中のアプリ  
     <a class="post-link" href="./categories/create_puzzle/2024-02-12_ONEK_Release.html">
+      <img src="./categories/create_puzzle/images/icon.png" alt="" />
       [ONE K]についてはこちら
     </a>
+  </dev>
 
+<br>
+<hr>
+<br>
+
+<h2> 記事一覧 </h2>
   <ul class="post-list">
-    
-      
-
     {%- for path in page_paths -%}
       <li>
         {%- assign my_page = site.pages | where: "path", path | first -%}
         
         {%- if my_page.title and my_page.title != "" -%}
-          {%- unless my_page.url contains "create_puzzle" -%}
             {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
             <span class="post-meta">{{ my_page.date | date: date_format }}</span>
             <h3>
@@ -34,7 +41,6 @@ layout: default
                 {{ my_page.title | escape }}
               </a>
             </h3>
-          {% endunless %}
         {%- endif -%}
       </li>
     {%- endfor -%}
