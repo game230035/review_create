@@ -28,3 +28,55 @@ body {
     @include relative-font-size(1.5);
     background-color: rgb(253, 172, 74);
 }
+
+body {
+    counter-reset: chapter;
+}
+h1 {
+    counter-reset: sub-chapter;
+    margin: 2.5em 0 0.5em 0;
+}
+h2 {
+    padding: 0 0 0 20px;
+    border-left: solid 7px #01bd5a;
+    font-size: 30px;
+    line-height: 1.4;
+}
+h3 {
+    margin: 5px 0 0;
+    padding: 0 0 6px;
+    font-size: 26px;
+}
+
+h4 {
+    margin: 10px 0 0;
+    color: #364e96;/*文字色*/
+    border: solid 3px #364e96;/*線色*/
+    padding: 0.5em;/*文字周りの余白*/
+    border-radius: 0.5em;/*角丸*/
+    font-size: 18px;
+}
+
+h5 {
+    margin: 10px 0 0;
+    position: relative;
+    line-height: 1.4;
+    font-size: 18px;
+    padding: 0.2em 2.5em;
+    background: -webkit-linear-gradient(to right, rgb(255, 124, 111), #ffc994);
+    background: linear-gradient(to right, rgb(255, 124, 111), #ffc994);
+    color: white;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.56);
+}
+
+h5:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f00c";/*アイコンのユニコード*/
+    font-weight: 900;
+    position: absolute;/*絶対位置*/
+    font-size: 1em;/*サイズ*/
+    left: 12px;/*アイコンの位置*/
+    top: 6px;/*アイコンの位置*/
+    color: white; /*アイコン色*/
+    font-weight: 900;
+}
