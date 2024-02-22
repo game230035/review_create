@@ -37,21 +37,26 @@ h1 {
     margin: 0.5em 0 0.5em 0;
 }
 h2 {
-    padding: 0 0 0 20px;
+    margin: 20px auto;
+    padding: 20px;
     border-left: solid 7px #01bd5a;
     font-size: 30px;
     line-height: 1.4;
 }
 h3 {
-    margin: 5px 0 0;
-    padding: 0 0 6px;
-    font-size: 26px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 25px;
+    background-color: #00a6ff;
+    box-shadow: 7px -7px #00293e;
 }
+
 
 h4 {
     margin: 10px 0 0;
-    color: #364e96;/*文字色*/
+    color: #ffffff;/*文字色*/
     border: solid 3px #364e96;/*線色*/
+    background-color: #364e96;/*線色*/
     padding: 0.5em;/*文字周りの余白*/
     border-radius: 0.5em;/*角丸*/
     font-size: 18px;
