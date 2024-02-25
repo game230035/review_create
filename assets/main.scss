@@ -25,9 +25,23 @@ body {
 
 .post-link-home-release {
     display: block;
-    @include relative-font-size(1.5);
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 25px;
     background-color: rgb(253, 172, 74);
+    box-shadow: 7px -7px #3e2700;
 }
+
+.post-link-home-title {
+    display: block;
+    @include relative-font-size(1.5);
+    color: #ffffff;
+}
+
+.post-link-home-title a { /*アクセスしたことのないリンク*/
+    color:#ffffff;
+}
+
 
 body {
     counter-reset: chapter;
