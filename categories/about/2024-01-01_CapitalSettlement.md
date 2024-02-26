@@ -4,7 +4,7 @@ title: "資本金決済"
 date: 2024-01-01
 categories: [review_bussiness]
 tags: []
-thumbnail: "./images/privacypolicy.png"
+thumbnail: "./images/legal.png"
 ---
 
   
@@ -17,29 +17,36 @@ thumbnail: "./images/privacypolicy.png"
 
 ### 発行事業者
 コンボエンジニアリング（combo eng.）  
+
 <br>
 
 ### 支払い可能金額等
 上限はありません。  
+
 <br>
 
 ### 有効期限
 有効期限はありませんが、お客様が保有するアカウントが利用不可もしくは、お客様自身で削除した場合、未使用のアプリ内通過は全て失効します。  
+
 <br>
 
 ### お問い合わせ
-https://docs.google.com/forms/d/e/1FAIpQLSdPvZScmLd5ELiSL40mJaKo5wE-23-9rb4dNwvmwZNQxcbQqQ/viewform?usp=sf_link  
+<a class="post-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdPvZScmLd5ELiSL40mJaKo5wE-23-9rb4dNwvmwZNQxcbQqQ/viewform?usp=sf_link">  
+
 <br>
 
 ### 使用場所
 本アプリ内にて使用することが出来ます。  
+
 <br>
 
 ### 利用上の注意
 法令上必要な場合を除き、購入確定後のアプリ内通貨の返品、交換及び現金への換金には応じられませんので、ご了承ください。  
+
 <br>
 
 ### 不正取引による損失の補償等に関する方針
 当社は、前払式支払手段の不正取引（権限を有しない第三者の指図による前払式支払手段の利用）により、前払式支払手段の保有者に生じた損失について、サービス利用規約または法令に基づき当社が責任負う場合を除き、一切の責任を追わないものとします。なお、不正取引に関する通報、ご相談については上記お問い合わせにお願いいたします。  
+
 <br>
 
