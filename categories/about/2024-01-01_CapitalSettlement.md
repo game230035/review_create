@@ -31,7 +31,9 @@ thumbnail: "./images/legal.png"
 <br>
 
 ### お問い合わせ
-<a class="post-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdPvZScmLd5ELiSL40mJaKo5wE-23-9rb4dNwvmwZNQxcbQqQ/viewform?usp=sf_link">  
+<a class="post-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdPvZScmLd5ELiSL40mJaKo5wE-23-9rb4dNwvmwZNQxcbQqQ/viewform?usp=sf_link">
+お問い合わせ
+</a>
 
 <br>
 
