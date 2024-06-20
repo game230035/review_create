@@ -15,6 +15,12 @@ http://127.0.0.1:4000/
 http://127.0.0.1:4000/review_create/
 
 
+
+記事一覧
+/Users/comboengineering/work/review_create/_layouts/home.html
+
+
+
 css
 /Users/comboengineering/work/blog/review_create/assets/main.scss
 
