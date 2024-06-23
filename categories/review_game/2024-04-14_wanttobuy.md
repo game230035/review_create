@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "欲しいゲーム 2024年"
-date: 2024-03-24
+date: 2024-06-23
 categories: [create_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
@@ -15,13 +15,14 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 ##### ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP  
 定価:3800円  
-<a class="post-link" href="https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059">
-</a>
+<a class="post-link" href="https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059">リンク
+</a>  
 理由:GBでやったテリワンが結構楽しめた。それの続編＆リメイクを経て、かなりパワーアップしたものをプレイしてみたい。  
 
 ##### Dungeon Warfare 2  
 定価:700円？  
 <a class="post-link" href="https://apps.apple.com/au/app/dungeon-warfare-2/id1453661259?l=ja">
+リンク
 </a>  
 理由:前作が面白かった。クリアしていないけど。その続編も買ってみたい。  
 
