@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ランキング報酬"
+title: "[ONE K]ランキング報酬"
 date: 2024-02-13
 categories: [one_k]
 tags: []
