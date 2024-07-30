@@ -1,28 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .tab {
-            display: none;
-        }
-
-        .tab-label {
-            cursor: pointer;
-            padding: 10px;
-            display: inline-block;
-        }
-
-        .tab-content {
-            border: 1px solid #ccc;
-            padding: 10px;
-            display: none;
-        }
-
-        .tab:checked + .tab-label + .tab-content {
-            display: block;
-        }
-    </style>
-</head>
 
 ---
 layout: post
@@ -112,24 +87,33 @@ WiiUのOnlineサービスを閉じた理由って
 <br>
 
 
-<input type="radio" id="tab1" name="tabs" class="tab" checked>
-<label for="tab1" class="tab-label">スマホ:iOS</label>
-<div class="tab-content">
-    Content for Tab 1.
-</div>
+<div class="tab">
+    <input type="radio" id="tab1" name="tab-group" checked>
+    <label for="tab1">Tab 1</label>
+    
+    <input type="radio" id="tab2" name="tab-group">
+    <label for="tab2">Tab 2</label>
+    
+    <input type="radio" id="tab3" name="tab-group">
+    <label for="tab3">Tab 3</label>
+    
+    <div class="content" id="content1">
+      <h2>Tab 1 Content</h2>
+      <p>Content for the first tab.</p>
+    </div>
+    
+    <div class="content" id="content2">
+      <h2>Tab 2 Content</h2>
+      <p>Content for the second tab.</p>
+    </div>
+    
+    <div class="content" id="content3">
+      <h2>Tab 3 Content</h2>
+      <p>Content for the third tab.</p>
+    </div>
+  </div>
 
-<input type="radio" id="tab2" name="tabs" class="tab">
-<label for="tab2" class="tab-label">Steam</label>
-<div class="tab-content">
-    Content for Tab 2.
-</div>
-
-<input type="radio" id="tab3" name="tabs" class="tab">
-<label for="tab3" class="tab-label">SFC</label>
-<div class="tab-content">
-    Content for Tab 3.
-</div>
-
+  
 
 ### スマホ:iOS  
 
