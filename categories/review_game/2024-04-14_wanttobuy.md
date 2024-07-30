@@ -85,6 +85,26 @@ WiiUのOnlineサービスを閉じた理由って
   
 <br>
 
+
+<input type="radio" id="tab1" name="tabs" class="tab" checked>
+<label for="tab1" class="tab-label">スマホ:iOS</label>
+<div class="tab-content">
+    Content for Tab 1.
+</div>
+
+<input type="radio" id="tab2" name="tabs" class="tab">
+<label for="tab2" class="tab-label">Steam</label>
+<div class="tab-content">
+    Content for Tab 2.
+</div>
+
+<input type="radio" id="tab3" name="tabs" class="tab">
+<label for="tab3" class="tab-label">SFC</label>
+<div class="tab-content">
+    Content for Tab 3.
+</div>
+
+
 ### スマホ:iOS  
 
 ##### ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP  
