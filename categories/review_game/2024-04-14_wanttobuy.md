@@ -86,8 +86,8 @@ WiiUのOnlineサービスを閉じた理由って
 <br>
 
 
-- [スマホ:iOS](#tab-1)
-- [Tab 2](#tab-2)
+- [スマホ:iOS](#スマホ:iOS)
+- [Steam](#Steam)
 - [Tab 3](#tab-3)
 
 
