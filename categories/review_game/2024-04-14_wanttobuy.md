@@ -87,7 +87,7 @@ WiiUのOnlineサービスを閉じた理由って
 
 
 <details>
-<summary>iOS</summary>
+<summary>iOS2</summary>
   
 ##### ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP  
 価格:3800円  
