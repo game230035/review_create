@@ -99,3 +99,24 @@ h5:before {
     color: white; /*アイコン色*/
     font-weight: 900;
 }
+
+// 7/30 add
+.tab {
+    display: none;
+}
+
+.tab-label {
+    cursor: pointer;
+    padding: 10px;
+    display: inline-block;
+}
+
+.tab-content {
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: none;
+}
+
+.tab:checked + .tab-label + .tab-content {
+    display: block;
+}
