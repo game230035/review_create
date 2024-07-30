@@ -100,35 +100,3 @@ h5:before {
     font-weight: 900;
 }
 
-// 7/30 add
-.tab {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .tab input[type="radio"] {
-    display: none;
-  }
-  
-  .tab label {
-    cursor: pointer;
-    padding: 10px;
-    border: 1px solid #ccc;
-    margin-right: 2px;
-    display: inline-block;
-  }
-  
-  .tab .content {
-    display: none;
-    padding: 10px;
-    border: 1px solid #ccc;
-  }
-  
-  .tab input[type="radio"]:checked + label {
-    background-color: #eee;
-  }
-  
-  .tab input[type="radio"]:checked + label + .content,
-  .tab input[type="radio"]:checked + label + .content + input[type="radio"] + label + .content {
-    display: block;
-  }

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "欲しいゲーム 2024年"
@@ -87,33 +86,26 @@ WiiUのOnlineサービスを閉じた理由って
 <br>
 
 
-<div class="tab">
-    <input type="radio" id="tab1" name="tab-group" checked>
-    <label for="tab1">Tab 1</label>
-    
-    <input type="radio" id="tab2" name="tab-group">
-    <label for="tab2">Tab 2</label>
-    
-    <input type="radio" id="tab3" name="tab-group">
-    <label for="tab3">Tab 3</label>
-    
-    <div class="content" id="content1">
-      <h2>Tab 1 Content</h2>
-      <p>Content for the first tab.</p>
-    </div>
-    
-    <div class="content" id="content2">
-      <h2>Tab 2 Content</h2>
-      <p>Content for the second tab.</p>
-    </div>
-    
-    <div class="content" id="content3">
-      <h2>Tab 3 Content</h2>
-      <p>Content for the third tab.</p>
-    </div>
-  </div>
+<details>
+<summary>iOS</summary>
 
-  
+##### ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP  
+価格:3800円  
+
+    GBでやったテリワンが結構楽しめた。それの続編＆リメイクを経て、
+    かなりパワーアップしたものをプレイしてみたい。  
+
+[商品リンク](https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059){:target="_blank"}  
+
+
+##### Dungeon Warfare 2  
+価格:700円  
+
+    前作が面白かった。クリアしていないけど。その続編も買ってみたい。  
+
+[商品リンク](https://apps.apple.com/jp/app/%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%95%E3%82%A7%E3%82%A22/id1453661259){:target="_blank"}  
+<br>
+</details>
 
 ### スマホ:iOS  
 
