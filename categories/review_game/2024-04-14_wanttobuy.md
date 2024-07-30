@@ -1,3 +1,29 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .tab {
+            display: none;
+        }
+
+        .tab-label {
+            cursor: pointer;
+            padding: 10px;
+            display: inline-block;
+        }
+
+        .tab-content {
+            border: 1px solid #ccc;
+            padding: 10px;
+            display: none;
+        }
+
+        .tab:checked + .tab-label + .tab-content {
+            display: block;
+        }
+    </style>
+</head>
+
 ---
 layout: post
 title: "欲しいゲーム 2024年"
