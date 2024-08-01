@@ -10,6 +10,23 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 <img src="{{ './images/2024-01-29-13-32-40.png' }}" alt="image" width="250" class="center-image"/>
   
 ## ほしいゲーム　Ver2024年
+
+<br>
+
+- [iOS](#iOS)
+- [Steam](#steam)
+- [SFC](#sfc)
+- [GBA](#gba)
+- [NDS(3DS)](#nds3ds)
+- [Nintendo64](#nintendo64)
+- [GameCube](#gamecube)
+- [PlayStation](#playstation)
+- [PlayStation2](#playstation2)
+- [PSP](#psp)
+- [Switch](#switch)
+
+<br>
+
 ### レトロ〜新作ゲーム
 最近は新作ゲームよりレトロゲームにハマっています。  
 <br>
@@ -86,28 +103,6 @@ WiiUのOnlineサービスを閉じた理由って
 コンテンツをそういう扱いにするのは少し悲しい。  
   
 <br>
-
-
-
-<br>
-
-
-- [iOS](#iOS)
-- [Steam](#steam)
-- [SFC](#sfc)
-- [GBA](#gba)
-- [NDS(3DS)](#nds3ds)
-- [Nintendo64](#nintendo64)
-- [GameCube](#gamecube)
-- [PlayStation](#playstation)
-- [PlayStation2](#playstation2)
-- [PSP](#psp)
-- [Switch](#switch)
-
-
-<br>
-<br>
-
 
 
 ### iOS  
@@ -266,9 +261,8 @@ WiiUのOnlineサービスを閉じた理由って
     無双できてある意味爽快感がある記憶。
     いくつか種類が出ていて、違いを楽しみたい。    
         
+⇒購入済  
 [　　](https://www.suruga-ya.jp/search?category=20104&search_word=&series=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6){:target="_blank"}  
-
-⇒購入済
 <br>
 
 ##### スーパーロボット大戦R
@@ -284,11 +278,11 @@ WiiUのOnlineサービスを閉じた理由って
 <br>
 
 ##### スーパーロボット大戦OG
-⇒購入済
+⇒購入済  
 <br>
 
 ##### スーパーロボット大戦OG2
-⇒購入済
+⇒購入済  
 <br>
 
 ##### カスタムロボGX
@@ -297,7 +291,7 @@ WiiUのOnlineサービスを閉じた理由って
     個人的にはこれはRPGでしたね。。  
     ネット記事見ながらもう少し勧めたい。  
 
-⇒購入済
+⇒購入済  
 <br>
 
 
@@ -315,6 +309,7 @@ WiiUのOnlineサービスを閉じた理由って
 
 ##### ゲームボーイウォーズアドバンス 1＋2
 評価良いので購入したい。  
+ただプレミア付いて高い。  
 
 <br>
 
@@ -322,7 +317,7 @@ WiiUのOnlineサービスを閉じた理由って
 ポケモンはもうお腹いっぱい感もあるけど、  
 このエメラルドはいつまでも値下がりせず、ずっと人気。  
 評価良いので購入したい。  
-
+これもプレミア付いて高い。  
 <br>
 
 ### NDS(3DS)
@@ -367,12 +362,6 @@ WiiUのOnlineサービスを閉じた理由って
     まずそのアドバンスの1+2からと思ったけど、プレミア付いていて、7000円ほどする。  
     こっちは4000〜5000円で、、まぁそれでも高いけど。  
     
-<br>
-
-##### わがままファッション GIRLS MODE
-    なんとなく。。。  
-    乙女心を知ろうということで。  
-
 <br>
 
 ##### メテオス
