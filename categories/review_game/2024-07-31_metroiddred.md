@@ -5,6 +5,7 @@ date: 2024-07-31
 categories: [create_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
+permalink: /metroid-dred/
 ---
 
 ## 簡易チャート  
