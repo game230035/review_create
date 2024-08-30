@@ -212,8 +212,7 @@ NintendoYouTubeチャンネルのIndie Worldで特集されてた。
     気持ち良いスピード感。
     耳に残る音楽。
     爽快なアクション
-
-⇒購入済  
+⇒[プレイ済]({{ site.baseurl }}/categories/review_game/review_rockmanx/index.html)  
 <br>
 
 ##### ロックマンX2
@@ -284,7 +283,16 @@ NintendoYouTubeチャンネルのIndie Worldで特集されてた。
 
 
 
+
+
+
+
+
 ### GBA
+##### メトロイドフュージョン
+⇛[プレイ済]({{ site.baseurl }}/categories/review_game/metroid-fusion/index.html)  
+<br>
+
 ##### キャッスルヴァニア
     メトロイドヴァニアの語源ということでやってみたい。  
     ただ、GBAソフトだとプレミア付いて、値段が高すぎる。  
@@ -651,6 +659,15 @@ RTAinJapanを見て、やりたくなった。
 
 <br>
 
+
+
+
+
+
+
+
+
+
 ### Switch
     
     ソフト自体の数はかなり多いが、  
@@ -666,8 +683,8 @@ RTAinJapanを見て、やりたくなった。
   
 
 ##### メトロイド ドレッド
-⇛購入済  
-[⇛プレイ済み]({{ site.baseurl }}/metroid-dred/)  
+⇛[プレイ済]({{ site.baseurl }}/categories/review_game/metroid-dred/index.html)  
+
 
   
 <br>
