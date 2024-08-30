@@ -212,6 +212,7 @@ NintendoYouTubeチャンネルのIndie Worldで特集されてた。
     気持ち良いスピード感。
     耳に残る音楽。
     爽快なアクション
+
 ⇒[プレイ済]({{ site.baseurl }}/categories/review_game/review_rockmanx/index.html)  
 <br>
 
