@@ -2,7 +2,7 @@
 layout: post
 title: "[レビュー＆攻略]ゼルダの伝説"
 date: 2024-08-04
-categories: [create_game]
+categories: [review_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
 ---

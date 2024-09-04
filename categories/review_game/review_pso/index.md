@@ -2,7 +2,7 @@
 layout: post
 title: "[レビュー]PSO ep1&2"
 date: 2024-07-31
-categories: [create_game]
+categories: [review_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
 permalink: /pso/
