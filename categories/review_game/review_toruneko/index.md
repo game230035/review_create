@@ -4,9 +4,11 @@ title: "[レビュー＆攻略]メトロイド ドレッド"
 date: 2024-07-31
 categories: [review_game]
 tags: []
-thumbnail: "./images/2024-01-29-13-32-40.png"
+thumbnail: "./images/2024-09-11-07-39-43.png"
 permalink: /metroid-dred/
 ---
+
+<img src="{{ './images/2024-09-11-07-39-43.png' }}" alt="image" width="250"/>
 
 ## 簡易チャート  
 
@@ -114,4 +116,5 @@ permalink: /metroid-dred/
 
 そういう意味で、SFCですが、かなり完成度が高いゲームだと思いました。
 
-はい感想としては以上となります。
+はい感想としては以上となります。  
+
