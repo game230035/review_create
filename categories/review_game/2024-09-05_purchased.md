@@ -147,7 +147,7 @@ WiiUのOnlineサービスを閉じた理由って
 ### SFC
 ##### トルネコの大冒険 不思議のダンジョン
 ⇛[プレイ済]({{ site.baseurl }}/categories/review_game/review_toruneko/index.html)  
-<br
+<br>
 
 ##### スーパーメトロイド
 ⇒[プレイ済]({{ site.baseurl }}/categories/review_game/review_metroidsuper/index.html)  
