@@ -8,6 +8,9 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 permalink: /metroid-dred/
 ---
 
+<img src="{{ './images/2024-09-25-07-02-28.png' }}" alt="image" width="500"/>  
+<br>
+
 ## 簡易チャート  
 
 エリア、ボス、取得アクション、エネルギータンク、所感のみ記載  

@@ -71,417 +71,496 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
 <br>
 <br>
 
+<br>
+<table>
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">iOS</th>
+    </tr>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>想定価格</td>
+        <td>購入済</td>
+        <td>攻略済</td>
+        <td>その他</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP</td>
+        <td>3800円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td>
+        <a href="https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059" target="_blank">商品リンク</a>
+        </td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Dungeon Warfare</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td>
+        </td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Dungeon Warfare 2</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td>
+        </td>
+    </tr>
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">Steam</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>キャッスルヴァニア</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ドラゴンクエストⅢ　HD-２D</td>
+        <td>7678円</td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>溶鉄のマルフーシャ</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>キャッスルヴァニア ドミナスコレクション</td>
+        <td>2750円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Ghost of Tsushima DIRECTOR'S CUT</td>
+        <td>7590円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Palworld / パルワールド</td>
+        <td>3400円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>黒神話：悟空</td>
+        <td>7590円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>都市伝説解体センター</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>モンスターファーム1・2</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">スーパーファミコン</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>トルネコの大冒険 不思議のダンジョン</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_toruneko/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ロックマンX</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_rockmanx/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ロックマンX2</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ロックマンX3</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_rockmanx3/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーメトロイド</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidsuper/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ダービースタリオンIII</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説 神々のトライフォース</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>シャイニングスコーピオン</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>アクトレイザー</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>THE FIREMEN ザ・ファイヤーメン</td>
+        <td>5000円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>46億年物語</td>
+        <td>8000円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">ゲームボーイアドバンス</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイド　ゼロミッション</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidzeromission/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>黄金の太陽　開かれし封印</td>
+        <td>1000円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ポケットモンスター エメラルド</td>
+        <td>4000円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>キングダム ハーツ Re:チェイン オブ メモリーズ</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ミスタードリラーエース ふしぎなパクテリア</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
 
-### iOS  
 
-##### ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP  
-価格:3800円  
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">ニンテンドーDS</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>カードヒーロー(DS)</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ファミコンウォーズDS</td>
+        <td>4300円</td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
 
-    GBでやったテリワンが結構楽しめた。それの続編＆リメイクを経て、
-    かなりパワーアップしたものをプレイしてみたい。  
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">ニンテンドー3DS</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
 
-[商品リンク](https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059){:target="_blank"}  
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">GameCube</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイドプライム2　ダークエコーズ</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+
+
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">Wii</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイドプライム3　コラプション</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
 
 
 
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">Nintendo Switch</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイド プライム リマスタード</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説　ティアーズオブキングダム</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説 スカイウォードソード HD</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説 夢をみる島</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説 知恵のかりもの</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゴーストトリック</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Pikmin 1&2</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Pikmin 3　デラックス</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Pikmin 4</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>逆転裁判シリーズ</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>逆転検事1&2</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
 
-
-
-
-
-
-
-### Steam  
-
-##### キャッスルヴァニア ドミナスコレクション
-価格:2750円
-
-    DS版の数万円となっているプレミアソフトを収録  
-    ぜひプレイしてみたい。  
-
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">PlayStation1/2</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ロックマンX4</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>チョロQ3</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ロックマンDASH 鋼の冒険心</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>機動戦士ガンダム 1年戦争</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>マックスペイン</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メダル オブ オナー ライジングサン</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>タイムスプリッター ~時空の侵略者~</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>アルゴスの戦士</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>アヌビス ゾーン・オブ・エンダーズ</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>アナザーセンチュリーズエピソード</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+</table>
 <br>
 
-##### Ghost of Tsushima DIRECTOR'S CUT
-価格:7590円
-
-    日本が舞台のオープンワールドゲーム。  
-    面白いと評判なので購入したい。  
-
-<br>
-
-##### Palworld / パルワールド
-価格:3400円
-
-    ポケモンのパクリゲーとして話題になったゲーム。  
-    自分はなんとも思わない。  
-    駄目だったらとっくに訴えられているし。  
-    (ポケモン自体実際の生物を抽象的にデフォルメしているし、逆に訴えるの難しいと思うけど。)  
-    まぁ、それは置いておいて、実際おもしろいらしいし是非プレイしたい。  
-
-<br>
-
-
-
-##### 黒神話：悟空
-価格:7590  
-  
-    中国製ゲームで、中国人にすごい人気らしい。  
-    で、その通りゲームのクオリティも大変良いらしく、ぜひとも購入したい。  
-  
 
 
 <br>
-
-##### 都市伝説解体センター
-    NintendoYouTubeチャンネルのIndie Worldで特集されてた。  
-    ちょっとおもしろそうだったので、注目。  
-
-<br>
-
-
-
-
-##### モンスターファーム1・2
-    2は子供の時ハマったなぁ。  
-    ただ、エンディング見れなかった気が。  
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### SFC
-##### アクトレイザー
-価格:500〜1000円
-
-    面白いとのこと。  
-    アクションと都市シミュレーションが合わさったものとのこと。  
-    アクション単体だったらちょっと興味ないのだけど、シミュレーションの建設がアクションにも影響するということで。  
-    プレミアとかついてないので、購入してみたい。  
-
-<br>
-
-##### 46億年物語
-価格:4000円〜10000円
-
-    面白そう。  
-    でも高いなぁ。プレミア付いている。  
-
-<br>
-
-
-##### THE FIREMEN ザ・ファイヤーメン
-価格:6000〜10000円
-
-    これも面白そう。  
-    で、プレミアついてる。
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-### GBA
-##### 黄金の太陽　開かれし封印
-価格:1000円ほど  
-
-    子供の頃めちゃくちゃハマった。  
-    ただ今やると、つまらないかもで本当にそうなのか感想も得たい。  
-    クリアしたとき、続くと知って絶望した。  
-    
-    続編「失われし時代」がただただ待ち遠しくて。  
-    ただ、続編は全然おもしろくなかったことを今でも覚えている。  
-    続編は買わない。  
-
-<br>
-
-
-##### ポケットモンスター エメラルド
-    ポケモンはもうお腹いっぱい感もあるけど、  
-    このエメラルドはいつまでも値下がりせず、ずっと人気。  
-    評価良いので購入したい。  
-    これもプレミア付いて高い。このバージョンだけ高い感じ  
-    ゲーム内のシステムがエメラルドだけ違うよう。  
-    バトルフロンティアというエンドコンテンツがあるから！？  
-
-<br>
-
-
-
-##### キングダム ハーツ Re:チェイン オブ メモリーズ
-    評価がよい。  
-    
-<br>
-
-
-##### ミスタードリラーエース ふしぎなパクテリア
-    RTAinJapanを見て、面白そうだったので、購入しようかと。  
-    
-<br>
-
-
-
-
-
-
-
-
-
-
-### NDS
-    良ゲーが多そうだし、GBAの良ゲーもリマスター形式で出ているので、GBAの影が薄くなっている。  
-    Newニンテンドー3DSでもDSのソフトできるので、そっちでやる。
-　　
-
-⇒購入済  
-    
-<br>
-
-##### カードヒーロー(DS)
-    何か面白そう。  
-
-<br>
-
-
-##### ファミコンウォーズDS
-4300〜7000円
-
-    かなり評価が高い。  
-    GBAで発売されたアドバンスウォーズ1+2の続編ということ。  
-    まずそのアドバンスの1+2からと思ったけど、プレミア付いていて、7000円ほどする。  
-    こっちは4000〜5000円で、、まぁそれでも高いけど。  
-    
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 3DS
-    DSと同じで、こっちのほうが良ゲーが多い。  
-    まずは本体から購入しく、購入品はNewニンテンドー3DSで決定。  
-    新品が良いけどそれだと35000円ほど。。たけぇ。
-    中古でも15000円ほどする。  
-    
-    Newニンテンドー3DSを購入したけど、、LLが良かったかも。  
-    本体が小さめでアクションがめちゃくちゃやりづらい。  
-    
-
-⇒購入済  
-    
-<br>
-
-
-
-
-
-
-
-
-
-
-
-### GameCube
-    wiiを持っているので、プレイ可能  
-    こっちも当時は結構ハマっていろいろプレイしたなぁ。  
-    任天堂衰退期に割には、個人的には面白いソフトが多いイメージ。  
-    ここには書いていないけど、スマブラとかやり込んだし、マリオ系とかも面白かった記憶がある。  
-      
-    Nintendo 64で出したものを良い感じで成熟させているものが多い。  
-    ただゼルダ系はちょっとがっかりした。  
-
-    まぁ、ここからWiiへ盛り返したのも納得。  
-
-<br>
-
-
-##### メトロイドプライム2　ダークエコーズ
-    良ゲーに成り下がってしまったが、クオリティは相変わらず。
-    Switch版でリマスタードされたら、買いたい。  
-
-<br>
-
-
-
-
-
-
-
-
-
-
-### Wii
-    所持済。  
-    ポインタ操作が辛い。  
-
-##### メトロイドプライム3　コラプション
-    Wiiのポインタ操作でめちゃくちゃやりづらかった。  
-    これこそ早くSwitchで出てほしい。  
-  
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-### PlayStation
-##### ロックマンX4
-    楽しいと思えるXシリーズも4までかなというカンジ。  
-    
-    4は本格的にゼロが参戦するするので、プレイしたいのだが、  
-    ストーリーが暗めなカンジしていて、気持ちよく終われない。  
-    X3で終わらせたほうがよいかも。  
-    
-
-<br>
-
-##### チョロQ3
-    クオリティ高く、BGMとか今でも覚えている。  
-    RTAinJapanを見て、やりたくなった。  
-  
-  
-<br>
-
-
-##### ロックマンDASH 鋼の冒険心
-    中古で1600円ほど  
-    異色のRPGロックマンということでやってみたい。  
-    おそらく過去やったことあると思うんだけど、忘れてしまった。  
-    PSP版もあるので、そっちを買うかな。。  
-    
-
-<br>
-
-
-
-
-
-
-
-
-
-### PSP
-##### モンハン系
-    PSPといったらこれ。  
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Switch
-    
-    めちゃくちゃソフトでているが、買うのは主に任天堂系のみ  
-    Steamで出ているのであれば、そっちのプラットフォームを優先。  
-    逆転裁判のようなレトロゲーのコレクションであれば、  
-    ロード時間も少ないと思うのでSwitch版を買っても良いかも。  
-    
-    
-
-
-##### メトロイド プライム リマスタード
-
-<br>
-
-
-##### ゼルダの伝説　ティアーズオブキングダム
-    ブレワイもやっていないので。  
-    いつか購入したい  
-
-<br>
-
-##### ゼルダの伝説 スカイウォードソード HD
-
-
-<br>
-
-##### ゼルダの伝説 夢をみる島
-
-<br>
-
-##### ゼルダの伝説 知恵のかりもの
-
-<br>
-
-##### ゴーストトリック
-    良ゲーとして人気がある。  
-    逆転裁判のプロデューサーが作成したとのこと。  
-    Switchに移植されていて、Switch版のほうが少し操作し易い程度とのことだが。  
-    
-<br>
-
-
-
-##### Pikmin 3　デラックス
-
-<br>
-
-##### Pikmin 4
-    あんまり評判良くない。  
-
-<br>
-
-
-
-
-##### 逆転裁判
-    パッケージが種類多い。  
-
-    Switch版の「逆転裁判123+456 コレクション」を買うべきか。    
-    
-<br>
-
-##### 逆転検事1&2
-    逆転裁判と似て、こちらも内容が濃いということで。  
-    購入してみたい。  
-    ただ、1＆2の場合、SwitchかSteamになる。  
-    
-
-<br>
-
