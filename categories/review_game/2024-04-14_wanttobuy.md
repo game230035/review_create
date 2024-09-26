@@ -13,62 +13,11 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 <br>
 
-- [iOS](#ios)
-- [Steam](#steam)
-- [SFC](#sfc)
-- [GBA](#gba)
-- [NDS](#nds)
-- [3DS](3ds)
-- [Nintendo64](#nintendo64)
-- [GameCube](#gamecube)
-- [PlayStation](#playstation)
-- [PlayStation2](#playstation2)
-- [PSP](#psp)
-- [Switch](#switch)
+- [2024年のゲーム事情について](#2024年のゲーム事情について)
+- [筐体について](#筐体について)
+- [吸い出しついて](#吸い出しついて)
+- [SwitchのOnlineサービスでええやろ！という声について](#SwitchのOnlineサービスでええやろ！という声について)
 
-<br>
-
-### レトロ〜新作ゲーム
-2024年のゲーム事情  
-  
-
-- スマホのソシャゲはほとんどやらなくなった
-    - 4月でクラクラ引退
-    - 5月でモンスト引退
-    - 8月でモンハンNow引退
-
-- コンシューマゲームにハマり中
-    - 5月にGBASPを購入
-    - 7月にNew3DSを購入
-    - 8月にSwitch2台目を購入(1台目は家族に取られた)
-
-特にレトロゲームにハマっています。  
-<br>
-理由としては、クリアまでサクッとプレイできるから。  
-<br>
-例えば、  
-GBAのメトロイドフュージョンは  
-簡単モードで3時間でクリアできる。  
-1日1時間未満のプレイでも1週間程度で満足感を味わえる。  
-<br>
-一方、Switchのゼルダの伝説　ブレスオブザワイルドは  
-クリアまで20~30時間かかり、途中で間が空き、ストーリーののめり込めない可能性があった。  
-
-<br>
-ということで、レトロゲームから最新ゲーム含めた、購入したいソフトをここで上げていきます。  
-<br>
-RPGは苦手で少なめ。  
-アクション多め。  
-ネットで評価が高いものを購入予定。  
-<br>
-
-### 筐体について
-基本ニンテンドー筐体が多め。  
-SCE系はSteamで結構プレイできるので、そっちを優先する。  
-例えば、インディーズゲーム系はSteamでもPSでもSwitchでもできるけど、Steamで購入。  
-インディーズではないけど、  
-DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入したら快適すぎて、段違いだった。  
-<br>
 <br>
 
 <br>
@@ -112,9 +61,16 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <th style="background-color: #ffcc00; color: #000;">Steam</th>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>キャッスルヴァニア</td>
+        <td>キャッスルヴァニア アドバンスコレクション</td>
         <td></td>
         <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>キャッスルヴァニア ドミナスコレクション</td>
+        <td>2750円</td>
+        <td>-</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -132,13 +88,7 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td>-</td>  
         <td></td>
     </tr>
-    <tr style="background-color: #ffffff;">
-        <td>キャッスルヴァニア ドミナスコレクション</td>
-        <td>2750円</td>
-        <td>-</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
+    
     <tr style="background-color: #ffffff;">
         <td>Ghost of Tsushima DIRECTOR'S CUT</td>
         <td>7590円</td>
@@ -170,10 +120,13 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
     <tr style="background-color: #ffffff;">
         <td>モンスターファーム1・2</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
+
+
+
     <tr >
         <th style="background-color: #ffcc00; color: #000;">スーパーファミコン</th>
     </tr>
@@ -235,7 +188,7 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
     </tr>
     <tr style="background-color: #ffffff;">
         <td>アクトレイザー</td>
-        <td></td>
+        <td>1000円</td>
         <td>-</td>
         <td>-</td>  
         <td></td>
@@ -261,6 +214,10 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td></td>  
         <td></td>
     </tr>
+
+
+
+
     <tr >
         <th style="background-color: #ffcc00; color: #000;">ゲームボーイアドバンス</th>
     </tr>
@@ -269,6 +226,76 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidzeromission/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイド　フュージョン</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidfusion/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーロボット大戦A</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーロボット大戦R</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーロボット大戦D</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーロボット大戦J</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーロボット大戦OG</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーロボット大戦OG2</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>カスタムロボGX</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゲームボーイウォーズアドバンス 1＋2</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ポケモン不思議のダンジョン 赤の救助隊</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -294,18 +321,16 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ミスタードリラーエース ふしぎなパクテリア</td>
-        <td></td>
+        <td>1800円</td>
         <td>-</td>
         <td>-</td>  
         <td></td>
     </tr>
-    <tr style="background-color: #ffffff;">
-        <td></td>
-        <td></td>
-        <td>-</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
+
+
+
+
+
 
 
     <tr >
@@ -326,37 +351,108 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>メトロイド プライム ハンターズ</td>
         <td></td>
-        <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>ロックマンゼロコレクション</td>
         <td></td>
-        <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
+    <tr style="background-color: #ffffff;">
+        <td>BIOHAZARD Deadly Silence</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>超操縦メカMG</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>怪獣バスターズ　パワード</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+
+
+
+
+
+
+
 
     <tr >
         <th style="background-color: #ffcc00; color: #000;">ニンテンドー3DS</th>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>メトロイド サムスリターンズ</td>
         <td></td>
-        <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説 神々のトライフォース2</td>
         <td></td>
-        <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説 時のオカリナ</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説 ムジュラの仮面</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>BIOHAZARD リベレーションズ</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイドプライム フェデレーションフォース</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ドラクエ8</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+
+
+
+
+
+
+
+
 
     <tr >
         <th style="background-color: #ffcc00; color: #000;">GameCube</th>
@@ -369,12 +465,23 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>ガチャフォース</td>
         <td></td>
-        <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
+    <tr style="background-color: #ffffff;">
+        <td>PSO 1&2</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_pso/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+
+
+
+
 
 
     <tr >
@@ -388,9 +495,9 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>メトロイド otherM</td>
         <td></td>
-        <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -404,6 +511,20 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td>メトロイド プライム リマスタード</td>
         <td></td>
         <td>-</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイド ドレッド</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説　ブレスオブザワイルド</td>
+        <td></td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -443,16 +564,16 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>Pikmin 1&2</td>
+        <td>Pikmin 1+2</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Pikmin 3　デラックス</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -564,3 +685,102 @@ DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入し�
 
 
 <br>
+
+### 2024年のゲーム事情について
+2024年のゲーム事情として以下となります。  
+  
+- スマホのソシャゲはほとんどやらなくなった
+    - 4月でクラクラ引退
+    - 5月でモンスト引退
+    - 8月でモンハンNow引退
+
+- コンシューマゲームにハマり中
+    - 5月にGBASPを購入
+    - 7月にNew3DSを購入
+    - 8月にSwitch2台目を購入(1台目は家族に取られた)
+
+特にレトロゲームにハマっています。  
+<br>
+理由としては、クリアまでサクッとプレイできるから。  
+<br>
+例えば、  
+GBAのメトロイドフュージョンは  
+簡単モードで3時間でクリアできる。  
+1日1時間未満のプレイでも1週間程度で満足感を味わえる。  
+<br>
+一方、Switchのゼルダの伝説　ブレスオブザワイルドは  
+クリアまで20~30時間かかり、途中で間が空き、ストーリーののめり込めない可能性があった。  
+
+<br>
+ということで、レトロゲームから最新ゲーム含めた、購入したいソフトをここで上げていきます。  
+<br>
+RPGは苦手で少なめ。  
+アクション多め。  
+ネットで評価が高いものを購入予定。  
+<br>
+
+### 筐体について
+基本ニンテンドー筐体が多め。  
+SCE系はSteamで結構プレイできるので、そっちを優先する。  
+例えば、インディーズゲーム系はSteamでもPSでもSwitchでもできるけど、Steamで購入。  
+インディーズではないけど、  
+DarkSoulをSwitchで買ったらロードが長すぎて、Steamで再購入したら快適すぎて、段違いだった。  
+<br>
+<br>
+
+### 吸い出しついて
+レトロゲームとなると、吸い出し行為があるが。  
+吸い出しについては、特定の機種によっては違法となる。  
+「ソフトを持っていれば良い」という風潮があるが、、  
+判断としては、レトロフリークで遊べる種類のソフトは「問題無い」となるよう。。  
+それ以降のPS1やNintendo64、ましてはSwitchのゲームは  
+「コピープロテクト」
+が設定されていて、吸い出しのためにそれを解除するのが違法となる。  
+  
+刑罰はないで、個人利用の範疇であればグレーとして許されているようですが。  
+違法行為とうのは認識しておき、公表とかはしないほうが良いかと。  
+YouTubeとかで、中年層が中華エミュ機のレビューと一緒にプレイしているが、あまり参考にしないほうが良いかと。  
+winny世代だし、ろくにネット教育受けてないもんぁ。  
+自分もその世代ですが。  
+  
+自分はSFCやGBはレトロフリークで遊んでいる。    
+まぁレトロフリークも多少グレーな部分はあるという噂もある。  
+機器毎にプロテクトかけていてギリギリ避けてると。  
+  
+正直いうと、大画面ですべてのゲームを1つの筐体で遊びたいですよね。  
+DSとか画面小さいし、本体も2万円と高い。  
+  
+
+<br>
+
+### SwitchのOnlineサービスでええやろ！という声について
+SwitchのOnlineでレトロゲームプレイすればいいじゃない。という声があるが。  
+これって、Nintendo Switch Onlineのサービスが終了したらどうなるのだろう。  
+<br>
+実際、WiiUのオンラインのダウンロードサービスについては、将来的に終了とアナウンスされている。  
+なにげにひどいと思う。  
+購入じゃなくて、レンタルですよね。  
+  
+データで買ったものでも、いつかできなくなるということ。  
+<br>
+ダウンロードデータが入っているSDカードは今使っているSwitchと紐づいている。  
+そのSwitchが故障して、新しいものに買い替えた場合、前のSwitchで使っていたSDカードは利用できない。  
+再ダウンロードしてSDカードに保存する必要がある。  
+  
+その再ダウンロード時にOnlineサービスが終了していたら。。  
+それを考えるとパッケージ版が良いとなってしまう。  
+<br>
+他のコンシューマーゲームも近いものもあるし、非難するつもりはないけど。  
+「できなくなる」って嫌ですよね。  
+<br>
+あと「Nintendo Switch Online + 追加パック」高い！！！！！！  
+  
+WiiUのOnlineサービスを閉じた理由って  
+ソフトの買い切りが嫌だったのでは！？と勘ぐってしまう。  
+ニンテンドーはレトロゲームをサブスク形式にしたかった！？  
+  
+コンテンツをそういう扱いにするのは少し悲しい。  
+  
+<br>
+
+
