@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]メトロイド ゼロエミッション"
+title: "[レビュー＆攻略]メトロイド ゼロミッション"
 date: 2024-08-20
 categories: [review_game]
 tags: []
@@ -8,7 +8,7 @@ thumbnail: "./images/2024-08-21-14-24-29.png"
 
 ---
 
-<img src="{{ './images/2024-08-21-14-24-29.png' }}" alt="image" width="500"/>
+<img src="{{ './images/2024-09-28-08-08-25.png' }}" alt="image" width="500" style="display: block; margin: auto;/>
   
 <br>
   
