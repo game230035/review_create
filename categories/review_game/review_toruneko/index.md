@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]メトロイド ドレッド"
+title: "[レビュー＆攻略]トルネコの大冒険"
 date: 2024-07-31
 categories: [review_game]
 tags: []

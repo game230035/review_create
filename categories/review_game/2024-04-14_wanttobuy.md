@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欲しいゲーム 2024年"
+title: "ゲーム攻略"
 date: 2024-06-23
 categories: [create_game]
 tags: []
@@ -22,9 +22,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 <br>
 <table>
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">iOS</th>
-    </tr>
+    
      <tr style="background-color: #aaffaa;">
         <td>タイトル</td>
         <td>想定価格</td>
@@ -32,13 +30,16 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>攻略済</td>
         <td>その他</td>
     </tr>
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">iOS</th>
+    </tr>
     <tr style="background-color: #ffffff;">
         <td>ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP</td>
         <td>3800円</td>
-        <td>-</td>
+        <td><a href="https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059" target="_blank">商品リンク</a></td>
         <td>-</td>  
         <td>
-        <a href="https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059" target="_blank">商品リンク</a>
+        
         </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -166,7 +167,14 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>ダービースタリオンIII</td>
+        <td>ドラゴンクエストⅢ</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_dragonquest3/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ダービースタリオンⅢ</td>
         <td></td>
         <td>◯</td>
         <td></td>  
@@ -518,14 +526,14 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>メトロイド ドレッド</td>
         <td></td>
         <td>◯</td>
-        <td>-</td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroiddred/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説　ブレスオブザワイルド</td>
         <td></td>
         <td>◯</td>
-        <td>-</td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/review_zeldabow/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">

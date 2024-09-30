@@ -8,7 +8,7 @@ thumbnail: "./images/2024-08-21-14-24-29.png"
 
 ---
 
-<img src="{{ './images/2024-09-28-08-08-25.png' }}" alt="image" width="500" style="display: block; margin: auto;/>
+<img src="{{ './images/2024-09-28-08-08-25.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
   
 <br>
   

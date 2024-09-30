@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]ゼルダの伝説"
+title: "[レビュー＆攻略]ゼルダの伝説　ブレスオブザワイルド"
 date: 2024-08-04
 categories: [review_game]
 tags: []
