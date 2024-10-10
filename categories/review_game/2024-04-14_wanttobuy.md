@@ -330,8 +330,8 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>ミスタードリラーエース ふしぎなパクテリア</td>
         <td>1800円</td>
-        <td>-</td>
-        <td>-</td>  
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/gba/mrドリラー/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
 
@@ -553,7 +553,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 夢をみる島</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -607,15 +607,18 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
 
+
+
+
+
+
+
+
+
+
+
     <tr >
         <th style="background-color: #ffcc00; color: #000;">PlayStation1/2</th>
-    </tr>
-    <tr style="background-color: #ffffff;">
-        <td>ロックマンX4</td>
-        <td></td>
-        <td>-</td>
-        <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>チョロQ3</td>
@@ -625,16 +628,25 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>ロックマンDASH 鋼の冒険心</td>
+        <td>ロックマンX4</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>機動戦士ガンダム 1年戦争</td>
+        <td>ロックマンDASH 鋼の冒険心</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    
+    
+    <tr style="background-color: #ffffff;">
+        <td>機動戦士ガンダム戦記</td>
+        <td></td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -655,17 +667,11 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>タイムスプリッター ~時空の侵略者~</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
-    <tr style="background-color: #ffffff;">
-        <td>アルゴスの戦士</td>
-        <td></td>
-        <td>-</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
+
     <tr style="background-color: #ffffff;">
         <td>アヌビス ゾーン・オブ・エンダーズ</td>
         <td></td>
