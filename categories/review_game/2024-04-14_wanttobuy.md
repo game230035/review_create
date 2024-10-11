@@ -170,7 +170,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>ドラゴンクエストⅢ</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_dragonquest3/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/sfc/ドラゴンクエスト3/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -230,6 +230,13 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <th style="background-color: #ffcc00; color: #000;">ゲームボーイアドバンス</th>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>スーパーマリオブラザーズ</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
         <td>メトロイド　ゼロミッション</td>
         <td></td>
         <td>◯</td>
@@ -241,6 +248,20 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidfusion/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>トルネコの大冒険2　アドバンス</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>トルネコの大冒険3　アドバンス</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -293,6 +314,20 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>パワプロクンポケット6</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説　ふしぎのぼうし</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
         <td>ゲームボーイウォーズアドバンス 1＋2</td>
         <td></td>
         <td>◯</td>
@@ -301,6 +336,20 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ポケモン不思議のダンジョン 赤の救助隊</td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>モンスターファーム　アドバンス </td>
+        <td></td>
+        <td>◯</td>
+        <td></td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>モンスターファーム　アドバンス2 </td>
         <td></td>
         <td>◯</td>
         <td></td>  
@@ -345,9 +394,65 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <th style="background-color: #ffcc00; color: #000;">ニンテンドーDS</th>
     </tr>
     <tr style="background-color: #ffffff;">
+        <td>えいご漬け</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
         <td>カードヒーロー(DS)</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ファンタシースター0</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>スーパーカセキホリダー</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>アナザーコード　2つの記憶</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>バイオハザード Deadly Silence</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>メトロイド プライム ピンボール</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説　大地の汽笛</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ゼルダの伝説　夢幻の砂時計</td>
+        <td></td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -433,7 +538,63 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>BIOHAZARD リベレーションズ</td>
+        <td>バイオハザード リベレーションズ</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>バイオハザード ザ・マーセナリーズ3D</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>とびだせ　どうぶつの森</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>モンスターハンターX</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>モンスターハンターXX</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>Hey!　ピクミン</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>キングダムハーツ　ドリームドロップディスタンス</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>妖怪ウォッチ　バスターズ　白大隊</td>
+        <td></td>
+        <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>ルーンファクトリー4</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
