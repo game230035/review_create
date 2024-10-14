@@ -226,6 +226,11 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 
 
+
+
+
+
+
     <tr >
         <th style="background-color: #ffcc00; color: #000;">ゲームボーイアドバンス</th>
     </tr>
@@ -240,21 +245,21 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>メトロイド　ゼロミッション</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidzeromission/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/gba/メトロイド　ゼロミッション/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイド　フュージョン</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidfusion/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/gba/メトロイド フュージョン/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>トルネコの大冒険2　アドバンス</td>
         <td></td>
         <td>◯</td>
-        <td></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/gba/トルネコの大冒険2　アドバンス/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -338,8 +343,8 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>ポケモン不思議のダンジョン 赤の救助隊</td>
         <td></td>
         <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/gba/ポケモン不思議のダンジョン 赤の救助隊/index.html" target="_blank">→</a></td>  
         <td></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>モンスターファーム　アドバンス </td>
@@ -383,6 +388,13 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td><a href="{{ site.baseurl }}/categories/review_game/gba/mrドリラー/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
+
+
+
+
+
+
+
 
 
 
@@ -498,6 +510,11 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>-</td>  
         <td></td>
     </tr>
+
+
+
+
+
 
 
 
