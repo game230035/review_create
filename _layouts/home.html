@@ -11,7 +11,7 @@ permalink: /changelog/
 <hr>
 <br>
 # 更新履歴
-
+<!-- {{ site.github }} -->
 {% for commit in site.github.commits %}
 - {{ commit.message }} ({{ commit.date | date: "%Y-%m-%d" }})
 {% endfor %}
@@ -39,7 +39,7 @@ permalink: /changelog/
         {%- if my_page.title and my_page.title != "" -%}
           {%- unless my_page.categories contains "review_game" -%}
 
-          {{ my_page.categories }}
+          <!-- {{ my_page.categories }} -->
               {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
               
               <span class="post-meta">{{ my_page.date | date: date_format }}</span>
