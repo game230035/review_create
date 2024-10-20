@@ -5,14 +5,16 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
     <div class="header-title">
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        <img src="{{ "/assets/images/header.png" | relative_url }}" alt="{{ site.title | escape }}">
+      </a>
     </div>
     
 
     {%- if page_paths -%}
-        <div class="trigger">
-          <a class="page-link" href="{{ "/" | relative_url }}/categories/review_bussiness/2023-11-11_privacypolicy.html">プライバシーポリシー</a>
-        </div> 
+      <div class="trigger">
+        <a class="page-link" href="{{ "/" | relative_url }}/categories/review_bussiness/2023-11-11_privacypolicy.html">プライバシーポリシー</a>
+      </div> 
     {%- endif -%}
     
   </div>

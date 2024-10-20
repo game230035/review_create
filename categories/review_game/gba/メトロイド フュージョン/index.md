@@ -32,201 +32,202 @@ thumbnail: "./images/2024-08-21-14-24-29.png"
 オープニングは飛ばせないみたい。  
   
 ##### X捕獲
-<img src="{{ './images/2024-10-13-15-24-09.png' }}" alt="image" width="250"/>  
+Xに侵された敵を撃破し、Xを吸収。  
+<img src="{{ './images/2024-10-13-15-24-09.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### ミサイル
-<img src="{{ './images/2024-10-13-15-24-44.png' }}" alt="image" width="250"/>  
+ナビゲーションルームを経由しつつ、ミサイルをゲット  
+<img src="{{ './images/2024-10-13-15-24-44.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### モーフボール
 ボス戦  
-<img src="{{ './images/2024-10-13-15-27-56.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-15-27-56.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### チャージビーム
 セクター1へ  
-<img src="{{ './images/2024-10-13-15-28-24.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-15-28-24.png' }}" alt="image" width="500"/>  
 <br>
   
 空調を回復しながら進む。4つ目の次がボス戦  
-<img src="{{ './images/2024-10-13-15-28-59.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-15-28-59.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### ボム
 空調を回復しつつ、セクター2へ  
-<img src="{{ './images/2024-10-13-15-53-08.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-15-53-08.png' }}" alt="image" width="500"/>  
 <br>
 
 セキュリティドアを開けるため、セキュリティルームに  
-<img src="{{ './images/2024-10-13-15-53-42.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-15-53-42.png' }}" alt="image" width="500"/>  
 <br>
 
 ボム取得  
-<img src="{{ './images/2024-10-13-15-54-01.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-15-54-01.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### ハイジャンプ
 ボス戦  
-<img src="{{ './images/2024-10-13-15-55-22.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-15-55-22.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### スピードブースター
 セクター4へ  
-<img src="{{ './images/2024-10-13-22-56-52.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-22-56-52.png' }}" alt="image" width="500"/>  
 <br>
 ボス戦  
-<img src="{{ './images/2024-10-13-22-57-38.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-22-57-38.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### スーパーミサイル
 水位調整  
-<img src="{{ './images/2024-10-13-22-58-38.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-22-58-38.png' }}" alt="image" width="500"/>  
 <br>
 セクター3へ  
-<img src="{{ './images/2024-10-13-22-59-31.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-22-59-31.png' }}" alt="image" width="500"/>  
 <br>
 セキュリティドアを開けるため、セキュリティルームに  
-<img src="{{ './images/2024-10-13-23-06-41.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-23-06-41.png' }}" alt="image" width="500"/>  
 <br>
-<img src="{{ './images/2024-10-13-23-07-09.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-23-07-09.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### バリアスーツ
 ボス戦  
-<img src="{{ './images/2024-10-13-23-12-00.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-23-12-00.png' }}" alt="image" width="500"/>  
 <br>
 
 セクター6へ  
-<img src="{{ './images/2024-10-13-23-12-24.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-13-23-12-24.png' }}" alt="image" width="500"/>  
 <br>  
 バリアスーツ取得  
-<img src="{{ './images/2024-10-14-08-25-02.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-08-25-02.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### アイスミサイル
 セクター5へ  
-<img src="{{ './images/2024-10-14-08-25-36.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-08-25-36.png' }}" alt="image" width="500"/>  
 <br>
 セキュリティドアを開けるため、セキュリティルームに  
-<img src="{{ './images/2024-10-14-08-26-04.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-08-26-04.png' }}" alt="image" width="500"/>  
 <br>
 アイスミサイルゲット  
-<img src="{{ './images/2024-10-14-08-26-27.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-08-26-27.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### ワイドビーム
 緊急事態ということでセクター3へ  
-<img src="{{ './images/2024-10-14-08-27-19.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-08-27-19.png' }}" alt="image" width="500"/>  
 <br>
 ボス戦後、ワイドビームゲット  
-<img src="{{ './images/2024-10-14-08-58-38.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-08-58-38.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### 生体反応確認
 生体反応があるということでメインデッキへ  
-<img src="{{ './images/2024-10-14-08-59-35.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-08-59-35.png' }}" alt="image" width="500"/>  
 <br>
   
 救出市に行く。  
-<img src="{{ './images/2024-10-14-09-13-59.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-09-13-59.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### パワーボム
 セクター5へ  
-<img src="{{ './images/2024-10-14-09-14-25.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-09-14-25.png' }}" alt="image" width="500"/>  
 <br>
 パワーボムをゲット  
-<img src="{{ './images/2024-10-14-09-14-56.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-09-14-56.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### スペースジャンプ
 メインデッキへ  
-<img src="{{ './images/2024-10-14-09-15-26.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-09-15-26.png' }}" alt="image" width="500"/>  
 <br>
 エレベーターが途中で止まるので脇道から離脱  
 もしかしたら、スターシップまで戻らなくても良いかも  
 ボス戦後、スペースジャンプをゲット  
-<img src="{{ './images/2024-10-14-14-23-10.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-14-23-10.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### プラズマビーム
 セクター2へ  
-<img src="{{ './images/2024-10-14-14-24-34.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-14-24-34.png' }}" alt="image" width="500"/>  
 <br>
 
 鳥人像とのボス戦  
 プラズマビームゲット  
-<img src="{{ './images/2024-10-14-14-25-25.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-14-25-25.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### グラビティスーツ
 セクター5へ  
-<img src="{{ './images/2024-10-14-14-27-23.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-14-27-23.png' }}" alt="image" width="500"/>  
 <br>
 ボス戦後、グラビティスーツゲット  
-<img src="{{ './images/2024-10-14-14-28-49.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-14-28-49.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### ディフュージョンミサイル
 セクター4へ  
-<img src="{{ './images/2024-10-14-15-21-53.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-21-53.png' }}" alt="image" width="500"/>  
 <br>
 セキュリティドアを開けるため、セキュリティルームに  
-<img src="{{ './images/2024-10-14-15-22-11.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-22-11.png' }}" alt="image" width="500"/>  
 <br>
 ディフュージョンミサイルをゲット  
-<img src="{{ './images/2024-10-14-15-22-49.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-22-49.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### ウェイブビーム
 セクター6へ  
-<img src="{{ './images/2024-10-14-15-24-02.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-24-02.png' }}" alt="image" width="500"/>  
 <br>
 
 ボスをおびき寄せるために警告音を鳴らす  
-<img src="{{ './images/2024-10-14-15-32-48.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-32-48.png' }}" alt="image" width="500"/>  
 <br>
 
 ボス戦後、ウェイブビームをゲット  
-<img src="{{ './images/2024-10-14-15-33-49.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-33-49.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### スクリューアタック
 極秘エリアに  
-<img src="{{ './images/2024-10-14-15-34-37.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-34-37.png' }}" alt="image" width="500"/>  
 <br>
 マップ左下。  
 セクター1へ  
 エリアが切り離されるので、この画面ではその部分掲載していません。  
 後ほど画像修正する  
-<img src="{{ './images/2024-10-14-15-35-25.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-35-25.png' }}" alt="image" width="500"/>  
 <br>
 
 ボス戦後、スクリューアタック入手  
-<img src="{{ './images/2024-10-14-15-40-45.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-15-40-45.png' }}" alt="image" width="500"/>  
 <br>
 
 ##### 自爆スイッチ発動
 ナビゲーションルームを経由して、メインデッキへ  
 この経路ではいけないかも、未検証。スミマセン  
-<img src="{{ './images/2024-10-14-18-00-08.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-18-00-08.png' }}" alt="image" width="500"/>  
 <br>
 
 SA-Xとのバトル  
 SA-Xは1段階目、2段階目ともチャージビームで倒す。  
-<img src="{{ './images/2024-10-14-18-15-20.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-18-15-20.png' }}" alt="image" width="500"/>  
 <br>
 
 撃破後、スイッチ起動  
-<img src="{{ './images/2024-10-14-18-15-39.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-18-15-39.png' }}" alt="image" width="500"/>  
 <br>
 
-##### 
-脱出  
+##### 脱出  
 最後、オメガメトロイドとのバトル  
 最初イベント戦なので、回復しなくて良いかも。未検証。  
-<img src="{{ './images/2024-10-14-18-16-05.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-14-18-16-05.png' }}" alt="image" width="500"/>  
 <br>
 
 #### 感想

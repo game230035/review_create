@@ -88,6 +88,8 @@ h5 {
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.56);
 }
 
+
+
 h5:before {
     font-family: "Font Awesome 5 Free";
     content: "\f00c";/*アイコンのユニコード*/
@@ -98,6 +100,27 @@ h5:before {
     top: 6px;/*アイコンの位置*/
     color: white; /*アイコン色*/
     font-weight: 900;
+}
+
+h6 {
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    padding: 0.2em 2.0em;
+    font-size: 18px;
+    // font-weight:bold
+}
+
+h6:before {
+	display: block;
+	content: "";
+	position: absolute;
+	top: 50%;
+	width: 0;
+	height: 0;
+    left: 12px;/*アイコンの位置*/
+	margin-top: -10px;
+	border: 10px solid transparent;        /*top right bottom を透明化 */ 
+	border-left: 10px solid #000;
 }
 
 .task-list-item {

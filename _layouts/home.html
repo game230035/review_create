@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /changelog/
 ---
 
 <div class="home">
@@ -7,8 +8,15 @@ layout: default
   
   {%- assign page_paths = site.header_pages | default: default_paths | reverse -%}
 
-<br>
 <hr>
+<br>
+# 更新履歴
+
+{% for commit in site.github.commits %}
+- {{ commit.message }} ({{ commit.date | date: "%Y-%m-%d" }})
+{% endfor %}
+  
+
 <br>
   <dev class="post-link-home-release">
     リリース中のアプリ  

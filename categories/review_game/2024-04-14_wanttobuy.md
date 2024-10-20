@@ -19,7 +19,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 - [SwitchのOnlineサービスでええやろ！という声について](#SwitchのOnlineサービスでええやろ！という声について)
 
 <br>
-
+<a href="#sfc">sfc</a> <a href="#gba">gba</a> 
 <br>
 <table>
     
@@ -128,8 +128,18 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 
 
+
+
+
+
+
+
+
+
+
+
     <tr >
-        <th style="background-color: #ffcc00; color: #000;">スーパーファミコン</th>
+        <th style="background-color: #ffcc00; color: #000;" id="sfc">スーパーファミコン</th>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>トルネコの大冒険 不思議のダンジョン</td>
@@ -232,7 +242,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 
     <tr >
-        <th style="background-color: #ffcc00; color: #000;">ゲームボーイアドバンス</th>
+        <th style="background-color: #ffcc00; color: #000;" id="gba">ゲームボーイアドバンス</th>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>スーパーマリオブラザーズ</td>
@@ -628,6 +638,13 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>ドラクエ8</td>
         <td></td>
         <td>◯</td>
+        <td>-</td>  
+        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>新・光神話　パルテナの鏡</td>
+        <td></td>
+        <td>-</td>
         <td>-</td>  
         <td></td>
     </tr>
