@@ -6,8 +6,9 @@ tags: [GBA]
 thumbnail: "./images/2024-01-29-13-32-40.png"
 
 ---
-<p>最終更新日: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
+
 <img src="{{ './images/2024-10-12-14-57-56.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
+<p>最終更新日: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
 
 ### 一言
 めちゃくちゃハマった作品。  
