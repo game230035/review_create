@@ -2,6 +2,7 @@
 layout: post
 title: "ゲーム攻略"
 date: 2024-06-23
+last_modified_at: 2024-06-23
 categories: [create_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"

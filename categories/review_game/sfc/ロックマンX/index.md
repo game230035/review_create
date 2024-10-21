@@ -4,7 +4,7 @@ title: "[レビュー＆攻略]ロックマンX"
 date: 2024-08-18
 categories: [review_game]
 tags: []
-thumbnail: "./images/2024-01-29-13-32-40.png"
+thumbnail: ""
 
 ---
 
