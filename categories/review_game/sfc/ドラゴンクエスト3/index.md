@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[レビュー＆攻略]SFC版　ドラゴンクエストⅢ"
-date: 2024-08-18
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
@@ -466,6 +465,8 @@ Lvは
 <br>
 
 * ガライの家（必須ではない）
+上にある階段に入る。  
+
 
 
 ##### せいなるまもり
