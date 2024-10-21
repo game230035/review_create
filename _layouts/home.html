@@ -8,28 +8,61 @@ permalink: /changelog/
   {%- assign map_pages = pages_with_sort_key | map: "last_modified_at" | compact-%}
   {%- assign sorted_pages = map_pages | sort | reverse -%}
 
+  {%- assign pages_with_dates = site.pages | where_exp: "page", "page.last_modified_at != nil" -%}
+
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = default_paths | reverse -%}
 
   <br>
+  {%- assign custom_item = 0 -%}
+
+
+
   
   <h2>更新履歴</h2>
-  
-  {%- for path in sorted_pages limit:10 -%}
-    <br>
-    {{path }}
-    {%- assign my_page = site.pages | where: "categories", "review_game" | where: "last_modified_at", last_modified_at | first -%}
-    {{my_page}}
-    {%- if my_page.title and my_page.title != "" -%}
+  {%- assign target_index = 0 -%}
+  {%- assign init_count = 0 -%}
+
+  {%- for path in (init_count..30) -%}
+    {%- assign target_date = sorted_pages[target_index] | date: "%Y-%m-%d %H:%M:%S %z" -%}
+    {%- assign formatted_date = site.pages[path].last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" -%}
+
+    {%- if formatted_date == target_date -%}
+      {%- if site.pages[path] and site.pages[path].title and site.pages[path].title != "" -%}
         <div class="post-link-home-update-title">
-          <a href="{{ my_page.url | relative_url }}">
-            {{ my_page.title | escape }} <span class="post-meta">{{ my_page.last_modified_at | date: '%Y/%m/%d' }}</span>
+          <a href="{{ site.pages[path].url | relative_url }}">
+            {{ site.pages[path].title | escape }} <span class="post-meta">{{ site.pages[path].last_modified_at | date: '%Y/%m/%d' }}</span>
           </a>
         </div>
+      {%- endif -%}
+      {%- assign target_index = target_index | plus: 1 -%}
+      {%- assign init_count = 0 -%}
     {%- endif -%}
   {%- endfor -%}
   <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 <hr>
 
 <br>

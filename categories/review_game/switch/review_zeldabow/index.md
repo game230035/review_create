@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[レビュー＆攻略]ゼルダの伝説　ブレスオブザワイルド"
-last_modified_at: 2024-08-04
 categories: [review_game]
 tags: [switch]
 thumbnail: ""

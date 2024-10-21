@@ -2,7 +2,6 @@
 layout: post
 title: "[レビュー＆攻略]ポケモン不思議のダンジョン 赤の救助隊"
 date: 2024-10-12
-last_modified_at: 2024-10-23
 categories: [review_game]
 tags: [GBA]
 thumbnail: "./images/2024-01-29-13-32-40.png"
