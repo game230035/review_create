@@ -4,25 +4,30 @@ permalink: /changelog/
 ---
 
 <div class="home">
-  {%- assign pages = site.pages -%}
-  {%- assign sorted_pages = pages | map: "path"  -%}
-  {%- assign page_paths = sorted_pages | sort: "last_modified_at" -%}
+  {%- assign pages_with_sort_key = site.pages -%}
+  {%- assign map_pages = pages_with_sort_key | map: "last_modified_at" | compact-%}
+  {%- assign sorted_pages = map_pages | sort | reverse -%}
+
+  {%- assign default_paths = site.pages | map: "path" -%}
+  {%- assign page_paths = default_paths | reverse -%}
+
   <br>
   
   <h2>更新履歴</h2>
   
-  {%- for path in page_paths limit:40 -%}
-    {%- assign my_page = site.pages | where: "path", path | first -%}
-    {%- if my_page.title and my_page.title != '' -%}
-      <!-- {{my_page}} -->
+  {%- for path in sorted_pages limit:10 -%}
+    <br>
+    {{path }}
+    {%- assign my_page = site.pages | where: "categories", "review_game" | where: "last_modified_at", last_modified_at | first -%}
+    {%- if my_page.title and my_page.title != "" -%}
+        <!-- {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%} -->
         <div class="post-link-home-update-title">
           <a href="{{ my_page.url | relative_url }}">
-            {{ my_page.title | escape }} <span class="post-meta">{{ my_page.last_modified_at| date: '%Y/%m/%d' }}</span>
+            {{ my_page.title | escape }} <span class="post-meta">{{ my_page.last_modified_at | date: '%Y/%m/%d' }}</span>
           </a>
         </div>
     {%- endif -%}
   {%- endfor -%}
-  
   <br>
 
 <hr>
