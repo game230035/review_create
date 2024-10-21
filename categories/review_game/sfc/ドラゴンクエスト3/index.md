@@ -2,10 +2,12 @@
 layout: post
 title: "[レビュー＆攻略]SFC版　ドラゴンクエストⅢ"
 categories: [review_game]
-tags: []
+tags: [SFC]
 thumbnail: "./images/2024-01-29-13-32-40.png"
 
 ---
+
+<p>最終更新日: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
 
 ### 一言
 ドラゴンクエストⅢはいろんな機種用にリメイク・リマスターされています。
