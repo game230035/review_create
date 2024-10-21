@@ -8,16 +8,10 @@ permalink: /changelog/
   {%- assign map_pages = pages_with_sort_key | map: "last_modified_at" | compact-%}
   {%- assign sorted_pages = map_pages | sort | reverse -%}
 
-  {%- assign pages_with_dates = site.pages | where_exp: "page", "page.last_modified_at != nil" -%}
-
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = default_paths | reverse -%}
 
   <br>
-  {%- assign custom_item = 0 -%}
-
-
-
   
   <h2>更新履歴</h2>
   {%- assign target_index = 0 -%}
@@ -36,7 +30,11 @@ permalink: /changelog/
         </div>
       {%- endif -%}
       {%- assign target_index = target_index | plus: 1 -%}
-      {%- assign init_count = 0 -%}
+      {%- if target_index == 5 -%}
+        {%- assign init_count = 30 -%}
+      {% else %}
+        {%- assign init_count = 0 -%}
+      {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
   <br>
