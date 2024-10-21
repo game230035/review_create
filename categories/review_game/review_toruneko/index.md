@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[レビュー＆攻略]トルネコの大冒険"
-date: 2024-07-31
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-09-11-07-39-43.png"

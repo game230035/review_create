@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "[レビュー＆攻略]トルネコの大冒険2　アドバンス"
-date: 2024-10-12
 categories: [review_game]
 tags: [GBA]
 thumbnail: "./images/2024-01-29-13-32-40.png"
 
 ---
+<p>最終更新日: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
 <img src="{{ './images/2024-10-12-14-57-56.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
 
 ### 一言
@@ -30,40 +30,40 @@ GBA版はPSからの移植で、ロードがまったくなく、サクサク進
 #### ちょっとふしぎの草原
 3階で終了。  
 チュートリアル的なダンジョンでアイテム説明が随時入る。  
-<img src="{{ './images/2024-10-15-20-09-24.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-15-20-09-24.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
 <br>
 
 #### 屋敷のダンジョン
 広場の右下に行き、銀行屋に話しかける。  
-<img src="{{ './images/2024-10-15-20-09-11.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-15-20-09-11.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
 6階で終了。  
 矢が結構拾えるので、遠距離攻撃が有効。  
 また6階にいる、ベビーサタンがボスとして居るので撃破して銀行屋の金庫をゲットするとクリアとなる。  
-<img src="{{ './images/2024-10-16-23-06-33.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-16-23-06-33.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
 <br>
 
 #### お城のダンジョン
 城に行き、左側の男に話しかける。  
-<img src="{{ './images/2024-10-17-07-45-18.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-17-07-45-18.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
 <br>
 ダンジョンについて  
 6階を降りると終了。  
 ここは前回のベビーサタンのようなボスは居ないです。  
 杖が多く出るダンジョン、剣や盾は出ないようです。  
 いかずちの杖で殆どの敵を撃破できるので、ゲットしたいところ。  
-<img src="{{ './images/2024-10-17-07-45-32.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-17-07-45-32.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
 <br>
 
 #### 墓場のダンジョン
 墓場に行き、左上のパン屋に話しかける。  
-<img src="{{ './images/2024-10-19-16-25-44.png' }}" alt="image" width="250"/>    
+<img src="{{ './images/2024-10-19-16-25-44.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 ダンジョンについて  
 6階を降りると終了。  
 草が多く出るダンジョンで、剣や盾は出ないよう。  
 5階ぐらいから強めの敵も出てくるので、  
 メダパニ草、ラリホー草、かなしばりのたねを使っていきたい。  
-<img src="{{ './images/2024-10-19-16-28-06.png' }}" alt="image" width="250"/>  
+<img src="{{ './images/2024-10-19-16-28-06.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>
 <br>
 
 #### 火吹き山
