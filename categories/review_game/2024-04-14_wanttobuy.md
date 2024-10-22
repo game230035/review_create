@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ゲーム攻略"
+title: "ゲーム購入攻略状況"
 date: 2024-06-23
 categories: [create_game]
 tags: []
@@ -9,7 +9,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 <img src="{{ './images/2024-01-29-13-32-40.png' }}" alt="image" width="250" class="center-image"/>
   
-## ほしいゲーム　Ver2024年
+## ゲーム購入攻略状況　Ver2024年
 
 <br>
 
@@ -269,7 +269,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>トルネコの大冒険2　アドバンス</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/gba/トルネコの大冒険2　アドバンス/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/gba/トルネコの大冒険2アドバンス/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">

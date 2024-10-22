@@ -30,8 +30,9 @@ permalink: /changelog/
         </div>
       {%- endif -%}
       {%- assign target_index = target_index | plus: 1 -%}
-      {%- if target_index == 5 -%}
-        {%- assign init_count = 30 -%}
+      {%- if 5 <= target_index -%}
+        {%- assign init_count = 31 -%}
+        {% break %}
       {% else %}
         {%- assign init_count = 0 -%}
       {%- endif -%}

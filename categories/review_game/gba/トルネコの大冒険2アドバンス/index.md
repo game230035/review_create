@@ -350,58 +350,75 @@ HPが回復したら、ザキとかで消す。
 ##### 覚えたいわざリスト  
 ダンジョンに入り直しても覚えた技は忘れない。セットした武器のわざはリセットされる。  
 <table>
-<tr >
-    <th style="background-color: #ffcc00; color: #000;">剣わざ</th>
-</tr>
-<tr style="background-color: #ffffff;">
-    <td>かなしばり</td>
-    <td>モンスターをかなしばり状態にする</td>
-    <td>7</td>
-    <td>-</td>  
-    <td></td>
-</tr>
-<tr style="background-color: #ffffff;">
-    <td>身代わり</td>
-    <td>敵が偽神父になり身代わりをする</td>
-    <td>7</td>
-    <td>特に無し</td>  
-    <td>身代わり状態の敵を倒す</td>
-</tr>
-<tr style="background-color: #ffffff;">
-    <td>かべほり</td>
-    <td>壁を1マス掘る</td>
-    <td>1</td>
-    <td>特に無し?</td>  
-    <td>壁に剣で素振りをする</td>
-</tr>
-<tr style="background-color: #ffffff;">
-    <td>トンネル</td>
-    <td>一度に壁を5マス掘る</td>
-    <td>1</td>
-    <td>特に無し</td>  
-    <td>「かべほり」を使う</td>
-</tr>
-<tr style="background-color: #ffffff;">
-    <td>はやあし</td>
-    <td>10ターンほど2倍速になる</td>
-    <td>8</td>
-    <td>特に無し</td>  
-    <td>倍速状態で行動する</td>
-</tr>
-<tr style="background-color: #ffffff;">
-    <td>パン落とし</td>
-    <td>10ターンほど2倍速になる</td>
-    <td>8</td>
-    <td>特に無し</td>  
-    <td>倍速状態で行動する</td>
-</tr>
-<tr style="background-color: #ffffff;">
-    <td>ひかりのはどう</td>
-    <td>HPとステータスを回復する</td>
-    <td>10</td>
-    <td>特に無し</td>  
-    <td>「ちからかいふく」「どくよけ」「こんらんよけ」「まどわしよけ」「鉄化しない」「ハラヘラズ」を覚える</td>
-</tr>
+    <tr >
+        <th style="background-color: #ffcc00; color: #000;">剣わざ</th>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td rowspan="2">かなしばり</td>
+        <td>敵をかなしばり状態にする</td>
+        <td>7</td>
+        <td>-</td>  
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td colspan="3">敵にかなしばりのたねを投げたりする</td>
+    </tr>
+    <tr style="background-color: #f5f5f5;">
+        <td rowspan="2">身代わり</td>
+        <td>敵が偽神父になり身代わりをする</td>
+        <td>7</td>
+        <td>特に無し</td>  
+    </tr>
+    <tr style="background-color: #f5f5f5;">
+        <td colspan="3">身代わり状態の敵を倒す</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td rowspan="2">かべほり</td>
+        <td>壁を1マス掘る</td>
+        <td>1</td>
+        <td>特に無し?</td>  
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td colspan="3">壁に剣で素振りをする</td>
+    </tr>
+    <tr style="background-color: #f5f5f5;">
+        <td rowspan="2">トンネル</td>
+        <td>一度に壁を5マス掘る</td>
+        <td>1</td>
+        <td>特に無し</td>  
+    </tr>
+    <tr style="background-color: #f5f5f5;">
+        <td colspan="3">「かべほり」を使う</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td rowspan="2">はやあし</td>
+        <td>10ターンほど2倍速になる</td>
+        <td>8</td>
+        <td>特に無し</td>  
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td colspan="3">倍速状態で行動する</td>
+    </tr>
+    <tr style="background-color: #f5f5f5;">
+        <td rowspan="2">パン落とし</td>
+        <td>敵を倒すとパンを落とす</td>
+        <td>35</td>
+        <td>特に無し</td>  
+    </tr>
+    <tr style="background-color: #f5f5f5;">
+        <td colspan="3">パン落とす敵を倒しまくる</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td rowspan="2">ひかりのはどう</td>
+        <td>HPとステータスを回復する</td>
+        <td>10</td>
+        <td>特に無し</td>  
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td colspan="3">「ちからかいふく」「どくよけ」「こんらんよけ」「まどわしよけ」「鉄化しない」「ハラヘラズ」を覚える</td>
+    </tr>
+</table>
+<br>
+<table>
 <tr >
     <th style="background-color: #ffcc00; color: #000;">盾わざ</th>
 </tr>
