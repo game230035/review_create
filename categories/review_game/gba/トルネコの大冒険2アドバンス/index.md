@@ -3,12 +3,11 @@ layout: post
 title: "[レビュー＆攻略]トルネコの大冒険2　アドバンス"
 categories: [review_game]
 tags: [GBA]
-thumbnail: "./images/2024-01-29-13-32-40.png"
-
+thumbnail: "./images/2024-10-12-14-57-56.png"
+toc: true
 ---
 
-<img src="{{ './images/2024-10-12-14-57-56.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<p>最終更新日: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
+<br>
 
 ### 一言
 めちゃくちゃハマった作品。  
@@ -27,7 +26,7 @@ GBA版はPSからの移植で、ロードがまったくなく、サクサク進
 
 ### 攻略
 
-#### ちょっとふしぎの草原
+#### ちょっとふしぎの草原  
 
 3階で終了。  
 チュートリアル的なダンジョンでアイテム説明が随時入る。  

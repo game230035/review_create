@@ -38,7 +38,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-last-modified-at
-
+  - jekyll-toc
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -62,7 +62,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
-
 google_analytics: G-G2J7M1WE0D
 
+
+toc:
+  min_level: 1
+  max_level: 4

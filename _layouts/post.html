@@ -5,7 +5,8 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <div>Last modified at: {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S" }}</div>
+
+
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
@@ -23,9 +24,15 @@ layout: default
         });
       </script>
   </header>
-
+  
+  <p>最終更新日ｒ: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
+  <br>
+  <img src="{{ page.thumbnail }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+  <br>
+  
+  <h3>目次</h3>
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {{ content | toc }}
   </div>
 
   {%- if site.disqus.shortname -%}
