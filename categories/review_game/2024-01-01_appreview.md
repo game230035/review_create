@@ -1,16 +1,10 @@
 ---
 layout: post
 title: "ゲームリリースプラットフォーム リリース要件"
-date: 2024-02-09
 categories: [create_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
 ---
-
-<img src="{{ './images/2024-01-29-13-32-40.png' }}" alt="image" width="250" class="center-image"/>
-  
-
-<br>
 
 ## Google Play Console
 #### ■アプリアイコン

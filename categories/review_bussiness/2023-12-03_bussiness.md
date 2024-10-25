@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "働き方とかその辺の話"
-date: 2023-12-06
 categories: [review_bussiness]
 tags: []
 thumbnail: "./images/2023-12-11-09-29-43.png"
 ---
-
-<img src="{{ './images/2023-12-11-09-29-43.png' }}" alt="image" width="500" class="center-image"/>
-  
 
 このサイトはゲームのことだけではなく、真面目な記事も掲載します。  
 ゲームも真面目ですが。  

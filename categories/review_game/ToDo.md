@@ -1,14 +1,11 @@
 ---
 layout: post
 title: "今後やることを記載するページ"
-date: 2024-06-23
 categories: [create_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
 ---
 
-<img src="{{ './images/2024-01-29-13-32-40.png' }}" alt="image" width="250" class="center-image"/>
-  
 ## 今後やることを記載するページ
 
 ### ホームページ修正

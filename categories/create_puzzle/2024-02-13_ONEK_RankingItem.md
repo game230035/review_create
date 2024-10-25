@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[ONE K]ランキング報酬"
-date: 2024-02-13
 categories: [one_k]
 tags: []
 thumbnail: "./images/2024-01-29-00-03-52.png"

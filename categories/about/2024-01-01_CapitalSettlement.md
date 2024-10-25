@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "資本金決済"
-date: 2024-01-01
 categories: [review_bussiness]
 tags: []
 thumbnail: "./images/legal.png"

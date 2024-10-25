@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[レビュー＆攻略]ミスタードリラー エース ふしぎなパクテリア"
-date: 2024-10-09
 categories: [review_game]
 tags: []
 thumbnail: ""

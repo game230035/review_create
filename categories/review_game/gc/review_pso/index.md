@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "[レビュー]PSO ep1&2"
-date: 2024-07-31
 categories: [review_game]
 tags: []
 thumbnail: ""
-permalink: /pso/
 ---
 
 ### レビューの前に思い出とか

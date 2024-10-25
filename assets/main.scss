@@ -90,7 +90,7 @@ h5 {
     position: relative;
     line-height: 1.4;
     font-size: 18px;
-    padding: 0.2em 2.5em;
+    padding: 0.2em 1.0em;//2.5
     background: -webkit-linear-gradient(to right, rgb(255, 124, 111), #ffc994);
     background: linear-gradient(to right, rgb(255, 124, 111), #ffc994);
     color: white;
@@ -99,7 +99,28 @@ h5 {
 
 
 
-h5:before {
+// h5:before {
+//     font-family: "Font Awesome 5 Free";
+//     content: "\f00c";/*アイコンのユニコード*/
+//     font-weight: 900;
+//     position: absolute;/*絶対位置*/
+//     font-size: 1em;/*サイズ*/
+//     left: 12px;/*アイコンの位置*/
+//     top: 6px;/*アイコンの位置*/
+//     color: white; /*アイコン色*/
+//     font-weight: 900;
+// }
+
+h6 {
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    padding: 0.2em 2.0em;
+    font-size: 20px;
+    // font-weight:bold
+    color: rgb(48, 1, 1);
+}
+
+h6:before {
     font-family: "Font Awesome 5 Free";
     content: "\f00c";/*アイコンのユニコード*/
     font-weight: 900;
@@ -107,30 +128,22 @@ h5:before {
     font-size: 1em;/*サイズ*/
     left: 12px;/*アイコンの位置*/
     top: 6px;/*アイコンの位置*/
-    color: white; /*アイコン色*/
+    color: rgb(253, 0, 0); /*アイコン色*/
     font-weight: 900;
 }
 
-h6 {
-    margin: 0px 0px 0px 0px;
-    position: relative;
-    padding: 0.2em 2.0em;
-    font-size: 18px;
-    // font-weight:bold
-}
-
-h6:before {
-	display: block;
-	content: "";
-	position: absolute;
-	top: 50%;
-	width: 0;
-	height: 0;
-    left: 12px;/*アイコンの位置*/
-	margin-top: -10px;
-	border: 10px solid transparent;        /*top right bottom を透明化 */ 
-	border-left: 10px solid #000;
-}
+// h6:before {
+// 	display: block;
+// 	content: "";
+// 	position: absolute;
+// 	top: 50%;
+// 	width: 0;
+// 	height: 0;
+//     left: 12px;/*アイコンの位置*/
+// 	margin-top: -10px;
+// 	border: 10px solid transparent;        /*top right bottom を透明化 */ 
+// 	border-left: 10px solid #000;
+// }
 
 .task-list-item {
     list-style-type: none

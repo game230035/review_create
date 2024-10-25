@@ -25,15 +25,21 @@ layout: default
       </script>
   </header>
   
-  <p>最終更新日ｒ: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
+  <p style="text-align: right;">最終更新日: {{ page.last_modified_at | date: "%Y/%m/%d" }}</p>
   <br>
   <img src="{{ page.thumbnail }}" alt="image" width="500" style="display: block; margin: auto;"/>  
   <br>
   
-  <h3>目次</h3>
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content | toc }}
-  </div>
+  {%- if page.toc -%}
+    <h3>目次</h3>
+    <div class="post-content e-content" itemprop="articleBody">
+      {{ content | toc }}
+    </div>
+  {%- else -%}
+    <div class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

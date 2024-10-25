@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[ONE K]アプリ情報"
-date: 2024-02-12
 categories: [one_k]
 tags: []
 thumbnail: "./images/2024-01-29-00-03-52.png"

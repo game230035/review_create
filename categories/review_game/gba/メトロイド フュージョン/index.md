@@ -1,18 +1,11 @@
 ---
 layout: post
 title: "[レビュー＆攻略]メトロイド フュージョン"
-date: 2024-08-20
 categories: [review_game]
 tags: []
-thumbnail: "./images/2024-08-21-14-24-29.png"
+thumbnail: "./images/2024-09-25-07-03-49.png"
 
 ---
-
-<img src="{{ './images/2024-09-25-07-03-49.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-{: align="center"}
-  
-<br>
-  
 
 #### 一言
 やることが明確だが、程よく探索もある。  

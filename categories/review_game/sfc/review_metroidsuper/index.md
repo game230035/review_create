@@ -1,17 +1,11 @@
 ---
 layout: post
 title: "[レビュー＆攻略]スーパーメトロイド"
-date: 2024-08-20
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-08-21-14-24-29.png"
 
 ---
-
-<img src="{{ './images/2024-08-21-14-24-29.png' }}" alt="image" width="500"/>
-  
-<br>
-  
 
 #### 一言
 操作性が難。  

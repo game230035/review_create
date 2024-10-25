@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "[プログラムメモ]スマホアプリの課金テスト"
-date: 2024-01-09
 categories: [プログラムメモ]
 tags: []
 thumbnail: "./images/2024-01-09-09-06-39.png"

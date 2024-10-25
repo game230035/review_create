@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "[レビュー＆攻略]メトロイド ドレッド"
-date: 2024-07-31
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-09-25-07-02-28.png"
 ---
-
-<img src="{{ './images/2024-09-25-07-02-28.png' }}" alt="image" width="500"/>  
-<br>
 
 ## 簡易チャート  
 

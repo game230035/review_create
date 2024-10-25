@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "プライバシーポリシー"
-date: 2024-01-01
 categories: [review_bussiness]
 tags: []
 thumbnail: "./images/privacypolicy.png"

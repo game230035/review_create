@@ -1,17 +1,11 @@
 ---
 layout: post
 title: "[レビュー＆攻略]ロックマンX3"
-date: 2024-08-14
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-08-21-07-27-19.png"
 
 ---
-
-<img src="{{ './images/2024-08-21-07-27-19.png' }}" alt="image" width="500"/>
-  
-<br>
-  
 
 ### 一言
 敵からのダメージはまぁ普通なんだけど。。  
