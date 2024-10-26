@@ -645,6 +645,20 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>-</td>  
         <td></td>
     </tr>
+        <tr style="background-color: #ffffff;">
+        <td>SIMPLEシリーズ THE密室からの脱出</td>
+        <td>500円</td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/3ds/THE密室からの脱出/index.html" target="_blank">→</a></td>  
+        <td></td>
+    </tr>
+        <tr style="background-color: #ffffff;">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>  
+        <td></td>
+    </tr>
 
 
 
