@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/review_create/sitemap.xml
+Sitemap: https://game230035.github.io/review_create/sitemap.xml
