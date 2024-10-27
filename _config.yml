@@ -67,10 +67,3 @@ google_analytics: G-G2J7M1WE0D
 toc:
   min_level: 1
   max_level: 4
-
-
-defaults:
-- scope:
-    path: "tag"
-  values:
-    sitemap: false
