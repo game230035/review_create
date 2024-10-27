@@ -26,7 +26,6 @@ title: review&create
 description: >- # this means to ignore newlines until "baseurl:"
   いろんなレビューやクリエイト作業の報告を行うサイトです。
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: コンボ
 twitter_ling: IT67709618
 github_username: ""
