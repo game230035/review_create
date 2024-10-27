@@ -70,7 +70,6 @@ GBA版はPSからの移植で、ロードがまったくなく、サクサク進
 <br>
 
 #### 火吹き山
-
 老人の家の前に行き、城の兵士に話しかけると火吹き山にいけるようになる。  
 <img src="{{ './images/2024-10-22-20-36-09.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 外に出て選択肢から選ぶ。  
@@ -85,7 +84,10 @@ GBA版はPSからの移植で、ロードがまったくなく、サクサク進
 <br>
 
 #### 迷いの森
-
+ストーリーを進めれば行けるようになる。  
+<img src="{{ './images/2024-10-28-07-14-38.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+外に出て選択肢から選ぶ。  
+<img src="{{ './images/2024-10-28-07-16-57.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 ダンジョンについて  
 12階を降りると終了。  
@@ -101,14 +103,16 @@ GBA版はPSからの移植で、ロードがまったくなく、サクサク進
 <br>
 
 #### トロ遺跡
+ストーリーを進めれば行けるようになる。  
+<img src="{{ './images/2024-10-28-07-18-14.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+外に出て選択肢から選ぶ。  
+<img src="{{ './images/2024-10-28-07-18-23.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 ダンジョンについて  
 14階を降りると終了。  
 神父が登場するダンジョンでそれ以外は特徴なしというかオーソドックススタイルです。  
 7階から　エビルポット　というモンスターが出てくるのですが。  
 これが他の敵モンスターを周囲に呼び出し注意です。  
-<img src="{{ './images/2024-10-26-10-11-13.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
 <img src="{{ './images/2024-10-26-13-11-06.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 
