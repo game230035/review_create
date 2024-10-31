@@ -191,7 +191,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>ゼルダの伝説 神々のトライフォース</td>
         <td></td>
         <td>◯</td>
-        <td></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/sfc/ゼルダの伝説 神々のトライフォース/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -354,10 +354,10 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>  
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>モンスターファーム　アドバンス </td>
+        <td>モンスターファームアドバンス</td>
         <td></td>
         <td>◯</td>
-        <td></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/gba/モンスターファーム アドバンス/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
