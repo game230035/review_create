@@ -12,40 +12,39 @@ permalink: /changelog/
   {%- assign page_paths = default_paths | reverse -%}
   
 
-
-
-
-
   <h2>更新履歴</h2>
-  {%- assign target_index = 0 -%}
-  {%- assign init_count = 0 -%}
+  {%- assign target_checkcount = 0 -%}
+  {%- assign old_title = "" -%}
+  {% assign page_count = site.pages | size %}
 
-  {%- for path in (init_count..30) -%}
-    {%- assign target_date = sorted_pages[target_index] | date: "%Y-%m-%d %H:%M:%S %z" -%}
-    {%- assign formatted_date = site.pages[path].last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" -%}
+  {%- for target_index in (0..5) -%}
+    {%- for page_index in (0..page_count) -%}
+    
+      {%- assign target_date = sorted_pages[target_index] | date: "%Y-%m-%d %H:%M:%S %z" -%}
+      {%- assign page_date = site.pages[page_index].last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" -%}
 
-    {%- if formatted_date == target_date -%}
-      {%- if site.pages[path] and site.pages[path].title and site.pages[path].title != "" -%}
-        <div class="post-link-home-update-title">
-          <a href="{{ site.pages[path].url | relative_url }}">
-            {{ site.pages[path].title | escape }} <span class="post-meta">{{ site.pages[path].last_modified_at | date: '%Y/%m/%d' }}</span>
-          </a>
-        </div>
+      {%- if page_date == target_date -%}
+      <!-- == {{ site.pages[page_index].title }} == {{ page_date }} == {{ target_date }}<br> -->
+        {%- if site.pages[page_index] and site.pages[page_index].title and site.pages[page_index].title != "" and site.pages[page_index].title != old_title -%}
+          <div class="post-link-home-update-title">
+            <a href="{{ site.pages[page_index].url | relative_url }}">
+              {{ site.pages[page_index].title | escape }} <span class="post-meta">{{ site.pages[page_index].last_modified_at | date: '%Y/%m/%d' }}</span>
+            </a>
+          </div>
+          
+          {%- assign target_checkcount = target_checkcount | plus: 1 -%}
+          {%- assign old_title = site.pages[page_index].title -%}
+          {% break %}
+        {%- endif -%}
       {%- endif -%}
-      {%- assign target_index = target_index | plus: 1 -%}
-      {%- if 10 <= target_index -%}
-        {%- assign init_count = 31 -%}
-        {% break %}
-      {% else %}
-        {%- assign init_count = 0 -%}
-      {%- endif -%}
+    {%- endfor -%}
+
+    {%- if 5 <= target_checkcount -%}
+      {% break %}
     {%- endif -%}
   {%- endfor -%}
-  <br>
 
-
-
-
+<br>
   
 <hr>
 
