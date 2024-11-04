@@ -413,13 +413,6 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <th style="background-color: #ffcc00; color: #000;">ニンテンドーDS</th>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>えいご漬け</td>
-        <td></td>
-        <td>◯</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
         <td>カードヒーロー(DS)</td>
         <td></td>
         <td>◯</td>
@@ -641,7 +634,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>新・光神話　パルテナの鏡</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -745,7 +738,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説　ティアーズオブキングダム</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -829,7 +822,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>チョロQ3</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
