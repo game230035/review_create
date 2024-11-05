@@ -82,6 +82,24 @@ OPからかっこいいよね。
 <br>
 
 ##### 砂漠の神殿
+B1F  
+<img src="{{ './images/2024-11-04-21-40-31.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+1F  
+<img src="{{ './images/2024-11-04-21-40-39.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+2F  
+<img src="{{ './images/2024-11-04-21-40-49.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+ボス  
+剣の場合出てきたところを回転するのが良いと思うが、結構苦戦するかと。  
+<img src="{{ './images/2024-11-04-21-42-06.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+撃破後、力の紋章ゲット  
+<img src="{{ './images/2024-11-04-21-42-41.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+  
+##### ヘラの塔
+
 
 ### 感想
 感想は以上です。  
