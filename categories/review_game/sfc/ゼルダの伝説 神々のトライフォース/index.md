@@ -2,8 +2,9 @@
 layout: post
 title: "[レビュー＆攻略]ゼルダの伝説 神々のトライフォース"
 categories: [review_game]
-tags: []
+tags: [GBA]
 thumbnail: "./images/2024-10-31-09-12-11.png"
+toc: true
 ---
 　
 ### 一言
@@ -55,14 +56,15 @@ OPからかっこいいよね。
 <img src="{{ './images/2024-11-01-22-41-29.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
 
+
+
+##### 東の神殿
 サハスラーラに会いに行き、マスターソードを取得するには3つの紋章が必要という情報を得る。  
 そのすぐ東にある神殿へ。  
 
 <img src="{{ './images/2024-11-01-22-44-21.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <img src="{{ './images/2024-11-01-22-46-51.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
-
-##### 東の神殿
 1F  
 <img src="{{ './images/2024-11-01-22-47-22.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
@@ -82,6 +84,21 @@ OPからかっこいいよね。
 <br>
 
 ##### 砂漠の神殿
+まずはルドラの書をゲットしに、カカリコ村の下の図書館に  
+<img src="{{ './images/2024-11-06-08-41-07.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+ダッシュ体当たりでゲット  
+<img src="{{ './images/2024-11-06-08-41-18.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+神殿に向かうため、南西へ  
+<img src="{{ './images/2024-11-06-08-41-51.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+ルドラの書を使わないと入れない  
+<img src="{{ './images/2024-11-06-08-42-23.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
 B1F  
 <img src="{{ './images/2024-11-04-21-40-31.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
@@ -99,6 +116,47 @@ B1F
 <img src="{{ './images/2024-11-04-21-42-41.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
   
 ##### ヘラの塔
+教会の西のほうから洞窟に入り、進んでいきます。  
+ちょっと長い道のり  
+<img src="{{ './images/2024-11-06-07-39-43.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2024-11-06-07-39-53.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2024-11-06-07-40-15.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<br>
+
+1F  
+<img src="{{ './images/2024-11-06-07-40-34.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>    
+<br>
+
+2F  
+<img src="{{ './images/2024-11-06-07-41-04.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+3F  
+<img src="{{ './images/2024-11-06-07-41-14.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+4F  
+<img src="{{ './images/2024-11-06-07-41-23.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+5F  
+<img src="{{ './images/2024-11-06-07-41-32.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+6F  
+<img src="{{ './images/2024-11-06-07-41-44.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+ボス  
+尻尾が弱点。下に落ちると与えたダメージはリセット。こちらのダメージはそのまま。  
+<img src="{{ './images/2024-11-06-07-42-36.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+撃破後、知恵の紋章ゲット  
+<img src="{{ './images/2024-11-06-08-43-34.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+  
+
+##### マスターソード
+
 
 
 ### 感想
