@@ -83,7 +83,8 @@ OPからかっこいいよね。
 <img src="{{ './images/2024-11-01-22-48-23.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
 
-##### 砂漠の神殿
+#### 力の紋章
+
 まずはルドラの書をゲットしに、カカリコ村の下の図書館に  
 <img src="{{ './images/2024-11-06-08-41-07.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
@@ -99,6 +100,7 @@ OPからかっこいいよね。
 <img src="{{ './images/2024-11-06-08-42-23.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
+##### 砂漠の神殿
 B1F  
 <img src="{{ './images/2024-11-04-21-40-31.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
@@ -114,8 +116,9 @@ B1F
 <br>
 撃破後、力の紋章ゲット  
 <img src="{{ './images/2024-11-04-21-42-41.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-  
-##### ヘラの塔
+<br>
+
+#### 知恵の神殿
 教会の西のほうから洞窟に入り、進んでいきます。  
 ちょっと長い道のり  
 <img src="{{ './images/2024-11-06-07-39-43.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
@@ -123,6 +126,7 @@ B1F
 <img src="{{ './images/2024-11-06-07-40-15.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
 
+##### ヘラの塔
 1F  
 <img src="{{ './images/2024-11-06-07-40-34.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>    
 <br>
@@ -156,6 +160,7 @@ B1F
   
 
 ##### マスターソード
+北西の迷いの森へ  
 
 
 
