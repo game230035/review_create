@@ -15,7 +15,8 @@ OPからかっこいいよね。
   
 
 ### 簡易チャート  
-#### ゼルダ姫を救出して脱出
+#### 城  
+城に囚われているゼルダ姫を救出して脱出  
 家から城の右にある抜け穴に向かう。  
 <img src="{{ './images/2024-11-01-22-10-56.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <img src="{{ './images/2024-11-01-22-11-05.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
@@ -65,11 +66,8 @@ OPからかっこいいよね。
 <img src="{{ './images/2024-11-01-22-44-21.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <img src="{{ './images/2024-11-01-22-46-51.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
-1F  
-<img src="{{ './images/2024-11-01-22-47-22.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
-2F  
-<img src="{{ './images/2024-11-01-22-47-34.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2024-11-01-22-47-22.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-01-22-47-34.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
 <br>
 ボス  
 弓矢3発で撃破できる。
@@ -101,14 +99,10 @@ OPからかっこいいよね。
 <br>
 
 ##### 砂漠の神殿
-B1F  
-<img src="{{ './images/2024-11-04-21-40-31.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
-1F  
-<img src="{{ './images/2024-11-04-21-40-39.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
-2F  
-<img src="{{ './images/2024-11-04-21-40-49.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2024-11-04-21-40-31.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-04-21-40-39.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-04-21-40-49.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
+
 <br>
 ボス  
 剣の場合出てきたところを回転するのが良いと思うが、結構苦戦するかと。  
@@ -118,7 +112,7 @@ B1F
 <img src="{{ './images/2024-11-04-21-42-41.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-#### 知恵の神殿
+#### 知恵の紋章
 教会の西のほうから洞窟に入り、進んでいきます。  
 ちょっと長い道のり  
 <img src="{{ './images/2024-11-06-07-39-43.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
@@ -127,28 +121,12 @@ B1F
 <br>
 
 ##### ヘラの塔
-1F  
-<img src="{{ './images/2024-11-06-07-40-34.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>    
-<br>
-
-2F  
-<img src="{{ './images/2024-11-06-07-41-04.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
-
-3F  
-<img src="{{ './images/2024-11-06-07-41-14.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
-
-4F  
-<img src="{{ './images/2024-11-06-07-41-23.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
-
-5F  
-<img src="{{ './images/2024-11-06-07-41-32.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-<br>
-
-6F  
-<img src="{{ './images/2024-11-06-07-41-44.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2024-11-06-07-40-34.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-06-07-41-04.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-06-07-41-14.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
+<img src="{{ './images/2024-11-06-07-41-23.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-06-07-41-32.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-06-07-41-44.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
 <br>
 
 ボス  
@@ -158,11 +136,38 @@ B1F
 撃破後、知恵の紋章ゲット  
 <img src="{{ './images/2024-11-06-08-43-34.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
   
+<br>
 
 ##### マスターソード
 北西の迷いの森へ  
+<img src="{{ './images/2024-11-07-21-40-48.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2024-11-07-21-40-58.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<br>
 
+マスターソードをゲット  
+HP満タン時にビームが撃てる！  
+<img src="{{ './images/2024-11-07-21-41-08.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
 
+#### 城　２回目
+ゼルダ姫救出と司祭討伐のために城へ  
+城の行けなかった場所から内部へ。  
+マスターソードで封印を破壊できる。  
+<img src="{{ './images/2024-11-07-21-52-17.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<br>
+<img src="{{ './images/2024-11-07-22-16-13.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-07-22-17-17.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-07-22-27-31.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
+<img src="{{ './images/2024-11-07-22-29-25.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-07-22-29-35.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
+<img src="{{ './images/2024-11-07-22-29-48.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
+<img src="{{ './images/2024-11-07-22-44-36.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
+<br>
+ボス  
+<img src="{{ './images/2024-11-07-22-52-00.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+<img src="{{ './images/2024-11-07-22-52-33.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
 
 ### 感想
 感想は以上です。  
