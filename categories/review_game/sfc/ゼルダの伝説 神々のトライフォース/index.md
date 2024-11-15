@@ -155,18 +155,63 @@ HP満タン時にビームが撃てる！
 マスターソードで封印を破壊できる。  
 <img src="{{ './images/2024-11-07-21-52-17.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
-<img src="{{ './images/2024-11-07-22-16-13.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
-<img src="{{ './images/2024-11-07-22-17-17.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
-<img src="{{ './images/2024-11-07-22-27-31.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
-<img src="{{ './images/2024-11-07-22-29-25.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
-<img src="{{ './images/2024-11-07-22-29-35.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
-<img src="{{ './images/2024-11-07-22-29-48.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
-<img src="{{ './images/2024-11-07-22-44-36.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
+<img src="{{ './images/2024-11-07-22-16-13.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-07-22-17-17.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-07-22-27-31.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-07-22-29-25.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-07-22-29-35.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-07-22-29-48.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-07-22-44-36.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 ボス  
 <img src="{{ './images/2024-11-07-22-52-00.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 <img src="{{ './images/2024-11-07-22-52-33.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+##### 闇の神殿
+<img src="{{ './images/2024-11-15-14-52-24.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-53-54.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+##### 水のほこら
+<img src="{{ './images/2024-11-15-14-56-59.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-57-13.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-57-33.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+##### ドクロの森
+##### ブラインドの洞窟
+##### 氷の塔
+<img src="{{ './images/2024-11-15-14-34-42.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-34-51.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-34-58.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-15-14-35-04.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-35-11.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-35-18.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-15-14-35-35.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-35-41.png' }}" alt="image" width="230" style="margin: auto;" />　
+<br>
+
+##### 悪魔の沼
+<br>
+
+##### カメイワ
+<img src="{{ './images/2024-11-15-14-47-54.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-48-08.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-48-28.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-15-14-48-44.png' }}" alt="image" width="230" style="margin: auto;" />　
+<br>
+
+##### ガノンの塔
+<img src="{{ './images/2024-11-15-14-44-12.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-43-57.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-43-38.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-15-14-43-20.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-42-52.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-42-34.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-15-14-42-08.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-15-14-40-56.png' }}" alt="image" width="230" style="margin: auto;" />　
 <br>
 
 ### 感想
