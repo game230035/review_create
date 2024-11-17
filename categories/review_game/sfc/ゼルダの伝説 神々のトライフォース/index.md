@@ -174,7 +174,8 @@ HP満タン時にビームが撃てる！
 <img src="{{ './images/2024-11-07-22-29-48.png' }}" alt="image" width="230" style="margin: auto;" />  
 <img src="{{ './images/2024-11-07-22-44-36.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
-ボス  
+
+###### ボス:アグニム
 <img src="{{ './images/2024-11-07-22-52-00.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 <img src="{{ './images/2024-11-07-22-52-33.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
@@ -187,6 +188,9 @@ M.Cハンマーをゲット
 <img src="{{ './images/2024-11-15-14-53-54.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
+###### ボス:ジークロック
+<br>
+
 #### 2つ目のクリスタル
 ##### 水のほこら
 フックショットをゲット  
@@ -195,14 +199,23 @@ M.Cハンマーをゲット
 <img src="{{ './images/2024-11-15-14-57-33.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
+###### ボス:ワート
+<br>
+
 #### 3つ目のクリスタル
 ##### ドクロの森
 ファイアロッドをゲット  
 <br>
 
+###### ボス:ガモース
+<br>
+
 #### 4つ目のクリスタル
 ##### ブラインドの洞窟
 パワフルグローブをゲット  
+<br>
+
+###### ボス:ブラインド
 <br>
 
 #### 5つ目のクリスタル
@@ -219,9 +232,15 @@ M.Cハンマーをゲット
 <img src="{{ './images/2024-11-15-14-35-41.png' }}" alt="image" width="230" style="margin: auto;" />　
 <br>
 
+###### ボス:シュアイズ
+<br>
+
 #### 6つ目のクリスタル
 ##### 悪魔の沼
 ソマリアの杖をゲット  
+<br>
+
+###### ボス:ゲルドーガ
 <br>
 
 #### 7つ目のクリスタル
@@ -231,6 +250,9 @@ M.Cハンマーをゲット
 <img src="{{ './images/2024-11-15-14-48-08.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-15-14-48-28.png' }}" alt="image" width="230" style="margin: auto;" />  
 <img src="{{ './images/2024-11-15-14-48-44.png' }}" alt="image" width="230" style="margin: auto;" />　
+<br>
+
+###### ボス:デグロック
 <br>
 
 #### ガノン討伐
@@ -245,6 +267,13 @@ M.Cハンマーをゲット
 <img src="{{ './images/2024-11-15-14-42-08.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-15-14-40-56.png' }}" alt="image" width="230" style="margin: auto;" />　
 <br>
+
+###### ボス:アグニム
+<br>
+
+##### ピラミッド内部
+###### ボス:ガノン
+
 
 ### 感想
 面白いです。  
