@@ -15,15 +15,15 @@ OPからかっこいいよね。
   
 
 ### 簡易チャート  
-#### 城  
+#### ゼルダ姫 奪還 
 城に囚われているゼルダ姫を救出して脱出  
 家から城の右にある抜け穴に向かう。  
 <img src="{{ './images/2024-11-01-22-10-56.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
 <img src="{{ './images/2024-11-01-22-11-05.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
 <img src="{{ './images/2024-11-01-22-11-14.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
-
 <br>
 
+##### 城
 城に入り、1階の最奥にある階段から地下へ  
 <img src="{{ './images/2024-11-01-22-13-28.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>　
 <img src="{{ './images/2024-11-01-22-13-37.png' }}" alt="image" width="230" style="margin: auto;" alt="Image description"/>  
@@ -66,7 +66,9 @@ OPからかっこいいよね。
 
 
 ##### 東の神殿
+###### 取得アイテム
 弓をゲット  
+<img src="{{ './images/2024-11-18-07-30-53.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
 
 ###### マップ
@@ -144,13 +146,9 @@ OPからかっこいいよね。
 こっちに向かってくるが、逃げずにいると反転することが多いので、そのままダメージを与える感じ。
 <img src="{{ './images/2024-11-06-07-42-36.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
-撃破後、知恵の紋章ゲット  
-<img src="{{ './images/2024-11-06-08-43-34.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-  
-<br>
 
 ##### マスターソード
-北西の迷いの森へ  
+3つの紋章が揃ったので、北西の迷いの森へ  
 <img src="{{ './images/2024-11-07-21-40-48.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <img src="{{ './images/2024-11-07-21-40-58.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
 <br>
