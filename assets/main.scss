@@ -67,8 +67,9 @@ h2 {
     font-size: 30px;
     line-height: 1.4;
 }
+
 h3 {
-    margin: 20px auto;
+    margin: 40px auto 10px auto;
     padding: 20px;
     font-size: 25px;
     background-color: #00a6ff;
@@ -77,10 +78,10 @@ h3 {
 
 
 h4 {
-    margin: 10px 0 0;
-    color: #ffffff;/*文字色*/
-    border: solid 6px #216d1c;/*線色*/
-    background-color: #36963b;/*線色*/
+    margin: 40px auto 10px auto;
+    color: #000000;/*文字色*/
+    border: solid 6px #ff7700;/*線色*/
+    background-color: #f2fa86;/*線色*/
     padding: 0.5em;/*文字周りの余白*/
     font-size: 18px;
 }
