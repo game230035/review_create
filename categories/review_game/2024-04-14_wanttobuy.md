@@ -319,20 +319,6 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>カスタムロボGX</td>
-        <td></td>
-        <td>◯</td>
-        <td></td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
-        <td>パワプロクンポケット6</td>
-        <td></td>
-        <td>◯</td>
-        <td></td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説　ふしぎのぼうし</td>
         <td></td>
         <td>◯</td>
@@ -569,27 +555,6 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>とびだせ　どうぶつの森</td>
-        <td></td>
-        <td>◯</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
-        <td>モンスターハンターX</td>
-        <td></td>
-        <td>◯</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
-        <td>モンスターハンターXX</td>
-        <td></td>
-        <td>◯</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
         <td>Hey!　ピクミン</td>
         <td></td>
         <td>◯</td>
@@ -598,13 +563,6 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     </tr>
     <tr style="background-color: #ffffff;">
         <td>キングダムハーツ　ドリームドロップディスタンス</td>
-        <td></td>
-        <td>◯</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
-        <td>妖怪ウォッチ　バスターズ　白大隊</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
