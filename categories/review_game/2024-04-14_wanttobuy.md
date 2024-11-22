@@ -142,14 +142,14 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>トルネコの大冒険 不思議のダンジョン</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_toruneko/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/sfc/トルネコの大冒険/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ロックマンX</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_rockmanx/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/sfc/ロックマンX/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -170,7 +170,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>スーパーメトロイド</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroidsuper/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/sfc/スーパーメトロイド/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -640,7 +640,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>PSO 1&2</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_pso/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/gc/PSO/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
 
@@ -683,14 +683,14 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>メトロイド ドレッド</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_metroiddred/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/switch/メトロイドドレッド/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>ゼルダの伝説　ブレスオブザワイルド</td>
+        <td>ゼルダの伝説 ブレスオブザワイルド</td>
         <td></td>
         <td>◯</td>
-        <td><a href="{{ site.baseurl }}/categories/review_game/review_zeldabow/index.html" target="_blank">→</a></td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/switch/ゼルダの伝説ブレスオブザワイルド/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">

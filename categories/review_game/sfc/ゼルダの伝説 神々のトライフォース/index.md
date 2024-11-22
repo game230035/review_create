@@ -3,14 +3,17 @@ layout: post
 title: "[レビュー＆攻略]ゼルダの伝説 神々のトライフォース"
 categories: [review_game]
 tags: [GBA]
-thumbnail: "./images/2024-10-31-09-12-11.png"
+thumbnail: "./images/2024-11-01-22-38-09.png"
 toc: true
 ---
 　
 ### 一言
-プレイ経験あり。神ゲーです。  
-OPからかっこいいよね。  
-<img src="{{ './images/2024-11-01-22-38-09.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+思い出補正としては、神ゲーです。  
+一番最初に自分で購入したSFCソフトだと思います。  
+当時はお金無くて、中古で。  
+クリア直前の状態で、ピラミッドの穴が開いていて、落ちたらすぐガノン戦だった。  
+なんじゃコリャ〜となり、買った当初はクソゲー扱いでした。  
+
 <br>
   
 
