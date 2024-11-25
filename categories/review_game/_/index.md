@@ -4,6 +4,7 @@ title: "[レビュー＆攻略]"
 categories: [review_game]
 tags: []
 thumbnail: "./images/.png"
+toc: true
 ---
 
 ### 一言

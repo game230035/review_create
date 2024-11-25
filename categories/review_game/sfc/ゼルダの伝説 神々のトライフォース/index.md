@@ -338,6 +338,9 @@ M.Cハンマーをゲット
 森全体がダンジョンとなっていて、ちょっとややこしい。  
 魔法の薬を持っていった方が良い。  
 ###### マップ
+<img src="{{ './images/2024-11-25-16-06-59.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-25-16-07-07.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
 
 ###### 取得アイテム
 ファイアロッドをゲット  
@@ -362,6 +365,9 @@ M.Cハンマーをゲット
 <br>
 
 ###### マップ
+<img src="{{ './images/2024-11-25-16-09-04.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-25-16-09-12.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-25-16-09-20.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
 ###### 取得アイテム

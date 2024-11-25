@@ -18,6 +18,29 @@
 
     {%- include footer.html -%}
 
+    <!-- Scroll to Top Button -->
+    <button id="backToTop" style="display: none;">▲</button>
+
+    <!-- JavaScript for Scroll to Top -->
+    <script>
+      // ボタンの表示/非表示
+      window.addEventListener("scroll", function () {
+        const button = document.getElementById("backToTop");
+        if (window.scrollY > 200) { // スクロールが200pxを超えたら表示
+          button.style.display = "block";
+        } else {
+          button.style.display = "none";
+        }
+      });
+
+      // ボタンがクリックされたときの動作
+      document.getElementById("backToTop").addEventListener("click", function () {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth" // スムーズスクロール
+        });
+      });
+    </script>
   </body>
 
 </html>
