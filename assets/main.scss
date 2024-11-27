@@ -212,21 +212,21 @@ h6:before {
 
 /* ボタンのスタイル */
 #backToTop {
-  position: fixed;
-  bottom: 20px; /* 画面下からの距離 */
-  right: 20px; /* 画面右からの距離 */
-  padding: 10px 15px;
-  font-size: 16px;
-  background-color: #007bff; /* ボタンの背景色 */
-  color: white; /* テキストの色 */
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  z-index: 1000;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    position: fixed;
+    bottom: 20px; /* 画面下からの距離 */
+    right: 20px; /* 画面右からの距離 */
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #007bff; /* ボタンの背景色 */
+    color: white; /* テキストの色 */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1000;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 /* ボタンがホバーされたとき */
 #backToTop:hover {
-  background-color: #0056b3;
+    background-color: #0056b3;
 }
