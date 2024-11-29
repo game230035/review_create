@@ -21,6 +21,12 @@ toc: true
   
 
 ### 簡易チャート  
+#### 勇者の性格
+何が良いかは分からないけど、とりあえずボロクソ言われた。  
+<img src="{{ './images/2024-11-29-15-23-05.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-29-15-23-17.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
 #### メンバー
 勇者・盗賊・遊び人・魔物使い  
 <img src="{{ './images/2024-11-28-22-10-59.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  

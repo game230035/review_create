@@ -523,7 +523,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>ゼルダの伝説 神々のトライフォース2</td>
         <td></td>
         <td>◯</td>
-        <td>-</td>  
+        <td><a href="{{ site.baseurl }}/categories/review_game/3ds/ゼルダの伝説神々のトライフォース2/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
