@@ -8,12 +8,13 @@ toc: true
 ---
 
 ### 一言
-ゼルダの伝説 神々のトライフォースの22年ぶりの続編  
-  
+SFCで発売された、ゼルダの伝説 神々のトライフォースより  
+約22年ぶりの続編  
+<br>
 登場キャラはほとんど新規で、前作のつながりはほとんど無いが、  
 マップやボス、武器などはオマージュとなっている。  
-  
-壁に張り付くという新要素や殆どの武器を最初から使えるという新しい試みがあり、
+<br>
+壁に張り付くという新要素や殆どの武器を最初から使えるという新しい試みがある一方。  
 またその世代に合わせた難易度が設定されていて、  
 賛否両論な作品となっている印象。  
   
@@ -45,7 +46,7 @@ toc: true
 <img src="{{ './images/2024-11-24-18-11-49.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-#### 1つ目の紋章
+#### 1つ目の紋章まで
 ラヴィオに助けられる。  
 城に行って、絵画を観ると、ゼルダ姫に会えるので、事情を伝える。  
 ゼルダ姫の方が年齢的に上な感じ。  
@@ -243,6 +244,69 @@ toc: true
 <img src="{{ './images/2024-11-29-16-32-55.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
+#### 3つ目の紋章まで
+風の館の近くで手紙入りボトルを取得  
+それをカカリコ村のミルクバーの店主に渡すとプレミアムミルクを入れてもらえる。  
+後にビンとなる。  
+<img src="{{ './images/2024-11-30-14-35-30.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-14-35-57.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-14-36-07.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+ラヴィオショップでハンマーをレンタル  
+<img src="{{ './images/2024-11-30-14-48-38.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+ヘラの塔に向かう  
+道中は結構長め  
+<img src="{{ './images/2024-11-30-15-15-49.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-11-19.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-16-28.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-11-30-15-26-14.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+##### ヘラの塔
+とにかくフロア数が多いが、１フロアごとのギミックはそれほどなく、すぐに上の階に行ったりできる。  
+###### マップ
+<img src="{{ './images/2024-11-30-15-26-32.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-29-27.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-32-41.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-30-15-33-57.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-34-07.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-34-21.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-30-15-36-31.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-36-44.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-36-54.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-30-15-37-04.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-15-37-14.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-11-30-17-40-07.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-11-30-17-40-31.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+###### 取得アイテム
+なし  
+<br>
+
+###### ボス:デグテール
+ハンマーで体を叩くと少しだけマヒさせることができるので、  
+そのうちにシッポの赤い部分を攻撃。  
+前作よりは戦いやすい相手となっていると思う。  
+<img src="{{ './images/2024-11-30-17-49-01.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+
+
+
+#### 1つ目のクリスタルまで
+#### 2つ目のクリスタルまで
+#### 3つ目のクリスタルまで
+#### 4つ目のクリスタルまで
+#### 5つ目のクリスタルまで
+#### 6つ目のクリスタルまで
+#### 7つ目のクリスタルまで
+
+
+
+<br>
 ### 感想
 
 <br>

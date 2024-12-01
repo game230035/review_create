@@ -2,13 +2,9 @@ Jekyll
 でブログ作成
 
 ## 新規記事追加手順
-
-
-
 gem install jekyll bundler
 
-
-起動
+## 起動
 bundle exec jekyll serve
 
 ## リンク
@@ -16,13 +12,13 @@ http://127.0.0.1:4000/
 http://127.0.0.1:4000/review_create/
 
 
-
-記事一覧
+## 記事一覧
 /Users/comboengineering/work/review_create/_layouts/home.html
 
+## トップの更新履歴
+/Users/comboengineering/work/review_create/_layouts/home.html
 
-
-css
+## css
 /Users/comboengineering/work/blog/review_create/assets/main.scss
 
 
@@ -43,3 +39,5 @@ sh /Volumes/DATADISK/Data/sh/reviewcreate_create.sh
 機能を増やすか、すぐにリリースするか考え中です。
 
 どちらかというと、もうリリースしようという思いのほうが強い。
+
+

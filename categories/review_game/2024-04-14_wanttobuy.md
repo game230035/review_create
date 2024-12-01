@@ -476,13 +476,6 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>BIOHAZARD Deadly Silence</td>
-        <td></td>
-        <td>◯</td>
-        <td>-</td>  
-        <td></td>
-    </tr>
-    <tr style="background-color: #ffffff;">
         <td>超操縦メカMG</td>
         <td></td>
         <td>◯</td>
