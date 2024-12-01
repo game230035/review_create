@@ -293,7 +293,65 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 そのうちにシッポの赤い部分を攻撃。  
 前作よりは戦いやすい相手となっていると思う。  
 <img src="{{ './images/2024-11-30-17-49-01.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
 
+#### ハイラル城での決戦
+##### マスターソード
+ベルでアイリンを呼ぶと、なぜかほうきだけが来る。。。  
+ラヴィオショップではアイテムの買い取りができるように。  
+初回半額なので、ファイアロッドかアイスロッドが良いと思われる。  
+<img src="{{ './images/2024-12-01-14-48-05.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-48-19.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+マップの北西の迷いの森へ  
+同じキャラの中で指定のキャラと同じトンネルや、指定のキャラとは別のトンネルをくぐるというルールで進む必要がある。  
+3回あって、結構難しい。  
+<img src="{{ './images/2024-12-01-14-48-31.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-50-57.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-48-36.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+マスターソードゲット  
+その後はハイラル城へ  
+<img src="{{ './images/2024-12-01-14-48-50.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+##### ハイラル城
+一本道なので、苦労はしない。  
+###### マップ
+<img src="{{ './images/2024-12-01-14-51-36.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-51-43.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-51-51.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-12-01-14-52-07.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-52-14.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-52-19.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-12-01-14-52-24.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+###### 取得アイテム
+なし  
+<br>
+
+###### ボス:ユガ
+3体に分裂。  
+偽物を攻撃すると、雑魚敵に変わってしまう。  
+見分ける方法は無い気がする。  
+一度判別したらずっとマークするように。  
+<img src="{{ './images/2024-12-01-14-49-36.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+##### ユガ撃破後
+ユガの後を追い、ロウラルへ  
+ユガがガノンと一体化してしまうが、ヒルダに足止めしてもらう。  
+以降、囚われた七賢者を救うことが目的となる。  
+<img src="{{ './images/2024-12-01-14-49-45.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-49-54.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-50-10.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+<img src="{{ './images/2024-12-01-14-50-26.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-01-14-50-33.png' }}" alt="image" width="230" style="margin: auto;" />　
 
 
 #### 1つ目のクリスタルまで
