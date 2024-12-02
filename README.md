@@ -13,7 +13,7 @@ http://127.0.0.1:4000/review_create/
 
 
 ## 記事一覧
-/Users/comboengineering/work/review_create/_layouts/home.html
+code /Users/comboengineering/work/review_create/_layouts/home.html
 
 ## トップの更新履歴
 /Users/comboengineering/work/review_create/_layouts/home.html

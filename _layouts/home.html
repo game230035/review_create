@@ -85,6 +85,10 @@ permalink: /changelog/
 <hr>
 <br>
 
+
+
+
+
 <h2> 記事一覧 </h2>
   <ul class="post-list">
     {%- for path in page_paths -%}
@@ -92,9 +96,7 @@ permalink: /changelog/
         {%- assign my_page = site.pages | where: "path", path | first -%}
         
         {%- if my_page.title and my_page.title != "" -%}
-          {%- unless my_page.categories contains "review_game" -%}
-
-          <!-- {{ my_page.categories }} -->
+        {%- unless my_page.categories contains "review_game" or my_page.categories contains "one_k" or my_page.categories contains "review_bussiness" -%}
               {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
               
               <span class="post-meta">{{ my_page.date | date: date_format }}</span>
