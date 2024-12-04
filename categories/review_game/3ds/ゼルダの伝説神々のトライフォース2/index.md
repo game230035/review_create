@@ -355,12 +355,133 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 
 
 #### 1つ目のクリスタルまで
+ロウラルにて、ハイラルだと自宅がある場所の家からあきびんをゲット  
+<img src="{{ './images/2024-12-04-09-23-00.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+ハイラルへはあきびんがあった家の下の壁に張り付いて、次元の割れ目でワープする。  
+サハスラーラと会話  
+<img src="{{ './images/2024-12-04-09-24-50.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-23-34.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+次のダンジョン攻略のため、ラヴィオの店でフックショットを購入  
+<img src="{{ './images/2024-12-04-09-24-08.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+ロウラル南にある水のほこらのダンジョンへ  
+ただ大きな岩が水を塞いでいて、進めない。  
+<img src="{{ './images/2024-12-04-09-28-20.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-27-13.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-27-24.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+広場の横にあるバクダン屋にいって、200ルピー使用料を払い、大きなバクダンを連れてくる。  
+索敵しながら、大きな岩の前で大きなバクダンを起動。  
+水が引いて、ダンジョンを進めるように。  
+入口へはフックショットを使う。  
+<img src="{{ './images/2024-12-04-09-28-31.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-28-42.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-28-54.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-04-09-29-00.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-29-08.png' }}" alt="image" width="230" style="margin: auto;" />　
+
+##### 水のほこら
+###### マップ
+<img src="{{ './images/2024-12-04-09-30-51.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-31-25.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-04-09-31-35.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+###### 取得アイテム
+青い服をゲット  
+<img src="{{ './images/2024-12-04-09-31-04.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+###### ボス:ワート
+<img src="{{ './images/2024-12-04-09-30-57.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
 #### 2つ目のクリスタルまで
+##### 
+###### マップ
+
+<br>
+
+###### 取得アイテム
+
+<br>
+
+###### ボス:
+<br>
+
 #### 3つ目のクリスタルまで
+##### 
+###### マップ
+
+<br>
+
+###### 取得アイテム
+
+<br>
+
+###### ボス:
+<br>
+
 #### 4つ目のクリスタルまで
+##### 
+###### マップ
+
+<br>
+
+###### 取得アイテム
+
+<br>
+
+###### ボス:
+<br>
+
 #### 5つ目のクリスタルまで
+##### 
+###### マップ
+
+<br>
+
+###### 取得アイテム
+
+<br>
+
+###### ボス:
+<br>
+
 #### 6つ目のクリスタルまで
+##### 
+###### マップ
+
+<br>
+
+###### 取得アイテム
+
+<br>
+
+###### ボス:
+<br>
+
 #### 7つ目のクリスタルまで
+##### 
+###### マップ
+
+<br>
+
+###### 取得アイテム
+
+<br>
+
+###### ボス:
+<br>
+
+#### ハイラル城
 
 
 
