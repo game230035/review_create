@@ -394,8 +394,7 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-04-09-31-35.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-###### 取得アイテム
-青い服をゲット  
+###### 取得アイテム:青い服
 <img src="{{ './images/2024-12-04-09-31-04.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
@@ -407,10 +406,11 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 ロウラル西にあるはぐれの村のダンジョンへ  
 ダンジョンの入口は閉ざされていて、合言葉を言う必要がある。  
 合言葉ははぐれの村の住人から聞ける。  
+<img src="{{ './images/2024-12-06-09-05-05.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-12-05-21-47-52.png' }}" alt="image" width="230" style="margin: auto;" />　
-<img src="{{ './images/2024-12-05-21-48-00.png' }}" alt="image" width="230" style="margin: auto;" />　
-<img src="{{ './images/2024-12-05-21-48-17.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2024-12-05-21-48-00.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
+<img src="{{ './images/2024-12-05-21-48-17.png' }}" alt="image" width="230" style="margin: auto;" />
 <img src="{{ './images/2024-12-05-21-48-23.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
@@ -432,17 +432,47 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-05-21-48-43.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-#### 3つ目のクリスタルまで
-##### 
-###### マップ
 
+#### 3つ目のクリスタルまで:砂漠の神殿
+はぐれもののアジト攻略すると、サンドロッドが回収される。  
+ラヴィオの店にサンドロッドが並ぶので、800ルピーで購入後、マイマイを10匹以上集めて、パワーアップさせる。  
+（パワーアップさせなくても攻略できるけど、実質、サンドロッドは次のダンジョン専用なので、ここでパワーアップさせとかないとムナシイ。）  
+<img src="{{ './images/2024-12-06-09-15-37.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-16-21.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-16-29.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+地図南西の砂漠の神殿へ。  
+ハイラルより向かう。  
+いくつか次元の切れ目を経由して、最終的には、ハイラルにある神殿に行き着く。  
+サンドロッドを使用して神殿にはいる。  
+<img src="{{ './images/2024-12-06-09-16-42.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-16-49.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-16-55.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-06-09-17-01.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-17-06.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-17-20.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-###### 取得アイテム
+##### 砂漠の神殿
+###### マップ
+ボスはロウラルに移動して対決する。  
+<img src="{{ './images/2024-12-06-09-17-33.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-19-22.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-19-28.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-06-09-19-32.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-06-09-17-52.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
 
+###### 取得アイテム:パワフルグローブ
+<img src="{{ './images/2024-12-06-09-17-40.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### ボス:ザーガナーガ
+サンドロッドでボスまで近づき、本体をひたすら剣で攻撃。  
+雑魚は優先的に処理。  
+<img src="{{ './images/2024-12-06-09-18-02.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 #### 4つ目のクリスタルまで
