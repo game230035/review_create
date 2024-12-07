@@ -476,6 +476,86 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <br>
 
 #### 4つ目のクリスタルまで
+##### 大幅パワーアップ
+サンドロッドとパワフルグローブを入手したことで、ハートのかけらやマイマイなど、ほとんどのアイテムが取得可能となる。  
+マイマイを集めると、装備アイテム強化できるが  
+装備アイテムはラビィオから購入しているのが前提なので、かなりルピーが必要となる。  
+<br>
+ルピー稼ぎとしては  
+ロウラルのギリギリルピー集めか、痛快！大バトル道場の200ルピーが現状では良いと  
+- ギリギリルピー集めはラスト1秒以下とかのボーナスを必ず狙う。  
+- 大バトル道場はマイマイをすべて集め終わって、大回転斬りをゲットできたらかなり楽になる。  
+  トルネードロッドもパワーアップしていると、さらに楽になる。
+  300ルピーコースはちょっと厳しいし、剣と服が最大Lvでないので効率が悪いかも  
+
+<br>
+トレジャーハントはゲーム性があるが効率は悪いと思う。  
+また、以下の場所で、575ルピーもらえる。  
+300ルピーが最後でその後要求すると怒って敵対するので注意  
+<img src="{{ './images/2024-12-07-14-23-49.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-23-56.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-24-09.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+ルピーが集まったら、ラヴィオの店ですべて購入  
+<img src="{{ './images/2024-12-07-14-26-06.png' }}" alt="image" width="360" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-26-11.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-07-14-26-17.png' }}" alt="image" width="360" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-26-26.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-07-14-26-32.png' }}" alt="image" width="360" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-26-38.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+
+マイマイをすべて集めて、10個のアイテムをパワーアップしました。  
+<img src="{{ './images/2024-12-07-14-27-02.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+すべてパワーアップすると大回転斬りを覚える  
+<img src="{{ './images/2024-12-07-14-27-21.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+以下の場所でプレミアムミルクのビンをゲット  
+<img src="{{ './images/2024-12-07-14-24-50.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-24-31.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-24-38.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+以下の場所で合計3000ルピー使うと、ビンをゲットできる。  
+これのビンは最後で良いかも。ルピーはアイテム購入を優先したほうが。  
+<img src="{{ './images/2024-12-07-14-25-41.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-44-52.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-07-14-25-47.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+マイマイ集めついで、黄金のハチがいたので、回収して、ハチおじさんにもっていくとバッヂを貰える。  
+<img src="{{ './images/2024-12-07-14-27-30.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+マスターストーンのために、ロウラルの以下の場所へ、ミニダンジョンとなっている。  
+<img src="{{ './images/2024-12-07-14-28-02.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-27-52.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-07-14-50-48.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+マスターストーンをゲット  
+<img src="{{ './images/2024-12-07-14-28-07.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+これでマスターストーンが2つになっているので、  
+ハイラルの鍛冶屋に行って、剣を鍛えてもらう。  
+<img src="{{ './images/2024-12-07-14-28-16.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+マスターソードLv2をゲット  
+<img src="{{ './images/2024-12-07-14-28-21.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+ハートのかけらも集め終わって、この記事のルートだと残り5個になっていると思う。  
+残り4ダンジョンと、カメイワのダンジョン途中のハートのかけらとかは取れない。  
+<img src="{{ './images/2024-12-07-14-28-37.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
 ##### 
 ###### マップ
 
