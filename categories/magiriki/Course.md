@@ -76,3 +76,24 @@ thumbnail: "./images/2024-12-04-22-22-09.png"
 <br>
 <img src="{{ './images/2024-12-04-22-48-39.png' }}" alt="image" width="360" style="margin: auto;" />  
 <br>
+
+#### コース８
+<img src="{{ './images/2024-12-08-00-22-10.png' }}" alt="image" width="360" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-00-22-37.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-08-00-22-55.png' }}" alt="image" width="360" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-00-23-05.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-08-00-23-34.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+
+#### コース９
+<img src="{{ './images/2024-12-08-00-25-07.png' }}" alt="image" width="360" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-00-25-15.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-08-00-25-20.png' }}" alt="image" width="360" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-00-25-24.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-08-00-25-29.png' }}" alt="image" width="360" style="margin: auto;" />  
+<br>
+
