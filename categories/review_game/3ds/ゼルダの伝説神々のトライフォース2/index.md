@@ -433,7 +433,7 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <br>
 
 
-#### 3つ目のクリスタルまで:砂漠の神殿
+#### 3つ目のクリスタル(砂漠の神殿)まで
 はぐれもののアジト攻略すると、サンドロッドが回収される。  
 ラヴィオの店にサンドロッドが並ぶので、800ルピーで購入後、マイマイを10匹以上集めて、パワーアップさせる。  
 （パワーアップさせなくても攻略できるけど、実質、サンドロッドは次のダンジョン専用なので、ここでパワーアップさせとかないとムナシイ。）  
@@ -475,7 +475,7 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-06-09-18-02.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-#### 4つ目のクリスタルまで
+#### 4つ目のクリスタル(ドクロの森)まで
 ##### 大幅パワーアップ
 サンドロッドとパワフルグローブを入手したことで、ハートのかけらやマイマイなど、ほとんどのアイテムが取得可能となる。  
 マイマイを集めると、装備アイテム強化できるが  
@@ -556,29 +556,69 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-07-14-28-37.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-##### 
-###### マップ
-
+##### ドクロの森
+準備が整ったら、マップ北西にあるドクロの森へ。  
+ロウラルにて、ハイラルではロッソの家だった所の家から西に進む。  
+今作でも森全体がダンジョンとなっている感じ。  
+また、例の「手」も出てくるし、「手」を使ったギミックも登場。  
+<img src="{{ './images/2024-12-08-13-13-23.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-13-30.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-21-12.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-###### 取得アイテム
+###### マップ
+終盤の降りる穴は2枚目  
+<img src="{{ './images/2024-12-08-13-12-03.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-12-12.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-08-13-12-22.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-12-28.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
 
+###### 取得アイテム:マスターストーン
+<img src="{{ './images/2024-12-08-13-13-10.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### ボス:ナックルマスター
+攻撃や地面たたきつけは壁張り付きでやり過ごす。  
+こちらにグーで攻撃してくるタイミングで壁に張り付いていると、スキができるのでそのうちに攻撃。  
+<img src="{{ './images/2024-12-08-13-13-02.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 #### 5つ目のクリスタルまで
-##### 
-###### マップ
-
+マップ東にある闇の神殿へ  
+ゼルダあるあるで、ダンジョンまでは敵の目をかいくぐって抜ける場所がある。  
+壁張り付きを適度に使う。  
+入口はバクダンを使い、ダンジョン内でも適度に利用することを示唆している。  
+<img src="{{ './images/2024-12-08-13-44-54.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-45-31.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-45-02.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-###### 取得アイテム
+##### 闇の神殿
+###### マップ
+ダンジョンアイテムの位置や取得方法がものすごく分かりにくい。  
+1段目の2枚目と3枚目。  
+2枚目のスイッチをONにするとその部屋の上部のかべが反転する。  
+なので、2枚目のスイッチバクダン攻撃の時差を利用して、すぐに3枚目の位置に行き、近くのスイッチを起動し、上段に上り、壁反転を待つ。  
+<img src="{{ './images/2024-12-08-13-45-16.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-46-13.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-46-19.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-08-13-46-30.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-46-36.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-08-13-46-41.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
 
+###### 取得アイテム:マスターストーン
+<img src="{{ './images/2024-12-08-13-45-42.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### ボス:ジュエルロック
+ボス部屋で右下と左上の灯籠に火を付けると、ボス戦開始。  
+仮面をバクダンで壊した後、顔を剣で攻撃。  
+突進は壁張り付きでやり過ごす。  
+<img src="{{ './images/2024-12-08-13-47-53.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 #### 6つ目のクリスタルまで
