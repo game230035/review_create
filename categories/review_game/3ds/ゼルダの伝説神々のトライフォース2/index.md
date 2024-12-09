@@ -96,13 +96,15 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-11-29-15-26-11.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
+
+
+##### 東の神殿
 弓矢でギミックを解いて、東の神殿に行き、アスファルに会うも、軽くあしらわれる。  
 追って神殿内へ  
 <img src="{{ './images/2024-11-29-15-26-28.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-29-15-26-47.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-##### 東の神殿
 ###### マップ
 <img src="{{ './images/2024-11-29-15-31-17.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-29-15-31-25.png' }}" alt="image" width="230" style="margin: auto;" />　
@@ -216,13 +218,14 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <br>
 
 
+
+
+##### 風の館
 マップ南東の風の館へ。  
 入口でトルネードロッドを使って、中に入る。  
 <img src="{{ './images/2024-11-29-16-30-45.png' }}" alt="image" width="230" style="margin: auto;" />  
-
 <br>
 
-##### 風の館
 ###### マップ
 <img src="{{ './images/2024-11-29-16-32-47.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-29-16-32-38.png' }}" alt="image" width="230" style="margin: auto;" />　
@@ -257,8 +260,12 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-11-30-14-48-38.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
+
+
+##### ヘラの塔
 ヘラの塔に向かう  
 道中は結構長め  
+ヘラの塔は、とにかくフロア数が多いが、１フロアごとのギミックはそれほどなく、すぐに上の階に行ったりできる。  
 <img src="{{ './images/2024-11-30-15-15-49.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-30-15-11-19.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-30-15-16-28.png' }}" alt="image" width="230" style="margin: auto;" />  
@@ -266,8 +273,6 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-11-30-15-26-14.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-##### ヘラの塔
-とにかくフロア数が多いが、１フロアごとのギミックはそれほどなく、すぐに上の階に行ったりできる。  
 ###### マップ
 <img src="{{ './images/2024-11-30-15-26-32.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-11-30-15-29-27.png' }}" alt="image" width="230" style="margin: auto;" />　
@@ -369,6 +374,8 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-04-09-24-08.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
+
+##### 水のほこら
 ロウラル南にある水のほこらのダンジョンへ  
 ただ大きな岩が水を塞いでいて、進めない。  
 <img src="{{ './images/2024-12-04-09-28-20.png' }}" alt="image" width="230" style="margin: auto;" />　
@@ -386,8 +393,8 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <br>
 <img src="{{ './images/2024-12-04-09-29-00.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-12-04-09-29-08.png' }}" alt="image" width="230" style="margin: auto;" />　
+<br>
 
-##### 水のほこら
 ###### マップ
 <img src="{{ './images/2024-12-04-09-30-51.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-12-04-09-31-25.png' }}" alt="image" width="230" style="margin: auto;" />　
@@ -441,6 +448,9 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-06-09-16-21.png' }}" alt="image" width="230" style="margin: auto;" />　
 <img src="{{ './images/2024-12-06-09-16-29.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
+
+
+##### 砂漠の神殿
 地図南西の砂漠の神殿へ。  
 ハイラルより向かう。  
 いくつか次元の切れ目を経由して、最終的には、ハイラルにある神殿に行き着く。  
@@ -454,7 +464,6 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-06-09-17-20.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-##### 砂漠の神殿
 ###### マップ
 ボスはロウラルに移動して対決する。  
 <img src="{{ './images/2024-12-06-09-17-33.png' }}" alt="image" width="230" style="margin: auto;" />　
@@ -585,7 +594,7 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-08-13-13-02.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-#### 5つ目のクリスタルまで
+#### 5つ目のクリスタル(闇の神殿)まで
 マップ東にある闇の神殿へ  
 ゼルダあるあるで、ダンジョンまでは敵の目をかいくぐって抜ける場所がある。  
 壁張り付きを適度に使う。  
@@ -621,33 +630,102 @@ SFCで発売された、ゼルダの伝説 神々のトライフォースより
 <img src="{{ './images/2024-12-08-13-47-53.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-#### 6つ目のクリスタルまで
-##### 
-###### マップ
+#### 6つ目のクリスタル(カメイワ)まで
+まずはマスターストーンが2つ揃ったので、剣のパワーアップを行う。  
+ロウラルの鍛冶屋へ  
+<img src="{{ './images/2024-12-09-09-34-44.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-40-45.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
 
+マスターソードLv3 最終強化段階をゲット  
+<img src="{{ './images/2024-12-09-09-35-32.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+##### カメイワ
+マップ南東のカメイワに向かうが、途中困っているカメママを助けないと、ダンジョンに到達できない。  
+3匹の子ガメを助ける。場所は2段目の画像3枚。  
+助けると、カメの上に登れるので、ダンジョンに向かうことができる。  
+アイスロッドを使い、溶岩を固めて、入口へ  
+<img src="{{ './images/2024-12-09-09-36-21.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-36-29.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-09-09-36-44.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-36-51.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-36-57.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-09-09-37-16.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-37-33.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-37-44.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+###### マップ
+ダンジョン内の1F西の部分からワープを使い外に出ると、ハートのかけらを取得  
+<img src="{{ './images/2024-12-09-09-37-58.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-59-24.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-09-09-41-19.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-09-41-26.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
 ###### 取得アイテム
-
+<img src="{{ './images/2024-12-09-09-38-14.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### ボス:ボルガロック
+金網の隙間からアイスロッドで攻撃する。  
+ある程度ダメージを与えると、金網の上でのバトルとなる。  
+頭を攻撃する、アイスロッドを当てたり、剣で攻撃。  
+溶岩をアイスロッドで固めた所にボスの頭がぶつかると、スキができる。  
+<img src="{{ './images/2024-12-09-09-38-21.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-#### 7つ目のクリスタルまで
-##### 
+#### 7つ目のクリスタル（氷の遺跡）まで
+##### 氷の遺跡
+マップ北東の氷の遺跡へ  
+鉱石場や、氷の床移動のマップを経由するひつようがあり、かなり面倒くさい。  
+マイマイをすべて見つけている人はすでに来ていて、風見鶏を起動させていると思う。  
+入口にある氷の銅像はファイアロッドで溶かして入る。  
+<img src="{{ './images/2024-12-09-10-20-30.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-20-36.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-20-43.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-09-10-20-49.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
 ###### マップ
-
+大きな部屋の鍵はエレベータ起動後にすぐ取れるので、忘れずに  
+<img src="{{ './images/2024-12-09-10-20-59.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-21-06.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-22-57.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-09-10-22-50.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-22-37.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-22-31.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2024-12-09-10-22-25.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-22-43.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2024-12-09-10-22-19.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
-###### 取得アイテム
-
+###### 取得アイテム:頑張りの秘訣
+<img src="{{ './images/2024-12-09-10-21-14.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### ボス:ブラックシュアイズ
+まずはファイアロッドでボスの氷を溶かす。  
+床が滑るので移動に注意。  
+黒い体が現れたら、剣でひたすら攻撃。  
+大回転斬りを覚えていると結構有効。  
+ある程度ダメージを与えると、範囲攻撃を2段階でしてくる。  
+1段階目の近くにいて、それが終わったら、直ぐにそこに移動すると避けやすい。  
+<img src="{{ './images/2024-12-09-10-21-23.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
-#### ハイラル城
+
+
+#### ハイラル城まで
+すべてのクリスタルを蒐めると、勇気のトライフォースをゲット  
+<img src="{{ './images/2024-12-09-10-23-07.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 
 

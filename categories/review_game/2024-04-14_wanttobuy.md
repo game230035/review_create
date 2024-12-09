@@ -204,7 +204,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>アクトレイザー</td>
         <td>1000円</td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -710,7 +710,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 知恵のかりもの</td>
         <td></td>
-        <td>-</td>
+        <td>○</td>
         <td>-</td>  
         <td></td>
     </tr>
@@ -743,7 +743,7 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>逆転裁判シリーズ</td>
+        <td>逆転裁判1・2・3</td>
         <td></td>
         <td>-</td>
         <td>-</td>  
