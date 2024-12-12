@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]スーパーメトロイド"
+title: "[攻略]スーパーメトロイド"
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-08-21-14-24-29.png"

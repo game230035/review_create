@@ -10,11 +10,16 @@
     {%- include header.html -%}
     {%- include image_modal.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+    <div class="defaultpage-wrapper">
+      <div class="defaultpage-container">
+          <div class="main-container">
+              {{ content }}
+          </div>
+          <div class="sidebar-container">
+              {% include sidebar.html %}
+          </div>
       </div>
-    </main>
+  </div>
 
     {%- include footer.html -%}
 

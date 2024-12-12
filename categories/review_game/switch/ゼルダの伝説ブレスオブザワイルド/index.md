@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]ゼルダの伝説　ブレスオブザワイルド"
+title: "[攻略]ゼルダの伝説　ブレスオブザワイルド"
 categories: [review_game]
 tags: [switch]
 thumbnail: ""

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]SFC版　ドラゴンクエストⅢ"
+title: "[攻略]SFC版　ドラゴンクエストⅢ"
 categories: [review_game]
 tags: [SFC]
 thumbnail: "./images/2024-11-21-12-52-50.png"

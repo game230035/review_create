@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]トルネコの大冒険2　アドバンス"
+title: "[攻略]トルネコの大冒険2　アドバンス"
 categories: [review_game]
 tags: [GBA]
 thumbnail: "./images/2024-10-12-14-57-56.png"

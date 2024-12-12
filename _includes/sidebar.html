@@ -1,0 +1,73 @@
+<div id="sidebar">
+    {%- assign pages_with_sort_key = site.pages -%}
+    {%- assign map_pages = pages_with_sort_key | map: "last_modified_at" | compact-%}
+    {%- assign sorted_pages = map_pages | sort | reverse -%}
+
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = default_paths | reverse -%}
+
+    <h2>更新履歴</h2>
+    {%- assign target_checkcount = 0 -%}
+    {%- assign displayed_titles = "" | split: "," -%} <!-- 表示済みのタイトルを管理するリスト -->
+    {% assign page_count = site.pages | size %}
+
+    {%- for target_index in (0..5) -%}
+        {%- for page_index in (0..page_count) -%}
+        
+        {%- assign target_date = sorted_pages[target_index] | date: "%Y-%m-%d %H:%M:%S %z" -%}
+        {%- assign page_date = site.pages[page_index].last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" -%}
+    
+        {%- if page_date == target_date -%}
+        <!-- == {{ site.pages[page_index].title }} == {{ page_date }} == {{ target_date }}<br> -->
+        
+            <!-- タイトルを取得 -->
+            {%- assign page_title = site.pages[page_index].title -%}
+
+            <!-- タイトルが空、またはmain.cssなど特定のファイルを除外 -->
+            {%- if page_title and page_title != "" and page_title != "main.css" -%}
+
+                <!-- 表示済みタイトルに含まれているかのチェック -->
+                {% capture check_displayed %}
+                    {% for displayed_title in displayed_titles %}
+                        {% if displayed_title == page_title %}
+                        yes
+                        {% endif %}
+                    {% endfor %}
+                {% endcapture %}
+
+                <!-- 含まれていなければ表示 -->
+                {%- unless check_displayed contains "yes" -%}
+                    <div class="post-link-home-update-title">
+                        <a href="{{ site.pages[page_index].url | relative_url }}">
+                        {{ page_title | escape }} <span class="post-meta">{{ site.pages[page_index].last_modified_at | date: '%Y/%m/%d' }}</span>
+                        </a>
+                    </div>
+                    
+                    {%- assign target_checkcount = target_checkcount | plus: 1 -%}
+                    {%- assign displayed_titles = displayed_titles | push: page_title -%} <!-- タイトルをリストに追加 -->
+                    {% break %}
+                {%- endunless -%}
+
+            {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+
+    {%- if 5 <= target_checkcount -%}
+        {% break %}
+    {%- endif -%}
+{%- endfor -%}
+<br>
+<h2>Navigation</h2>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/blog/">Blog</a></li>
+    </ul>
+
+    <h2>Categories</h2>
+    <ul>
+        {% for category in site.categories %}
+        <li><a href="{{ site.baseurl }}/categories/{{ category[0] }}">{{ category[0] }}</a></li>
+        {% endfor %}
+    </ul>
+</div>

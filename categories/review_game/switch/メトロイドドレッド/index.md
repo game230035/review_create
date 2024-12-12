@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]メトロイド ドレッド"
+title: "[攻略]メトロイド ドレッド"
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-09-25-07-02-28.png"

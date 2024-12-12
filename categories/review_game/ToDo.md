@@ -43,11 +43,6 @@ toc: true
 修正が必要なページのメモです。  
 <br>
 
-- [ロックマンX](https://game230035.github.io/review_create/categories/review_game/sfc/ロックマンX/)  
-    サムネ不足  
-    
-<br>
-
 - [スーパーメトロイド](https://game230035.github.io/review_create/categories/review_game/sfc/スーパーメトロイド/)  
     画像付きでもう少し詳しく説明したい  
 
@@ -70,7 +65,8 @@ toc: true
 <br>
 トルネコの大冒険 不思議のダンジョン  
 SFC版　ドラゴンクエストⅢ  
-ゼルダの伝説 神々のトライフォース
+ロックマンX  
+ゼルダの伝説 神々のトライフォース  
 メトロイド　ゼロミッション  
 メトロイド　フュージョン  
 トルネコの大冒険2　アドバンス  

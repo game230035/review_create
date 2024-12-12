@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]メトロイド フュージョン"
+title: "[攻略]メトロイド フュージョン"
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-09-25-07-03-49.png"

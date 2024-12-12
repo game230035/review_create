@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]ゼルダの伝説 神々のトライフォース 2"
+title: "[攻略]ゼルダの伝説 神々のトライフォース2"
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-11-24-18-04-05.png"

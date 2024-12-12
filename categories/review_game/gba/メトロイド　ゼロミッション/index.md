@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]メトロイド ゼロミッション"
+title: "[攻略]メトロイド ゼロミッション"
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-09-28-08-08-25.png"

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[レビュー＆攻略]ロックマンX"
+title: "[攻略]ロックマンX"
 categories: [review_game]
 tags: []
-thumbnail: ""
+thumbnail: "./images/2024-12-13-00-20-29.png"
 toc: true
 ---
 

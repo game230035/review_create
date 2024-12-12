@@ -150,14 +150,85 @@ h6:before {
     list-style-type: none
 }
 
-.wrapper {
+/**
+ * Wrapper
+ */
+ .wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+  
+    @include media-query($on-laptop) {
+      max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+      max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+      padding-right: calc($spacing-unit / 2);
+      padding-left: calc($spacing-unit / 2);
+    }
+ 
     background-color: rgba(180, 239, 219, 0.601);
     padding-top: 30px;
 }
 
-.page-content {
-    padding: 0;
+.header-wrapper {
+    max-width: 1060px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+  
+    @include media-query($on-laptop) {
+      max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+      max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+      padding-right: calc($spacing-unit / 2);
+      padding-left: calc($spacing-unit / 2);
+    }
+ 
+    background-color: rgba(180, 239, 219, 0.601);
+    padding-top: 30px;
 }
+
+.defaultpage-wrapper {
+    display: flex;
+    justify-content: center; /* 中央揃え */
+    overflow-x: auto; /* 横スクロールを許可 */
+}
+
+.defaultpage-container {
+    display: flex;
+    flex-direction: row; /* 横並び */
+    width: 1120px; /* 固定幅を設定（必要に応じて調整） */
+    background-color: rgba(180, 239, 219, 0.601);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 影 */
+    overflow: hidden; /* コンテンツがはみ出さないようにする */
+}
+
+.main-container {
+    width: 70%; /* 本文の幅を固定（全体の70%） */
+    padding: 10px;
+    background-color: rgba(180, 239, 219, 0.601);
+}
+
+.sidebar-container {
+    width: 30%; /* サイドバーの幅を固定（全体の30%） */
+    padding: 10px;
+    background-color: rgba(180, 239, 219, 0.601);
+}
+
+
+// .main-content {
+//     padding: 0;
+//     flex: 4;
+//     padding: 0px;
+
+//     padding: $spacing-unit 0;
+//     margin-right: 0;
+//     // flex: 1;
+// }
 
 .centered-image {
     display: block;
@@ -208,6 +279,9 @@ h6:before {
     cursor: pointer;
 }
 
+#content {
+    display: flex;
+}
 
 
 /* ボタンのスタイル */
@@ -229,4 +303,25 @@ h6:before {
 /* ボタンがホバーされたとき */
 #backToTop:hover {
     background-color: #0056b3;
+}
+
+
+
+#sidebar h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+#sidebar ul li {
+    margin-bottom: 5px;
+}
+
+#sidebar ul li a {
+    text-decoration: none;
+    color: #333;
 }
