@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024年　明けましておめでとうございます"
-categories: [review_bussiness]
+categories: [about]
 tags: []
 thumbnail: "./images/2024-01-07-17-43-39.png"
 ---

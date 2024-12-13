@@ -47,17 +47,12 @@
         {%- endfor -%}
     </div>
 <br>
-<h2>Navigation</h2>
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/blog/">Blog</a></li>
-    </ul>
-
-    <h2>Categories</h2>
-    <ul>
-        {% for category in site.categories %}
-        <li><a href="{{ site.baseurl }}/categories/{{ category[0] }}">{{ category[0] }}</a></li>
-        {% endfor %}
-    </ul>
+    <h2>カテゴリー</h2>
+    <div class="sidebar-contants">
+        ・<a href="{{ site.baseurl }}/categories/about/" target="_blank">このブログについて</a><br>
+        ・規約など<br>
+        ・制作ゲーム<br>
+        ・プログラムメモ<br>
+        ・ゲーム攻略<br>
+    </div>
 </div>
