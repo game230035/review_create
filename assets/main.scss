@@ -174,7 +174,7 @@ h6:before {
 }
 
 .header-wrapper {
-    max-width: 1060px;
+    max-width: 1140px;
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -201,7 +201,7 @@ h6:before {
 .defaultpage-container {
     display: flex;
     flex-direction: row; /* 横並び */
-    width: 1120px; /* 固定幅を設定（必要に応じて調整） */
+    width: 1200px; /* 固定幅を設定（必要に応じて調整） */
     background-color: rgba(180, 239, 219, 0.601);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 影 */
     overflow: hidden; /* コンテンツがはみ出さないようにする */
@@ -220,15 +220,19 @@ h6:before {
 }
 
 
-// .main-content {
-//     padding: 0;
-//     flex: 4;
-//     padding: 0px;
+.sidebar {
+    margin: 20px;
+}
 
-//     padding: $spacing-unit 0;
-//     margin-right: 0;
-//     // flex: 1;
-// }
+.sidebar-contants {
+    margin-left: 20px;
+}
+
+
+.sidebar-post-meta {
+    font-size: $s-small-font-size;
+    color: $grey-color;
+  }
 
 .centered-image {
     display: block;
@@ -307,21 +311,23 @@ h6:before {
 
 
 
-#sidebar h2 {
-    font-size: 1.2em;
-    margin-bottom: 10px;
-}
 
-#sidebar ul {
-    list-style: none;
-    padding: 0;
-}
 
-#sidebar ul li {
-    margin-bottom: 5px;
-}
+// #sidebar h2 {
+//     font-size: 1.2em;
+//     margin-bottom: 10px;
+// }
 
-#sidebar ul li a {
-    text-decoration: none;
-    color: #333;
-}
+// #sidebar ul {
+//     list-style: none;
+//     padding: 0;
+// }
+
+// #sidebar ul li {
+//     margin-bottom: 5px;
+// }
+
+// #sidebar ul li a {
+//     text-decoration: none;
+//     color: #333;
+// }

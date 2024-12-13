@@ -250,4 +250,9 @@
       @include relative-font-size(1.125);
     }
   }
+
+  p {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
 }
