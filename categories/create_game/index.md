@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "「このブログについて」の記事一覧"
-categories: [about]
+title: "「制作ゲーム」の記事一覧"
+categories: [create_game]
 tags: []
 thumbnail: ""
 ---

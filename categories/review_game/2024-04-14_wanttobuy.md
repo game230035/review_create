@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ゲーム購入攻略状況"
-categories: [create_game]
+categories: [review_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
 ---

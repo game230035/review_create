@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[プログラムメモ]スマホアプリの課金テスト"
-categories: [プログラムメモ]
+categories: [create_game]
 tags: []
 thumbnail: "./images/2024-01-09-09-06-39.png"
 ---

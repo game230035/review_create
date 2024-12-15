@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "活動進捗ページ"
-categories: [create_game]
+categories: [review_game]
 tags: []
 thumbnail: "./images/2024-09-16-20-00-18.png"
 toc: true

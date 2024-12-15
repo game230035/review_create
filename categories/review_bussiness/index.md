@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "「このブログについて」の記事一覧"
-categories: [about]
+title: "「規約など」の記事一覧"
+categories: [review_bussiness]
 tags: []
 thumbnail: ""
 ---

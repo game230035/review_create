@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[レビュー＆攻略]"
+title: "[攻略]"
 categories: [review_game]
 tags: []
 thumbnail: "./images/.png"
