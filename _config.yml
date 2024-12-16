@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 domain: game230035.github.io/
-url: https://game230035.github.io
+url: "https://game230035.github.io"
 baseurl: "/review_create" # the subpath of your site, e.g. /blog
 
 title: "review&create"
