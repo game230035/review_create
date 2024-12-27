@@ -25,36 +25,59 @@ permalink: /changelog/
 <hr>
 <br>
 
-
-
-
-
 <h2> 特集記事一覧 </h2>
-  <ul class="post-list">
-    {%- for path in page_paths -%}
-      <li>
-        {%- assign my_page = site.pages | where: "path", path | first -%}
-        
-        {%- if my_page.title and my_page.title != "" -%}
-        {%- unless my_page.categories contains "review_game" or my_page.categories contains "one_k" or my_page.categories contains "review_bussiness" -%}
-              {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
-              
-              <span class="post-meta">{{ my_page.date | date: date_format }}</span>
-              <h3>
-                <div class="post-link-home-title">
-                <a  href="{{ my_page.url | relative_url }}">
-                  {% if my_page.thumbnail and my_page.categories != "review_game" %}
-                    {% assign filename = my_page.path | split: "/" | last %}
-                    <img class="thumbnail" src="{{ my_page.path | remove: filename | append: my_page.thumbnail }}" alt="" />
-                  {% endif %}
-                  
-                  {{ my_page.title | escape }}
-                </a>
-              </div>
-              </h3>
-          {%- endunless -%}
-        {%- endif -%}
-      </li>
-    {%- endfor -%}
-  </ul>
+他の記事はサイドバーの「カテゴリー」より選んでください。  
+<h3>
+  <div class="post-link-home-title">
+    <a class="post-link" href="./categories/review_game/special_wanttobuy.html">
+      <img class="thumbnail" src="./categories/review_game/images/2024-01-29-13-32-40.png" alt="" />
+      ゲーム購入攻略状況
+
+    </a>
+  </div>
+  </h3>
+  
+<br>
+
+<h3>
+<div class="post-link-home-title">
+  <a class="post-link" href="./categories/about/2024-01-01_happynewyear.html">
+    <img class="thumbnail" src="./categories/about/images/2024-01-07-17-43-39.png" alt="" />
+    2024年　明けましておめでとうございます
+  </a>
+</div>
+</h3>
+
+<br>
+
+<h3>
+  <div class="post-link-home-title">
+    <a class="post-link" href="./categories/create_game/2024-01-09_sm_purchase.html">
+      <img class="thumbnail" src="./categories/create_game/images/2024-01-09-09-06-39.png" alt="" />
+      [プログラムメモ]スマホアプリの課金テスト
+    </a>
+  </div>
+</h3>
+
+<br>
+
+<h3>
+  <div class="post-link-home-title">
+    <a class="post-link" href="./categories/create_game/2024-01-01_appreview.html">
+      <img class="thumbnail" src="./categories/create_game/images/2024-12-18-12-41-22.png" alt="" />
+      ゲームリリースプラットフォーム リリース要件
+    </a>
+  </div>
+</h3>
+
+<br>
+
+<h3>
+<div class="post-link-home-title">
+  <a class="post-link" href="./categories/about/2023-11-28-init.html">
+    <img class="thumbnail" src="./categories/about/images/pose_kesshin_man.png" alt="" />
+    このサイトについて
+  </a>
+</div>
+</h3>
 </div>

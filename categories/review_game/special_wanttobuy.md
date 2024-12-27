@@ -4,124 +4,122 @@ title: "ゲーム購入攻略状況"
 categories: [review_game]
 tags: []
 thumbnail: "./images/2024-01-29-13-32-40.png"
+toc: true
 ---
 
-## ゲーム購入攻略状況　Ver2024年
+## ゲーム購入攻略状況
 
 <br>
 
-- [2024年のゲーム事情について](#2024年のゲーム事情について)
-- [筐体について](#筐体について)
-- [吸い出しついて](#吸い出しついて)
-- [SwitchのOnlineサービスでええやろ！という声について](#SwitchのOnlineサービスでええやろ！という声について)
-
-<br>
-<a href="#sfc">sfc</a> <a href="#gba">gba</a> 
-<br>
+#### iOS
 <table>
-    
      <tr style="background-color: #aaffaa;">
         <td>タイトル</td>
         <td>想定価格</td>
         <td>購入済</td>
         <td>攻略済</td>
-        <td>その他</td>
-    </tr>
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">iOS</th>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP</td>
         <td>3800円</td>
         <td><a href="https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA2-%E3%82%A4%E3%83%AB%E3%81%A8%E3%83%AB%E3%82%AB%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E9%8D%B5sp/id1496918059" target="_blank">商品リンク</a></td>
         <td>-</td>  
-        <td>
-        
-        </td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Dungeon Warfare</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td>
-        </td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Dungeon Warfare 2</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td>
-        </td>
     </tr>
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">Steam</th>
+</table>
+
+#### Steam
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>想定価格</td>
+        <td>購入済</td>
+        <td>攻略済</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>DARK SOULS リマスタード</td>
+        <td></td>
+        <td>◯</td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/steam/DARKSOULS REMASTERED/index.html" target="_blank">→</a></td>  
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>DARK SOULS 3</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
         <td>キャッスルヴァニア アドバンスコレクション</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>キャッスルヴァニア アドバンスコレクション</td>
         <td></td>
+        <td>◯</td>
+        <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
         <td>キャッスルヴァニア ドミナスコレクション</td>
         <td>2750円</td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ドラゴンクエストⅢ　HD-２D</td>
-        <td>7678円</td>
+        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>溶鉄のマルフーシャ</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
-    
     <tr style="background-color: #ffffff;">
         <td>Ghost of Tsushima DIRECTOR'S CUT</td>
         <td>7590円</td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Palworld / パルワールド</td>
-        <td>3400円</td>
-        <td>-</td>
-        <td>-</td>  
         <td></td>
+        <td>○</td>
+        <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
         <td>黒神話：悟空</td>
         <td>7590円</td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>都市伝説解体センター</td>
         <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>モンスターファーム1・2</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
+</table>
 
 
 
@@ -131,113 +129,102 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 
 
-
-
-
-
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;" id="sfc">スーパーファミコン</th>
+#### SFC
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>想定価格</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>トルネコの大冒険 不思議のダンジョン</td>
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/sfc/トルネコの大冒険/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ロックマンX</td>
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/sfc/ロックマンX/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ロックマンX2</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ロックマンX3</td>
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/review_rockmanx3/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>スーパーメトロイド</td>
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/sfc/スーパーメトロイド/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ドラゴンクエストⅢ</td>
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/sfc/ドラゴンクエスト3/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ダービースタリオンⅢ</td>
         <td></td>
         <td>◯</td>
         <td></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 神々のトライフォース</td>
         <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/sfc/ゼルダの伝説 神々のトライフォース/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>シャイニングスコーピオン</td>
         <td></td>
         <td>◯</td>
         <td></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>アクトレイザー</td>
-        <td>1000円</td>
+        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>THE FIREMEN ザ・ファイヤーメン</td>
         <td>5000円</td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>46億年物語</td>
         <td>8000円</td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
-    <tr style="background-color: #ffffff;">
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>  
-        <td></td>
+</table>
+
+
+
+
+
+
+
+#### SFC
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>想定価格</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
-
-
-
-
-
-
-
-
-
     <tr >
         <th style="background-color: #ffcc00; color: #000;" id="gba">ゲームボーイアドバンス</th>
     </tr>
@@ -381,269 +368,212 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td><a href="{{ site.baseurl }}/categories/review_game/gba/mrドリラー/index.html" target="_blank">→</a></td>  
         <td></td>
     </tr>
+</table>
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">ニンテンドーDS</th>
+#### ニンテンドーDS
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>想定価格</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>カードヒーロー(DS)</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ファンタシースター0</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>スーパーカセキホリダー</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>アナザーコード　2つの記憶</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>バイオハザード Deadly Silence</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイド プライム ピンボール</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説　大地の汽笛</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説　夢幻の砂時計</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ファミコンウォーズDS</td>
         <td>4300円</td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイド プライム ハンターズ</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ロックマンゼロコレクション</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>超操縦メカMG</td>
         <td></td>
         <td>◯</td>
-        <td>-</td>  
-        <td></td>
+        <td><a href="{{ site.baseurl }}/categories/review_game/ds/超操縦メカ MG/index.html" target="_blank">→</a></td>  
     </tr>
     <tr style="background-color: #ffffff;">
         <td>怪獣バスターズ　パワード</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
+</table>
 
 
 
-
-
-
-
-
-
-
-
-
-
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">ニンテンドー3DS</th>
+#### ニンテンドー3DS
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイド サムスリターンズ</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 神々のトライフォース2</td>
-        <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/3ds/ゼルダの伝説神々のトライフォース2/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 時のオカリナ</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 ムジュラの仮面</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>バイオハザード リベレーションズ</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>バイオハザード ザ・マーセナリーズ3D</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Hey!　ピクミン</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>キングダムハーツ　ドリームドロップディスタンス</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ルーンファクトリー4</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイドプライム フェデレーションフォース</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ドラクエ8</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>新・光神話　パルテナの鏡</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
         <tr style="background-color: #ffffff;">
         <td>SIMPLEシリーズ THE密室からの脱出</td>
-        <td>500円</td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/3ds/THE密室からの脱出/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
-        <tr style="background-color: #ffffff;">
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>  
-        <td></td>
-    </tr>
+</table>
 
 
-
-
-
-
-
-
-
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">GameCube</th>
+#### GameCube
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイドプライム2　ダークエコーズ</td>
-        <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ガチャフォース</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>PSO 1&2</td>
-        <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/gc/PSO/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
+</table>
 
 
 
 
-
-
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">Wii</th>
+#### Wii
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>想定価格</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイドプライム3　コラプション</td>
@@ -659,103 +589,87 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
         <td>-</td>  
         <td></td>
     </tr>
+</table>
 
 
-
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">Nintendo Switch</th>
+#### Nintendo Switch
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイド プライム リマスタード</td>
-        <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メトロイド ドレッド</td>
-        <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/switch/メトロイドドレッド/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 ブレスオブザワイルド</td>
-        <td></td>
         <td>◯</td>
         <td><a href="{{ site.baseurl }}/categories/review_game/switch/ゼルダの伝説ブレスオブザワイルド/index.html" target="_blank">→</a></td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説　ティアーズオブキングダム</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 スカイウォードソード HD</td>
-        <td></td>
-        <td>-</td>
+        <td>○</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 夢をみる島</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゼルダの伝説 知恵のかりもの</td>
-        <td></td>
         <td>○</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ゴーストトリック</td>
-        <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Pikmin 1+2</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Pikmin 3　デラックス</td>
-        <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Pikmin 4</td>
-        <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>逆転裁判1・2・3</td>
-        <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>逆転裁判4・5・6</td>
+        <td>○</td>
+        <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
         <td>逆転検事1&2</td>
-        <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
+</table>
 
 
 
@@ -765,83 +679,73 @@ thumbnail: "./images/2024-01-29-13-32-40.png"
 
 
 
-
-
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;">PlayStation1/2</th>
+#### PlayStation1・2
+<table>
+     <tr style="background-color: #aaffaa;">
+        <td>タイトル</td>
+        <td>想定価格</td>
+        <td>購入済</td>
+        <td>攻略済</td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>チョロQ3</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ロックマンX4</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>ロックマンDASH 鋼の冒険心</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
-    
-    
     <tr style="background-color: #ffffff;">
         <td>機動戦士ガンダム戦記</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>マックスペイン</td>
         <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>メダル オブ オナー ライジングサン</td>
         <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>タイムスプリッター ~時空の侵略者~</td>
         <td></td>
         <td>◯</td>
         <td>-</td>  
-        <td></td>
     </tr>
-
     <tr style="background-color: #ffffff;">
         <td>アヌビス ゾーン・オブ・エンダーズ</td>
         <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>アナザーセンチュリーズエピソード</td>
         <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
     <tr style="background-color: #ffffff;">
         <td></td>
         <td></td>
         <td>-</td>
         <td>-</td>  
-        <td></td>
     </tr>
 </table>
 <br>
