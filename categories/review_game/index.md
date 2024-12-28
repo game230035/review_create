@@ -16,9 +16,17 @@ thumbnail: ""
       <li>
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title and my_page.title != "" and my_page.categories == page.categories and my_page.url != current_url -%}
+
+          {% assign url_parts = my_page.url | split: '/' %}
+          {% assign last_two_parts = my_page.url | split: '/' | slice: -2, 2 | join: '/' %}
+
           <a  href="{{ my_page.url | relative_url }}">
             {% if my_page.thumbnail != "" %}
-              <img class="thumbnail" src="{{ my_page.thumbnail }}" alt="" />
+              {% if last_two_parts contains 'review_game' %}
+                <img class="thumbnail" src="{{ my_page.thumbnail }}" alt="" />
+              {% else %}
+                <img class="thumbnail" src="{{last_two_parts}}/{{ my_page.thumbnail }}" alt="" />
+              {% endif %}
             {% endif %}
             
             {{ my_page.title | escape }}

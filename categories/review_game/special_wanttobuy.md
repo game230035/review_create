@@ -66,12 +66,6 @@ toc: true
         <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>キャッスルヴァニア アドバンスコレクション</td>
-        <td></td>
-        <td>◯</td>
-        <td>-</td>  
-    </tr>
-    <tr style="background-color: #ffffff;">
         <td>キャッスルヴァニア ドミナスコレクション</td>
         <td>2750円</td>
         <td>-</td>
@@ -615,7 +609,7 @@ toc: true
         <td><a href="{{ site.baseurl }}/categories/review_game/switch/ゼルダの伝説ブレスオブザワイルド/index.html" target="_blank">→</a></td>  
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>ゼルダの伝説　ティアーズオブキングダム</td>
+        <td>ゼルダの伝説 ティアーズオブキングダム</td>
         <td>◯</td>
         <td>-</td>  
     </tr>
@@ -645,7 +639,7 @@ toc: true
         <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
-        <td>Pikmin 3　デラックス</td>
+        <td>Pikmin 3 デラックス</td>
         <td>◯</td>
         <td>-</td>  
     </tr>
