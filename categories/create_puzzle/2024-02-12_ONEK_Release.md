@@ -8,7 +8,7 @@ thumbnail: "./images/2024-01-29-00-03-52.png"
 
 スマホアプリでリリースしている
 「ONE K」
-のプラットフォーム情報となります。
+の情報となります。
   
 <br>
   
@@ -21,18 +21,51 @@ thumbnail: "./images/2024-01-29-00-03-52.png"
 <br>
   
 ## iOS
-<img src="{{ './images/icon_ios.jpg' }}" alt="image" width="250" class="center-image"/>
+<!-- <img src="{{ './images/icon_ios.jpg' }}" alt="image" width="250" class="center-image"/> -->
   
 <br>
   
 ## Android
-<a class="post-link" href="https://play.google.com/store/apps/details?id=com.Combo.puzzle">
+<!-- <a class="post-link" href="https://play.google.com/store/apps/details?id=com.Combo.puzzle">
     <img src="{{ './images/icon_android.png' }}" alt="image" width="250" class="center-image"/>
-</a>
+</a> -->
   
 <br>
 <hr>
 <br>
+
+## ONE K アプリ情報
+#### unityroom
+###### タイトル
+ONE K
+<br>
+
+###### 紹介文
+2048風のパズルゲームです。  
+「2」、「4」、「8」、「16」と数字が書かれたブロックが落ちてくるので、  
+同じ数字のブロックを合体させてください！  
+そのブロック数字が合計され大きな数字のブロックとなります。  
+  
+そうして「1024」(このアプリでは1Kと呼びます)を目指してください！  
+  
+キミは１Kに到達できるか！！！  
+  
+★☆★unityroomではスタンダードモードのみご利用いただけます。★☆★  
+★☆★より面白いアドバンスモードはスマホ版をダウンロードしてください。★☆★  
+<br>
+
+###### 想定プレイ時間
+3分程度  
+<br>
+
+###### 操作方法
+■マウス操作
+マウスでの操作の場合、落下させたり列をクリックしてください。
+クリックした列にブロックがすぐに落下します。
+
+■キーボード操作
+キーボードの操作の場合、ブロックの左右は矢印キー「←」、「→」で行います。
+「↓」を押すと、ブロックがいる列にすぐに落下します。
 
 ## ONE K 記事一覧
 <ul class="post-list">
