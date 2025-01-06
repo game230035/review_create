@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[マジリキ]コース紹介"
-categories: [one_k]
+categories: [create_game]
 tags: []
 thumbnail: "./images/2024-12-04-22-22-09.png"
 ---

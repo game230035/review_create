@@ -123,7 +123,7 @@ toc: true
 
 
 
-#### SFC
+#### スーパーファミコン
 <table>
      <tr style="background-color: #aaffaa;">
         <td>タイトル</td>
@@ -211,16 +211,13 @@ toc: true
 
 
 
-#### SFC
+#### ゲームボーイアドバンス
 <table>
      <tr style="background-color: #aaffaa;">
         <td>タイトル</td>
         <td>想定価格</td>
         <td>購入済</td>
         <td>攻略済</td>
-    </tr>
-    <tr >
-        <th style="background-color: #ffcc00; color: #000;" id="gba">ゲームボーイアドバンス</th>
     </tr>
     <tr style="background-color: #ffffff;">
         <td>スーパーマリオブラザーズ</td>
@@ -459,6 +456,9 @@ toc: true
 
 
 
+
+
+
 #### ニンテンドー3DS
 <table>
      <tr style="background-color: #aaffaa;">
@@ -534,6 +534,11 @@ toc: true
 </table>
 
 
+
+
+
+
+
 #### GameCube
 <table>
      <tr style="background-color: #aaffaa;">
@@ -584,6 +589,9 @@ toc: true
         <td></td>
     </tr>
 </table>
+
+
+
 
 
 #### Nintendo Switch

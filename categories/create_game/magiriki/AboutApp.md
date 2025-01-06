@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[マジリキ]アプリ情報"
-categories: [review_game]
+categories: [create_game]
 tags: []
 thumbnail: "./images/.png"
 toc: true
