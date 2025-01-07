@@ -43,6 +43,12 @@ DSの機能をふんだんに使った冒険となる。
 <img src="{{ './images/2025-01-02-22-09-28.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 <img src="{{ './images/2025-01-02-22-36-21.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+  
+<img src="{{ './images/2025-01-06-16-14-28.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+  
+<img src="{{ './images/2025-01-06-16-14-38.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+  
+
 <br>
 
 ### 感想
