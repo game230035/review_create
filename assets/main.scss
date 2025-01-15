@@ -352,3 +352,12 @@ h6:before {
     background-color: #CC7A00;
     transform: translateY(-2px);
 }
+
+.modify {
+    font-size: 0.9em; /* フォントサイズを小さめに設定 */
+    font-weight: bold; /* 太字を無効化 */
+    margin: 10px; /* 上下のマージンを設定 */
+    padding: 12px;
+    background-color: rgb(71, 71, 71);
+    color: rgb(255, 255, 255); /* 色を薄めに設定 */
+}
