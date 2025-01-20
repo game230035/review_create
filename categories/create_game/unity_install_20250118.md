@@ -21,6 +21,13 @@ iOSアプリ用の設定メモです。
 テキストなどのUIに影をつけるライブラリ。  
 ふわっとした感じになる。  
 公式のはかなりダサいのでこちらを採用。  
+<img src="{{ './images/2025-01-20-14-16-08.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+before  
+↓  
+<img src="{{ './images/2025-01-20-14-16-26.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+after  
+  
+
 <iframe src="https://assetstore.unity.com/linkmaker/embed/package/205220/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>
 <br>
 
