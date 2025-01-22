@@ -17,42 +17,44 @@ iOSアプリ用の設定メモです。
 
 ## ライブラリ一覧
 
-###### True Shadow - UI Soft Shadow and Glow
+##### True Shadow - UI Soft Shadow and Glow
+  
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/205220/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>  
 テキストなどのUIに影をつけるライブラリ。  
 ふわっとした感じになる。  
 公式のはかなりダサいのでこちらを採用。  
-<img src="{{ './images/2025-01-20-14-16-08.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
-before  
-↓  
-<img src="{{ './images/2025-01-20-14-16-26.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+before
+<img src="{{ './images/2025-01-20-14-16-08.png' }}" alt="image" width="200" style="margin: auto;" />　→　
+<img src="{{ './images/2025-01-20-14-16-26.png' }}" alt="image" width="200" style="margin: auto;" />　
 after  
+<br>
   
 
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/205220/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>
+
 <br>
 
-###### Translucent Image - Fast UI Background Blur
+##### Translucent Image - Fast UI Background Blur
 ブラーをつけるライブラリ。  
 ポップアップとかで必要。  
 <iframe src="https://assetstore.unity.com/linkmaker/embed/package/78464/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>
 <br>
 
-###### AutoSave
+##### AutoSave
 ゲーム実行時に保存されていないSceneを保存してくれる。  
 ゲーム実行中にUnityがクラッシュしてSceneが保存されていないときの絶望から救ってくれる必須ライブラリ。  
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/43605/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/43605/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>  
 <br>
 
-###### Transitions Plus
+##### Transitions Plus
 Scene切替のアニメーションをリッチにするライブラリ。  
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/266067/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/266067/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>  
 <br>
 
-###### Hot Reload | Edit Code Without Compiling
+##### Hot Reload | Edit Code Without Compiling
 正直、評価数ほど便利とは思えない。  
 もしくは使いこなせていないだけなのか。  
 まぁ、簡単なプログラム修正であれば、かなり役になっているライブラリ。  
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/254358/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/254358/widget-wide?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>  
 <br>
 
 ## 設定

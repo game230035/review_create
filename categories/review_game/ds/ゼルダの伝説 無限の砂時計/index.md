@@ -59,14 +59,41 @@ DSの機能をふんだんに使った冒険となる。
 海図をゲットしたら船へ  
 <br>
 
+##### 船
+ゲットした地図にて、画面をこすって、印を浮き立たせる。  
+海へ  
+<br>
 
 #### 炎の神殿攻略まで
-##### 船
-ゲットした地図にて、画面を擦って、印を浮き立たせる。  
+##### 海上
 次の目的地となる火の島へ。  
 テリー船や大砲島は無視しても良い。  
-<img src="{{ './images/2025-01-02-22-09-28.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+敵の出現で、ジャンプが必要なので注意。  
 
+<br>
+
+##### 火の島
+占い師フォーチュンの家の地下へ  
+戦闘となり、その後、フォーチュンがいる部屋の前でDSに向かって叫ぶ。  
+燭台の場所については、  
+一つはカシヅクの家にあるので注意。  
+
+##### 炎の神殿
+
+###### マップ
+<img src="{{ './images/2025-01-22-09-05-08.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-22-09-05-22.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-22-09-05-27.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2025-01-22-09-05-33.png' }}" alt="image" width="230" style="margin: auto;" />　
+途中、スイッチが見えない場所にあるとかは注意  
+<img src="{{ './images/2025-01-22-09-06-38.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+###### 取得アイテム:ブーメラン
+<img src="{{ './images/2025-01-02-22-09-28.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+###### ボス:
 
 #### 風の神殿攻略まで
 
