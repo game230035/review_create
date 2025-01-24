@@ -161,9 +161,46 @@ DSの機能をふんだんに使った冒険となる。
 ##### 船
 ゲットした地図にて、DSに息を吹きかけて、ホコリを取る  
 海へ  
+北西の海域（今より北の海）経の進むことになるが、  
+そのまま北に進むと竜巻に巻き込まれる。  
+<img src="{{ './images/2025-01-24-13-12-02.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
+岩の方から行こうとすると岩がじゃまで進めない。  
+<img src="{{ './images/2025-01-24-13-13-05.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
+なので大砲島に行って大砲を着けてもらう。  
+<br>
+
+##### 大砲島
+初回は島を一周する必要があり、ミニダンジョンとなっている。  
+一部岩を壊すタイミングがかなりシビアな場所がある気がする。
+<img src="{{ './images/2025-01-24-13-14-06.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<br>
+大砲は50ルピーで購入。  
+<br>
+
+##### 海
+大砲を付けたら、海の大岩のところへ行き、破壊して進んでいく。  
+とすぐに、幽霊船に出会うので、後を追う。  
+※追っても、深い霧で進めなくなるので、追わずに  
+次のモルデ島に行ったほうが良いかもしれないが。。。フラグが立つか不明。  
+<img src="{{ './images/2025-01-24-13-19-44.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-24-13-19-58.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+##### モルデ島
+モルデ島で情報収集。  
+霧の海域の船ルートをゲットできる。  
+<img src="{{ './images/2025-01-24-13-22-34.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-24-13-23-14.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-24-13-24-04.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+調査中にスコップをゲット。  
 <img src="{{ './images/2025-01-06-16-14-28.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
   
 ##### 風の神殿
 ###### マップ
@@ -183,6 +220,19 @@ DSの機能をふんだんに使った冒険となる。
 <img src="{{ './images/2025-01-15-09-26-24.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 <img src="{{ './images/2025-01-22-09-22-29.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+
+
+
+
+
+
+
+
+
+<img src="{{ './images/2025-01-24-13-26-44.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+
+
+
 ### 感想
 
 <br>
