@@ -88,7 +88,7 @@ DSの機能をふんだんに使った冒険となる。
 
 ##### 炎の神殿
 ダンジョン途中、通常視点ではスイッチが見えない場所にあるので、注意  
-<img src="{{ './images/2025-01-22-09-06-38.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2025-01-22-09-06-38.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 <br>
 
 ###### マップ
@@ -176,7 +176,7 @@ DSの機能をふんだんに使った冒険となる。
 ##### 大砲島
 初回は島を一周する必要があり、ミニダンジョンとなっている。  
 一部岩を壊すタイミングがかなりシビアな場所がある気がする。
-<img src="{{ './images/2025-01-24-13-14-06.png' }}" alt="image" width="400" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2025-01-24-13-14-06.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 <br>
 大砲は50ルピーで購入。  
 <br>
@@ -200,10 +200,30 @@ DSの機能をふんだんに使った冒険となる。
 
 調査中にスコップをゲット。  
 <img src="{{ './images/2025-01-06-16-14-28.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+
+##### 海
+北西の海域へ。
+霧の所はルート通りに行き、風の島へ。  
 <br>
   
+##### 風の島
+神殿に行くまでに、ミニダンジョン的なものがある。  
+風の力を利用して、大ジャンプしたり、  
+風車のオブジェクトは、特定のものだけ動かす。  
+DSに息を吹きかける。  
+<img src="{{ './images/2025-01-27-09-00-08.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
 ##### 風の神殿
+この扉は、扉を正確にタップすると、そのまま開く。  
+この仕組みを理解するのが一番むずかしかった。。  
+<img src="{{ './images/2025-01-27-09-01-08.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+<br>
+
 ###### マップ
+<img src="{{ './images/2025-01-27-09-00-18.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-27-09-00-26.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-27-09-00-32.png' }}" alt="image" width="230" style="margin: auto;" />  
 <br>
 
 ###### 取得アイテム:バクダン
@@ -211,10 +231,47 @@ DSの機能をふんだんに使った冒険となる。
 <br>
 
 ###### ボス:
-
+<img src="{{ './images/2025-01-27-09-00-41.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+風が出来ている場所にボスを誘い込む。  
+タイミングよく、風の中にバクダンを投げると空中に上がるので、ボスに当てる。  
+ボスが落ちてきた所を攻撃。  
+<img src="{{ './images/2025-01-27-09-00-50.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+<br>
+知恵の妖精が仲間に。  
+<br>
   
 #### 勇気の神殿攻略まで
+##### ボヌン島(寄り道)
+人魚イベントとか、大砲的あてミニゲームがある。  
+ノルマクリアの報酬はバクダン袋  
+<img src="{{ './images/2025-01-27-09-31-41.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-27-09-31-47.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
+##### 名もなき島（寄り道だけど必須級のアイテムあり）
+地図には載っておらず、船で近くにいかないと出現しない島  
+謎解きがあり、解かないと洞窟に進めない。  
+ヒントはマップがある生き物になっており。  
+「お・しお・ひれ・め」と暗号を分けること。  
+<img src="{{ './images/2025-01-27-09-31-58.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-27-09-32-14.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-27-09-32-20.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+<img src="{{ './images/2025-01-27-09-32-30.png' }}" alt="image" width="230" style="margin: auto;" />　
+
+<br>
+羅針盤をゲット  
 <img src="{{ './images/2025-01-15-09-26-08.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+海上で金のカエルを撃ち落とすとマークを教えてくれる。  
+羅針盤にマークを書くと、その金のカエルの場所にワープできる。  
+マークの判定は結構シビア。ワープ先も海上なので、絶妙に使いづらい。  
+<img src="{{ './images/2025-01-27-09-32-36.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-27-09-39-44.png' }}" alt="image" width="230" style="margin: auto;" />  
+
+<br>
+
+##### 海王の神殿:B6まで
   
 <img src="{{ './images/2025-01-15-09-26-17.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <img src="{{ './images/2025-01-15-09-26-24.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
@@ -223,7 +280,8 @@ DSの機能をふんだんに使った冒険となる。
 
 
 
-
+<br>
+<img src="{{ './images/2025-01-27-08-59-41.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 
 
