@@ -34,6 +34,7 @@ thumbnail: "./images/2024-01-07-17-43-39.png"
 パズルゲーム「ワンケー」をリリースしました。  
 ただ、もうクローズしようと思います。  
 特に遊んでもらい無いということで。  
+ちょっとムナシイ感じがあり、ここは来年に活かしたいです。
 <br>
 
 ### 2.別にもう一本ゲームをリリースする。
@@ -50,6 +51,7 @@ thumbnail: "./images/2024-01-07-17-43-39.png"
 <br>
 マジリキをunityroomで10月に公開。  
 iOS版は12月年末に公開。  
+2025年は運営を頑張るということになりますが、遊んでいるユーザがいればというところですね。。  
 <br>
 
 ### 3.現在、本業として働いている会社を退職する。  
@@ -83,9 +85,14 @@ SESは悪く言われる風潮ですからね。
 
 なので結果としては  
 目標未達成ですが、良い方向に進んだと思います。今の仕事が続けられると良いんですけどね。  
+（この振り返りが一番長い。。）  
 <br>
 
-###### その他
+###### 総評とその他
+出すことは出せたけど、結果はもちろん振るわずで、微妙な年でした。  
+来年は次の段階を目指したいです。  
+<br>
+
 振り返り動画は以下  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CfFxEW-ySKo?si=b3qQBr08yGkSHhf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
