@@ -281,30 +281,39 @@ B1，B2はバクダンのおかげで、大幅ショートカット出来る。B
 ###### B4
 一見ややこしそうだけど、ファントム・アイをブーメランでピヨさせて倒していけば苦労はないフロア  
 バクダンやスコップで針ギミックを解除してカギをとれば、終了  
-カギの取得までは同じだが、ボムチュウがあれば左上の階段を使い、次のフロアで大幅ショートカットができる。
-<br>
+カギの取得までは同じだが、ボムチュウがあれば左上の階段を使い、次のフロアで大幅ショートカットができる。  
+<img src="{{ './images/2025-01-31-08-43-25.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+  
+1つ目のスイッチだけチョット分かりにくい  
+<img src="{{ './images/2025-01-31-08-48-42.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 ###### B5
 一風変わって、敵との戦闘フロア  
 2回強制バトルがあり、時間も意識してるので焦るが、砂の補充もあるので落ち着いて。  
 前のフロアで左上の階団から来ている場合は、バトルが無く、大幅ショートカットができる。  
+<img src="{{ './images/2025-01-31-08-51-33.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### B6
 ややこしいフロア。  
 何をしたら良いのかというところ。  
+<img src="{{ './images/2025-01-31-08-52-16.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 答えとしては、中央の赤い扉に記号を書くと進める。  
 記号については、フロアに石碑があるので、その指示する順で線を結んだものとなります。  
 なので、記号を知っていたら、すぐ進めるフロアだが、  
-今回覚えた記号はもう使わない！？
-次くるタイミングでは、別の記号を使うと思う。
+今回覚えた記号はもう使わない！？次くるタイミングでは、別の記号を使うと思う。  
+<img src="{{ './images/2025-01-31-08-52-28.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 <br>
 
 ###### 太陽の石碑の間
 謎解きすれば、次に進む場所が分かる。  
+<img src="{{ './images/2025-01-31-08-53-12.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+<br>
+
 「海図を開き　ここに合わせよ」  
 ということですが、分かります？  
 個人的には、このゲームで一番の難解ポイントでした。  
+<img src="{{ './images/2025-01-31-08-53-38.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 <br>
 答えは、リアルでDSの蓋を閉じて、上画面と下画面をくっつけるというもの。  
 考えた人、天才でしょ。  
@@ -314,33 +323,50 @@ B1，B2はバクダンのおかげで、大幅ショートカット出来る。B
   
 ##### 大砲島
 このまま、海王の神殿で指定されたポイントに行っても何も無い、目的は海中となる  
+<img src="{{ './images/2025-01-31-09-19-36.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 大砲島でサルベージアームを取り付けられるので、向かう。  
 今回は師匠のところへはショートカットで、すぐ行ける。  
 DSのマイクに叫んだ音量に応じて、購入価格が異なる。  
+<img src="{{ './images/2025-01-31-09-14-52.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 <br>
 
 ##### 海上
 海王の神殿で指定されたポイントに行き、サルベージをして、太陽のカギをゲット。  
+<img src="{{ './images/2025-01-15-09-26-17.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 同じ模様があった、モルデ島に向かうが。。  
 島に着く前に、海上でのボス戦となる。  
+<img src="{{ './images/2025-01-31-09-22-21.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 航路を決めながら、ひたすらボスの目をめがけて大砲を撃つ。  
 ボスの近くに行くと、近距離でハメ攻撃くらうので注意。  
-<img src="{{ './images/2025-01-15-09-26-17.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+
 <br>
 
 ##### モルデ島
 地下に行き、太陽の扉を開けて、先に進む。  
+<img src="{{ './images/2025-01-31-09-23-10.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 そういえばマップの北に神殿があるなと。。  
 神殿前の閉ざされた扉は、ビームを出すモアイ像の向きを変える。  
 一番左のモアイはブーメランなどで攻撃して起動する。  
-
+<img src="{{ './images/2025-01-31-09-23-17.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
 
 
 
 ##### 勇気の神殿
+###### マップ
+<img src="{{ './images/2025-01-31-10-24-36.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-31-10-24-09.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-01-31-10-24-46.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2025-01-31-10-24-26.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
 
+###### 取得アイテム:弓矢
 <img src="{{ './images/2025-01-15-09-26-24.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
+
+###### ボス:ブレイズ
+<img src="{{ './images/2025-01-31-10-27-14.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
+
 
 ##### 幽霊船
 

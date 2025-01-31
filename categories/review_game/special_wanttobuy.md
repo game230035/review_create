@@ -56,7 +56,7 @@ toc: true
     <tr style="background-color: #ffffff;">
         <td>DARK SOULS 3</td>
         <td></td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
@@ -653,7 +653,7 @@ toc: true
     </tr>
     <tr style="background-color: #ffffff;">
         <td>Pikmin 4</td>
-        <td>-</td>
+        <td>◯</td>
         <td>-</td>  
     </tr>
     <tr style="background-color: #ffffff;">
