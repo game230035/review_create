@@ -116,9 +116,8 @@ DSの機能をふんだんに使った冒険となる。
 
 ##### 海王の神殿:B3まで
 砂時計をゲット  
-<img src="{{ './images/2025-01-02-22-36-21.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 ファントムから攻撃を受けると、30秒時間が減る。  
-
+<img src="{{ './images/2025-01-02-22-36-21.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### B1
@@ -133,8 +132,8 @@ DSの機能をふんだんに使った冒険となる。
 ファントムの後ろの引くスイッチで、進路上の炎が消える。  
 クリスタルスイッチを叩くと、ファントムに気付かれる。  
 2つ叩くと、カギが出現するが、それぞれのスイッチ時限性なので注意。  
-バクダンがあれば、フロアに着いて真っすぐ進んだ場所（壁に目印はなく、反対側の床に目印がある）  
-をバクダンで破壊できてショートカットできる。  
+ショートカットについては、バクダンがあれば、フロアに着いて真っすぐ進んだ場所（壁に目印はなく、反対側の床に目印がある）  
+をバクダンで破壊できる。  
 <img src="{{ './images/2025-01-24-09-18-32.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
   
 2つ目の炎はブーメランでスイッチを叩く。  
@@ -152,7 +151,7 @@ DSの機能をふんだんに使った冒険となる。
 ブーメランで攻撃するか、ギミックを解いて落とし穴を発動し、ファントムを落とす（何故かカギだけ残る）  
 ファントムに見つかると、祭壇に入れないので、トライフォース運んでいる最中は見つからないようにする。  
 今回はこのフロアで終了。  
-なお、カギ爪ロープがあれば、左上からいきなり別の階段口まで登れるので、大幅ショートカットできる。  
+ショートカットについては、カギ爪ロープがあれば、左上からいきなり別の階段口まで登れるので、大幅短縮できる。  
 <img src="{{ './images/2025-01-24-09-30-26.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
@@ -604,34 +603,89 @@ B6から降りてきた階段の真後ろに、丸いクリスタルが宝箱に
 
 #### ムトーの神殿攻略（深緑のハガネ）まで
 ##### 海王の神殿:B13まで
-B9でクリスタル
+B9でクリスタルの設置順を変えて、上の扉に入るとB10に移動できる。  
 <img src="{{ './images/2025-02-01-16-12-04.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### B10
+スイッチをONにして針などを除去しながら、中央の階段を目指す。  
+左のファントムがカギを持っている。  
+自分はアラートをわざとならして、カギ持ちファントムをおびき寄せて、ガキを奪った。  
+ここはショートカットは分からない。  
 <img src="{{ './images/2025-02-01-16-12-21.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 
 ###### B11
+右上、右下、左上、左下の4つのスイッチを押すと下に降りる階段の扉が開く。  
+ショートカットについては、  
+降りる階段は左右2つあるが、右の階段について、ハンマーを持っていると、B12以降で進めるようになる。  
 <img src="{{ './images/2025-02-01-16-19-06.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 <br>
 <img src="{{ './images/2025-02-01-16-19-23.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 
 ###### B12
+トライフォースを3つ集める。  
+一つは中央のファントム。  
+残り2つはマップ上部にある左右にある聖域の宝箱にある。  
+その部屋にそれぞれファントムがいるので慎重に運ぶ。  
 <img src="{{ './images/2025-02-01-16-19-39.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 ###### B13
-今回は地図を取るだけなので、マップ省略
+今回は地図を取るだけなので、マップ省略  
+  
+北東の海図をゲット。  
+<br>
 
-##### 海王の神殿
+##### 海上
+北東の海へ行く。  
+敵海賊船がおおく出現して、船の体力が辛い。  
+南東の島を経由して、セーブしながら言ったほうが良いかも。  
+左下の島へは入れないので、まずは右上の死者の島へ。  
+<img src="{{ './images/2025-02-03-16-19-47.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+<br>
+
+##### 死者の島
+マップが王冠を被っている人の横顔になっているとのこと。  
+目的としては、マップ右上のピラミッドに行く。  
+ただ、内部は部屋がループ仕様になっているので、正しい道順で進む必要がある。  
+道順は島のマップ左上で解読できる。  
+第4の騎士ガリスがいて、その奥の宝箱から王家の首飾りをゲット。  
+これで東北の海にて、左下の島に入れるようになる。  
+<img src="{{ './images/2025-02-03-16-21-00.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+<br>
+
+##### 遺跡島
+ハガネがある神殿ムトーの神殿があるが、たどり着くまでにも島全体がミニダンジョン化している。  
+ムトーの神殿は画像のマップのリンクがいる金色のピラミッドとなる。  
+他、ピラミッドが3つあり、  
+左上→右上→左上（2回目）→右下のピラミッドの順で経由する。  
+主なギミックは、水を抜いて進み、扉に紋章を書くこと。  
+神殿前の扉はその前にいる敵を全滅させること。  
+<img src="{{ './images/2025-02-03-16-29-09.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-02-03-16-29-23.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-02-03-16-31-46.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
 ##### ムトーの神殿
+<img src="{{ './images/2025-02-03-19-00-08.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2025-02-03-19-00-18.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+<img src="{{ './images/2025-02-03-19-00-23.png' }}" alt="image" width="300" style="display: block; margin: auto;"/>  
+
 ###### マップ
+<img src="{{ './images/2025-02-03-18-59-05.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-02-03-18-59-13.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-02-03-18-59-25.png' }}" alt="image" width="230" style="margin: auto;" />  
+<img src="{{ './images/2025-02-03-18-59-37.png' }}" alt="image" width="230" style="margin: auto;" />　
+<img src="{{ './images/2025-02-03-18-59-45.png' }}" alt="image" width="230" style="margin: auto;" />  
+<br>
+
 ###### 取得アイテム:
-###### ボス:
 <img src="{{ './images/2025-02-01-10-55-09.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
+<br>
 
-
+###### ボス:オーイス
+<img src="{{ './images/2025-02-03-19-01-00.png' }}" alt="image" width="500" style="display: block; margin: auto;"/>  
 
 ##### 海王の神殿:B13
 
