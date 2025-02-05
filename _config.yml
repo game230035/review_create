@@ -47,7 +47,7 @@ plugins:
 # their entries' file path in the `include:` list.
 include:
   - categories
-  - sitemap.xml
+
 #
 # exclude:
 #   - .sass-cache/
