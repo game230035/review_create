@@ -54,6 +54,7 @@ jobs:
         with:
           name: github-pages
           path: _site
+          if-no-files-found: error
 
   deploy:
     environment:
@@ -67,6 +68,12 @@ jobs:
         with:
           name: github-pages
           path: _site
+
+      - name: Check downloaded _site directory
+        run: |
+          echo "Checking downloaded _site directory..."
+          ls -la _site || echo "_site directory not found after download!"
+          du -sh _site || echo "_site is empty after download!"
 
       - name: Deploy to GitHub Pages
         id: deployment
