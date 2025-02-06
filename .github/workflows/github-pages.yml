@@ -52,7 +52,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages
+          name: jekyll-site
           path: _site
           if-no-files-found: error
 
@@ -66,7 +66,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: github-pages
+          name: jekyll-site
           path: _site
 
       - name: Check downloaded _site directory
@@ -77,4 +77,5 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
+        if: success()
         uses: actions/deploy-pages@v2
