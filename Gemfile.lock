@@ -323,6 +323,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-last-modified-at
   jekyll-seo-tag
+  jekyll-sitemap
   jekyll-toc
   minima (= 2.5.1)
   public_suffix (= 4.0.7)

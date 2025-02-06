@@ -35,8 +35,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-last-modified-at
   - jekyll-toc
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -47,14 +49,13 @@ plugins:
 # their entries' file path in the `include:` list.
 include:
   - categories
-
 #
 # exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/

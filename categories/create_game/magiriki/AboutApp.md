@@ -7,11 +7,6 @@ thumbnail: "./images/2025-01-07-21-25-53.png"
 toc: true
 ---
 
-### タイトル
-マジリキ  
-Magical Liquid  
-MAGILQ  
-<br>
 
 ### アプリアイコン
 <img src="{{ './images/icon.png' }}" alt="image" width="200" style="display: block; margin: auto;"/>  
@@ -35,8 +30,4 @@ MAGILQ
 色付きのぷにぷにブロックを1つにしよう！  
 画面をスワイプしてブロックを操作して、同じ色のブロックを組み合わせて消してください。  
 1コース5ステージあり、他のプレイヤーより、最短でのクリアを目指そう！  
-<br>
-Combine the colorful squishy blocks into one!  
-Swipe the screen to move the blocks and merge blocks of the same color to make them disappear.  
-Each course has 5 stages.  
 <br>

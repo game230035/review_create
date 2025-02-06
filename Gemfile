@@ -21,6 +21,7 @@ gem 'public_suffix', '4.0.7'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
+  gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
   gem "jekyll-last-modified-at"
   gem 'jekyll-toc'
